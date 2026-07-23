@@ -54,6 +54,7 @@ Engineering applications highlighting core artificial intelligence integrations,
 
 | Repository Name | Description | Key Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
+| [`ai-teaching-coach`](https://github.com/vivekrana-031122/ai-teaching-coach) | Personal Bilingual Teaching Coach ("Agent 1") powered by Gemini API | FastAPI, HTML/CSS/JS, Google Gemini API | [View Repository](https://github.com/vivekrana-031122/ai-teaching-coach) |
 | [`rag-pdf-chatbot`](https://github.com/vivekrana-031122/rag-pdf-chatbot) | Secure FastAPI/Streamlit RAG PDF chatbot with FAISS persistence | FastAPI, Streamlit, LangChain, FAISS | [View Repository](https://github.com/vivekrana-031122/rag-pdf-chatbot) |
 | [`yolo-traffic-monitor`](https://github.com/vivekrana-031122/yolo-traffic-monitor) | YOLOv8 real-time vehicle detection and dashboard diagnostics | Ultralytics YOLO, OpenCV, Streamlit | [View Repository](https://github.com/vivekrana-031122/yolo-traffic-monitor) |
 | [`ml-prediction-models`](https://github.com/vivekrana-031122/ml-prediction-models) | ML forecasting engines for IPL cricket matches & stock price trends | scikit-learn, pandas, numpy | [View Repository](https://github.com/vivekrana-031122/ml-prediction-models) |
