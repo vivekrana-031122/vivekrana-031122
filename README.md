@@ -30,6 +30,38 @@ I am a Python developer and AI engineer passionate about developing **scalable, 
 
 ---
 
+## 🕷️ Professional Web Scraping & Data Extraction Portfolio
+
+A collection of production-grade web crawlers, quick commerce scrapers, and data extraction engines showcasing advanced parsing, anti-bot bypass strategies (headers/cookies/playwright-stealth), and database persistence (SQLite/MySQL).
+
+| Repository Name | Description | Key Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| [`scraper-zepto-pdp`](https://github.com/vivekrana-031122/scraper-zepto-pdp) | Scrapy-based Zepto product detail page scraper | Scrapy, PyMySQL, SQLite | [View Repository](https://github.com/vivekrana-031122/scraper-zepto-pdp) |
+| [`scraper-myntra-pincode`](https://github.com/vivekrana-031122/scraper-myntra-pincode) | Geographically localized Myntra product price & stock crawler | Scrapy, Cloudscraper, SQLite | [View Repository](https://github.com/vivekrana-031122/scraper-myntra-pincode) |
+| [`scraper-flipkart-minutes`](https://github.com/vivekrana-031122/scraper-flipkart-minutes) | Playwright Stealth scraper for Flipkart Minutes brands | Playwright, BeautifulSoup4 | [View Repository](https://github.com/vivekrana-031122/scraper-flipkart-minutes) |
+| [`scraper-swiggy-instamart`](https://github.com/vivekrana-031122/scraper-swiggy-instamart) | Search-engine fallback Swiggy Instamart image resolver | Playwright, BeautifulSoup4 | [View Repository](https://github.com/vivekrana-031122/scraper-swiggy-instamart) |
+| [`scraper-1mg-reviews`](https://github.com/vivekrana-031122/scraper-1mg-reviews) | Concurrent HTTPX crawler with Semaphore rate limiting | HTTPX, Asyncio | [View Repository](https://github.com/vivekrana-031122/scraper-1mg-reviews) |
+| [`scraper-healthcare-products`](https://github.com/vivekrana-031122/scraper-healthcare-products) | Medicine catalog crawler (Tata 1mg, Apollo, PharmEasy) | HTTPX, Pandas | [View Repository](https://github.com/vivekrana-031122/scraper-healthcare-products) |
+| [`scraper-ecommerce-keywords`](https://github.com/vivekrana-031122/scraper-ecommerce-keywords) | Search term visibility tracker (Amazon, Noon, BigBasket) | Playwright, Requests | [View Repository](https://github.com/vivekrana-031122/scraper-ecommerce-keywords) |
+| [`scraper-nykaa-brands`](https://github.com/vivekrana-031122/scraper-nykaa-brands) | Selenium crawler with SQLite caching and Excel exports | Selenium, SQLite, openpyxl | [View Repository](https://github.com/vivekrana-031122/scraper-nykaa-brands) |
+| [`scraper-retail-pdp`](https://github.com/vivekrana-031122/scraper-retail-pdp) | Parallel catalog scraper for Amazon & Flipkart with Captcha resolver | Scrapy, Requests, SQLite | [View Repository](https://github.com/vivekrana-031122/scraper-retail-pdp) |
+
+---
+
+## 🤖 Machine Learning, AI & Data Engineering Portfolio
+
+Engineering applications highlighting core artificial intelligence integrations, Retrieval-Augmented Generation (RAG) endpoints, and data processing utilities.
+
+| Repository Name | Description | Key Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| [`rag-pdf-chatbot`](https://github.com/vivekrana-031122/rag-pdf-chatbot) | Secure FastAPI/Streamlit RAG PDF chatbot with FAISS persistence | FastAPI, Streamlit, LangChain, FAISS | [View Repository](https://github.com/vivekrana-031122/rag-pdf-chatbot) |
+| [`yolo-traffic-monitor`](https://github.com/vivekrana-031122/yolo-traffic-monitor) | YOLOv8 real-time vehicle detection and dashboard diagnostics | Ultralytics YOLO, OpenCV, Streamlit | [View Repository](https://github.com/vivekrana-031122/yolo-traffic-monitor) |
+| [`ml-prediction-models`](https://github.com/vivekrana-031122/ml-prediction-models) | ML forecasting engines for IPL cricket matches & stock price trends | scikit-learn, pandas, numpy | [View Repository](https://github.com/vivekrana-031122/ml-prediction-models) |
+| [`scraper-agency-data-uploaders`](https://github.com/vivekrana-031122/scraper-agency-data-uploaders) | Dynamic Excel-to-MySQL database ingestion pipeline | pandas, PyMySQL, SQLAlchemy | [View Repository](https://github.com/vivekrana-031122/scraper-agency-data-uploaders) |
+| [`student-assignments`](https://github.com/vivekrana-031122/student-assignments) | Academic computational algorithms and python programming lab work | Python | [View Repository](https://github.com/vivekrana-031122/student-assignments) |
+
+---
+
 ## 🛠️ Technical Skill Matrix
 
 ```
