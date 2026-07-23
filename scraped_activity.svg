@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="barGrad" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#8a2be2" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#00f2fe" stop-opacity="0.9"/>
+    </linearGradient>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="4" stdDeviation="4" flood-color="#00f2fe" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="480" height="200" rx="12" fill="url(#bgGrad)" stroke="#30363d" stroke-width="1.5"/>
+
+  <!-- Header -->
+  <text x="24" y="32" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#f0f6fc" letter-spacing="1">SCRAPER ACTIVITY MONITOR</text>
+  <text x="24" y="48" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#8b949e">Asynchronous Crawler Load (Pages Scraped / Day)</text>
+  <circle cx="430" cy="28" r="4" fill="#39d353" filter="url(#shadow)"/>
+  <text x="440" y="31" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" fill="#39d353" font-weight="bold">ONLINE</text>
+
+  <!-- Grid Lines -->
+  <line x1="50" y1="70" x2="440" y2="70" stroke="#21262d" stroke-dasharray="2 2"/>
+  <line x1="50" y1="115" x2="440" y2="115" stroke="#21262d" stroke-dasharray="2 2"/>
+  <line x1="50" y1="160" x2="440" y2="160" stroke="#30363d"/>
+
+  <!-- Graph Plotting -->
+  
+  <!-- Bar 0 -->
+  <rect x="75" y="74" width="30" height="86" rx="4" fill="url(#barGrad)"/>
+  <text x="90" y="68" font-family="monospace" font-size="8" fill="#58a6ff" text-anchor="middle" font-weight="bold">649</text>
+  <text x="90" y="176" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="10" fill="#8b949e" text-anchor="middle">Fri</text>
+  
+  <!-- Bar 1 -->
+  <rect x="127" y="107" width="30" height="53" rx="4" fill="url(#barGrad)"/>
+  <text x="142" y="101" font-family="monospace" font-size="8" fill="#58a6ff" text-anchor="middle" font-weight="bold">398</text>
+  <text x="142" y="176" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="10" fill="#8b949e" text-anchor="middle">Sat</text>
+  
+  <!-- Bar 2 -->
+  <rect x="179" y="70" width="30" height="90" rx="4" fill="url(#barGrad)"/>
+  <text x="194" y="64" font-family="monospace" font-size="8" fill="#58a6ff" text-anchor="middle" font-weight="bold">674</text>
+  <text x="194" y="176" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="10" fill="#8b949e" text-anchor="middle">Sun</text>
+  
+  <!-- Bar 3 -->
+  <rect x="231" y="122" width="30" height="38" rx="4" fill="url(#barGrad)"/>
+  <text x="246" y="116" font-family="monospace" font-size="8" fill="#58a6ff" text-anchor="middle" font-weight="bold">292</text>
+  <text x="246" y="176" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="10" fill="#8b949e" text-anchor="middle">Mon</text>
+  
+  <!-- Bar 4 -->
+  <rect x="283" y="126" width="30" height="34" rx="4" fill="url(#barGrad)"/>
+  <text x="298" y="120" font-family="monospace" font-size="8" fill="#58a6ff" text-anchor="middle" font-weight="bold">258</text>
+  <text x="298" y="176" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="10" fill="#8b949e" text-anchor="middle">Tue</text>
+  
+  <!-- Bar 5 -->
+  <rect x="335" y="87" width="30" height="73" rx="4" fill="url(#barGrad)"/>
+  <text x="350" y="81" font-family="monospace" font-size="8" fill="#58a6ff" text-anchor="middle" font-weight="bold">553</text>
+  <text x="350" y="176" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="10" fill="#8b949e" text-anchor="middle">Wed</text>
+  
+  <!-- Bar 6 -->
+  <rect x="387" y="106" width="30" height="54" rx="4" fill="url(#barGrad)"/>
+  <text x="402" y="100" font-family="monospace" font-size="8" fill="#58a6ff" text-anchor="middle" font-weight="bold">407</text>
+  <text x="402" y="176" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="10" fill="#8b949e" text-anchor="middle">Thu</text>
+  
+</svg>

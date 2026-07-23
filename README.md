@@ -90,6 +90,53 @@ Engineering applications highlighting core artificial intelligence integrations,
 
 ---
 
+## ⚙️ Automated Engineering Pipeline (Self-Updating Profile)
+
+This repository is powered by a fully automated Python scraper and visualization engine.
+
+### 🛠️ Architecture & How It Works
+```mermaid
+graph TD
+    A[GitHub Actions Cron Job] -->|Every 12h| B[scripts/generate_dashboard.py]
+    B -->|Fetch| C[Hacker News REST API]
+    B -->|Generate| D[scraped_activity.svg]
+    B -->|Update| E[README.md]
+    B -->|Append| F[activity_log.md]
+    E -->|Auto-Commit & Push| G[GitHub Repository]
+    D -->|Auto-Commit & Push| G
+    F -->|Auto-Commit & Push| G
+```
+
+1. **GitHub Actions Workflow:** [profile_dashboard.yml](file:///.github/workflows/profile_dashboard.yml) triggers on a cron schedule.
+2. **Python Scraper Engine:** [generate_dashboard.py](file:///scripts/generate_dashboard.py) uses only Python standard libraries to fetch trending tech stories without external dependencies.
+3. **SVG Visualizer:** Generates a custom-styled SVG representing daily crawler loads with modern gradients.
+4. **Log Verification:** Records execution metrics in [activity_log.md](file:///activity_log.md) to demonstrate automated proof of work.
+
+---
+
+<!-- DASHBOARD_START -->
+
+### 📊 Live Scraper Dashboard (Auto-updates every 12h)
+This section is automatically updated by a **GitHub Actions runner** that executes a custom Python scraper to pull trending articles from public endpoints.
+
+#### 📰 Trending Tech Headlines (Scraped from Hacker News)
+| Headline | Score | Scraped By |
+| :--- | :---: | :---: |
+| [Writing by hand is good for your brain](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your) | `313 pts` | `@dwwoelfel` |
+| [Software rendering in 500 lines of bare C++](https://haqr.eu/tinyrenderer/) | `106 pts` | `@mpweiher` |
+| [Astronomers may have found the first exomoon](https://www.eso.org/public/news/eso2610/) | `118 pts` | `@MarcoDewey` |
+| [Learn OpenGL, extensive tutorial resource for learning Modern OpenGL](https://learnopengl.com/) | `64 pts` | `@ibobev` |
+| [Startup founders urge Trump not to shut off Chinese open weight AI](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992) | `247 pts` | `@theanonymousone` |
+
+<p align="center">
+  <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
+</p>
+
+*Last automated pipeline execution: `2026-07-23 16:58:27 UTC`*
+<!-- DASHBOARD_END -->
+
+---
+
 ## 📨 Connect With Me
 *   **LinkedIn:** [linkedin.com/in/vivek-rana-2899b8292](https://linkedin.com/in/vivek-rana-2899b8292)
 *   **GitHub:** [github.com/vivekrana-031122](https://github.com/vivekrana-031122)

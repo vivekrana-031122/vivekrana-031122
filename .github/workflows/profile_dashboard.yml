@@ -1,0 +1,41 @@
+name: Live Profile README Dashboard
+
+on:
+  schedule:
+    - cron: '0 */12 * * *' # Runs every 12 hours
+  workflow_dispatch: # Allows manual trigger from GitHub UI
+
+permissions:
+  contents: write # Grants write permissions to push changes back to the repo
+
+jobs:
+  update-dashboard:
+    runs-on: ubuntu-latest
+    name: 📊 Update Live Dashboard
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run Dashboard Generator Scraper
+        run: python scripts/generate_dashboard.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # Check if there are modified files
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "Changes detected, committing..."
+            git add README.md scraped_activity.svg activity_log.md
+            git commit -m "chore: auto-update profile scraper dashboard [skip ci]"
+            git push
+          else
+            echo "No changes detected. Skipping commit."
+          fi
