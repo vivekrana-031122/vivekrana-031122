@@ -122,17 +122,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Writing by hand is good for your brain](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your) | `314 pts` | `@dwwoelfel` |
-| [Software rendering in 500 lines of bare C++](https://haqr.eu/tinyrenderer/) | `106 pts` | `@mpweiher` |
-| [Astronomers may have found the first exomoon](https://www.eso.org/public/news/eso2610/) | `118 pts` | `@MarcoDewey` |
-| [Learn OpenGL, extensive tutorial resource for learning Modern OpenGL](https://learnopengl.com/) | `64 pts` | `@ibobev` |
-| [Startup founders urge Trump not to shut off Chinese open weight AI](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992) | `250 pts` | `@theanonymousone` |
+| [Writing by hand is good for your brain](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your) | `319 pts` | `@dwwoelfel` |
+| [Software rendering in 500 lines of bare C++](https://haqr.eu/tinyrenderer/) | `107 pts` | `@mpweiher` |
+| [Astronomers may have found the first exomoon](https://www.eso.org/public/news/eso2610/) | `119 pts` | `@MarcoDewey` |
+| [Learn OpenGL, extensive tutorial resource for learning Modern OpenGL](https://learnopengl.com/) | `67 pts` | `@ibobev` |
+| [Startup founders urge Trump not to shut off Chinese open weight AI](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992) | `255 pts` | `@theanonymousone` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-07-23 16:59:02 UTC`*
+*Last automated pipeline execution: `2026-07-23 17:01:11 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
