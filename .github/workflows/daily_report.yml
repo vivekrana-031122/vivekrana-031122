@@ -1,0 +1,46 @@
+name: Daily GitHub Report
+
+on:
+  schedule:
+    - cron: '30 2 * * *' # Runs daily at 8:00 AM IST (02:30 UTC)
+  workflow_dispatch: # Allows manual trigger to send a test email
+
+jobs:
+  send-report:
+    runs-on: ubuntu-latest
+    name: ✉️ Generate and Send Daily Report
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generate Daily Report Content
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_daily_report.py
+
+      - name: Read Email Metadata
+        id: metadata
+        run: |
+          SUBJECT=$(cat email_subject.txt)
+          echo "subject=$SUBJECT" >> $GITHUB_OUTPUT
+        shell: bash
+
+      - name: Send Daily Email Report
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465 # Secure SSL port
+          secure: true
+          username: ${{ secrets.SMTP_USERNAME }}
+          password: ${{ secrets.SMTP_PASSWORD }}
+          subject: ${{ steps.metadata.outputs.subject }}
+          to: dev.vivekrana@gmail.com
+          from: GitHub Actions Reporter <dev.vivekrana@gmail.com>
+          html_body: file://email_body.html
+          convert_markdown: false
