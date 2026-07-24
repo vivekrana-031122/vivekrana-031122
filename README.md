@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [98.css](https://jdan.github.io/98.css/#status-bar) | `312 pts` | `@lopespm` |
-| [Writing by hand is good for your brain](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your) | `1037 pts` | `@dwwoelfel` |
-| [The Visual 6502](http://visual6502.org/JSSim/index.html) | `66 pts` | `@infiniteregrets` |
-| [Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models](https://news.ycombinator.com/item?id=49026810) | `262 pts` | `@adam_rida` |
-| [The Beam Engine](https://glinscott.github.io/beam-engine/) | `197 pts` | `@glinscott` |
+| [My security camera shipped a GitHub admin token in its login page](https://hhh.hn/hanwha-github-token/) | `53 pts` | `@hhh` |
+| [Flux 3 X Mimic: The Next Generation of Video-Action Models](https://bfl.ai/blog/flux-3-mimic) | `202 pts` | `@kensai` |
+| [It's getting harder to focus every day](https://glyphack.com/attention/) | `318 pts` | `@peykar` |
+| [Flux 3](https://bfl.ai/blog/flux-3) | `428 pts` | `@ThouYS` |
+| [India's first privately-developed rocket reaches orbit on dramatic debut launch](https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/) | `47 pts` | `@sohkamyung` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-07-24 03:32:35 UTC`*
+*Last automated pipeline execution: `2026-07-24 14:03:00 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
