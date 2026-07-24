@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Writing by hand is good for your brain](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your) | `319 pts` | `@dwwoelfel` |
-| [Software rendering in 500 lines of bare C++](https://haqr.eu/tinyrenderer/) | `107 pts` | `@mpweiher` |
-| [Astronomers may have found the first exomoon](https://www.eso.org/public/news/eso2610/) | `119 pts` | `@MarcoDewey` |
-| [Learn OpenGL, extensive tutorial resource for learning Modern OpenGL](https://learnopengl.com/) | `67 pts` | `@ibobev` |
-| [Startup founders urge Trump not to shut off Chinese open weight AI](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992) | `255 pts` | `@theanonymousone` |
+| [98.css](https://jdan.github.io/98.css/#status-bar) | `312 pts` | `@lopespm` |
+| [Writing by hand is good for your brain](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your) | `1037 pts` | `@dwwoelfel` |
+| [The Visual 6502](http://visual6502.org/JSSim/index.html) | `66 pts` | `@infiniteregrets` |
+| [Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models](https://news.ycombinator.com/item?id=49026810) | `262 pts` | `@adam_rida` |
+| [The Beam Engine](https://glinscott.github.io/beam-engine/) | `197 pts` | `@glinscott` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-07-23 17:01:11 UTC`*
+*Last automated pipeline execution: `2026-07-24 03:32:35 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
