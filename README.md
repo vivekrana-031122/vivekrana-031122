@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [My security camera shipped a GitHub admin token in its login page](https://hhh.hn/hanwha-github-token/) | `53 pts` | `@hhh` |
-| [Flux 3 X Mimic: The Next Generation of Video-Action Models](https://bfl.ai/blog/flux-3-mimic) | `202 pts` | `@kensai` |
-| [It's getting harder to focus every day](https://glyphack.com/attention/) | `318 pts` | `@peykar` |
-| [Flux 3](https://bfl.ai/blog/flux-3) | `428 pts` | `@ThouYS` |
-| [India's first privately-developed rocket reaches orbit on dramatic debut launch](https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/) | `47 pts` | `@sohkamyung` |
+| [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5) | `1365 pts` | `@alvis` |
+| [Postgres LISTEN/NOTIFY actually scales](https://www.dbos.dev/blog/postgres-listen-notify-scalability) | `233 pts` | `@KraftyOne` |
+| [Sperm Whales blow bubbles to achieve restful, vertical sleep](https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/) | `45 pts` | `@hhs` |
+| [India's first privately-developed rocket reaches orbit on debut launch](https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/) | `524 pts` | `@sohkamyung` |
+| [Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard](https://artificialanalysis.ai/models) | `172 pts` | `@aarondong` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-07-24 14:03:00 UTC`*
+*Last automated pipeline execution: `2026-07-25 03:29:46 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
