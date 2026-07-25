@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5) | `1365 pts` | `@alvis` |
-| [Postgres LISTEN/NOTIFY actually scales](https://www.dbos.dev/blog/postgres-listen-notify-scalability) | `233 pts` | `@KraftyOne` |
-| [Sperm Whales blow bubbles to achieve restful, vertical sleep](https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/) | `45 pts` | `@hhs` |
-| [India's first privately-developed rocket reaches orbit on debut launch](https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/) | `524 pts` | `@sohkamyung` |
-| [Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard](https://artificialanalysis.ai/models) | `172 pts` | `@aarondong` |
+| [Android May Soon Restrict On-Device ADB](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/) | `462 pts` | `@shscs911` |
+| [My Images Are Dithered](https://dead.garden/blog/how-my-images-are-dithered.html) | `39 pts` | `@surprisetalk` |
+| [The Fedora 45 Sausage Factory](https://supakeen.com/weblog/the-fedora-45-sausage-factory/) | `28 pts` | `@6581` |
+| [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5) | `1664 pts` | `@alvis` |
+| [Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach](https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize) | `380 pts` | `@agnishom` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-07-25 03:29:46 UTC`*
+*Last automated pipeline execution: `2026-07-25 13:53:18 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
