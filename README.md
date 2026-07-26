@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [JetZero](https://www.jetzero.aero) | `54 pts` | `@lisper` |
-| [Show HN: I mapped every US golf course – 16k+ courses, free, no signup](https://golfcoursebrowser.com/) | `29 pts` | `@rickmf` |
-| [Stolen Buttons](https://anatolyzenkov.com/stolen-buttons) | `631 pts` | `@Gecko4072` |
-| [Systems and Delays](https://martin.janiczek.cz/2026/07/24/systems-and-delays.html) | `33 pts` | `@vinhnx` |
-| [An ESP32 based plane radar for my desk](https://blog.ktz.me/esp32-plane-radar/) | `17 pts` | `@alexktz` |
+| [Ruff v0.16.0 – Significant new updates – 413 default rules up from 59](https://astral.sh/blog/ruff-v0.16.0) | `179 pts` | `@vismit2000` |
+| [Go Analysis Framework: modular static analysis by go team](https://pkg.go.dev/golang.org/x/tools/go/analysis) | `27 pts` | `@AbuAssar` |
+| [Third Drone Shot Down in Three Days in Romanian Territory](https://english.mapn.ro/) | `110 pts` | `@_tk_` |
+| [Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake](https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c) | `58 pts` | `@1vuio0pswjnm7` |
+| [A shell colon does nothing. Use it anyway](https://refp.se/articles/your-shell-and-the-magic-colon) | `288 pts` | `@olexsmir` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-07-26 03:43:51 UTC`*
+*Last automated pipeline execution: `2026-07-26 13:46:11 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
