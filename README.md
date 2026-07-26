@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Android May Soon Restrict On-Device ADB](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/) | `462 pts` | `@shscs911` |
-| [My Images Are Dithered](https://dead.garden/blog/how-my-images-are-dithered.html) | `39 pts` | `@surprisetalk` |
-| [The Fedora 45 Sausage Factory](https://supakeen.com/weblog/the-fedora-45-sausage-factory/) | `28 pts` | `@6581` |
-| [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5) | `1664 pts` | `@alvis` |
-| [Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach](https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize) | `380 pts` | `@agnishom` |
+| [JetZero](https://www.jetzero.aero) | `54 pts` | `@lisper` |
+| [Show HN: I mapped every US golf course – 16k+ courses, free, no signup](https://golfcoursebrowser.com/) | `29 pts` | `@rickmf` |
+| [Stolen Buttons](https://anatolyzenkov.com/stolen-buttons) | `631 pts` | `@Gecko4072` |
+| [Systems and Delays](https://martin.janiczek.cz/2026/07/24/systems-and-delays.html) | `33 pts` | `@vinhnx` |
+| [An ESP32 based plane radar for my desk](https://blog.ktz.me/esp32-plane-radar/) | `17 pts` | `@alexktz` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-07-25 13:53:18 UTC`*
+*Last automated pipeline execution: `2026-07-26 03:43:51 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
