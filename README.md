@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Ruff v0.16.0 – Significant new updates – 413 default rules up from 59](https://astral.sh/blog/ruff-v0.16.0) | `179 pts` | `@vismit2000` |
-| [Go Analysis Framework: modular static analysis by go team](https://pkg.go.dev/golang.org/x/tools/go/analysis) | `27 pts` | `@AbuAssar` |
-| [Third Drone Shot Down in Three Days in Romanian Territory](https://english.mapn.ro/) | `110 pts` | `@_tk_` |
-| [Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake](https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c) | `58 pts` | `@1vuio0pswjnm7` |
-| [A shell colon does nothing. Use it anyway](https://refp.se/articles/your-shell-and-the-magic-colon) | `288 pts` | `@olexsmir` |
+| [PGSimCity - How PostgreSQL Works](https://nikolays.github.io/PGSimCity/) | `220 pts` | `@jonbaer` |
+| [Show HN: Physically accurate black hole you can put in your room](https://blackhole.plav.in) | `106 pts` | `@aplavin` |
+| [Decker, a platform that builds on the legacy of Hypercard and classic macOS](https://beyondloom.com/decker/) | `252 pts` | `@tosh` |
+| [Jacobian Conjecture for Baby](https://muchmirul.github.io/jacobian-conjecture/) | `21 pts` | `@porphyra` |
+| [French firefighters face 'pyrocumulonimbus' for first time](https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time) | `215 pts` | `@saaaaaam` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-07-26 13:46:11 UTC`*
+*Last automated pipeline execution: `2026-07-27 03:53:05 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
