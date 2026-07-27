@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [PGSimCity - How PostgreSQL Works](https://nikolays.github.io/PGSimCity/) | `220 pts` | `@jonbaer` |
-| [Show HN: Physically accurate black hole you can put in your room](https://blackhole.plav.in) | `106 pts` | `@aplavin` |
-| [Decker, a platform that builds on the legacy of Hypercard and classic macOS](https://beyondloom.com/decker/) | `252 pts` | `@tosh` |
-| [Jacobian Conjecture for Baby](https://muchmirul.github.io/jacobian-conjecture/) | `21 pts` | `@porphyra` |
-| [French firefighters face 'pyrocumulonimbus' for first time](https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time) | `215 pts` | `@saaaaaam` |
+| [Kimi-K3 Releases on HuggingFace 7/27](https://huggingface.co/moonshotai/Kimi-K3) | `715 pts` | `@nateb2022` |
+| [How is the Bun Rewrite in Rust going?](https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html) | `256 pts` | `@tomlockwood` |
+| [AI companies are shredding rare books](https://xcancel.com/HedgieMarkets/status/2081534588485296565) | `381 pts` | `@anon373839` |
+| [Should you wash your solar panels?](https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html) | `77 pts` | `@surprisetalk` |
+| [Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)](https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/) | `88 pts` | `@Ralfp` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-07-27 03:53:05 UTC`*
+*Last automated pipeline execution: `2026-07-27 14:54:37 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
