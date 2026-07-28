@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Kimi-K3 Releases on HuggingFace 7/27](https://huggingface.co/moonshotai/Kimi-K3) | `715 pts` | `@nateb2022` |
-| [How is the Bun Rewrite in Rust going?](https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html) | `256 pts` | `@tomlockwood` |
-| [AI companies are shredding rare books](https://xcancel.com/HedgieMarkets/status/2081534588485296565) | `381 pts` | `@anon373839` |
-| [Should you wash your solar panels?](https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html) | `77 pts` | `@surprisetalk` |
-| [Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)](https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/) | `88 pts` | `@Ralfp` |
+| [Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models) | `547 pts` | `@surprisetalk` |
+| [A $500 RL fine-tune of a 9B open model beat frontier models on catalog review](https://fermisense.com/when-machines-take-the-wheel/) | `19 pts` | `@ilreb` |
+| [Benchmarking Opus 5 on SlopCodeBench](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md) | `166 pts` | `@dhorthy` |
+| [Using an open model feels surprisingly good](https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/) | `29 pts` | `@msaltz` |
+| [Astronauts describe persistent 'observer' sensation after 6 month missions](https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/) | `104 pts` | `@zdw` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-07-27 14:54:37 UTC`*
+*Last automated pipeline execution: `2026-07-28 03:24:56 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
