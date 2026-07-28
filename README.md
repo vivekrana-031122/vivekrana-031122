@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models) | `547 pts` | `@surprisetalk` |
-| [A $500 RL fine-tune of a 9B open model beat frontier models on catalog review](https://fermisense.com/when-machines-take-the-wheel/) | `19 pts` | `@ilreb` |
-| [Benchmarking Opus 5 on SlopCodeBench](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md) | `166 pts` | `@dhorthy` |
-| [Using an open model feels surprisingly good](https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/) | `29 pts` | `@msaltz` |
-| [Astronauts describe persistent 'observer' sensation after 6 month missions](https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/) | `104 pts` | `@zdw` |
+| [7.1 Earthquake in Japan](https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en) | `511 pts` | `@krembo` |
+| [New HIV vaccine shows unprecedented success in preclinical study](https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/) | `124 pts` | `@codebyaditya` |
+| [Show HN: tale.fyi, we deserve a home for fiction](https://tale.fyi/@sam/announcing-tale-fyi-read-or-listen-to-an-entire-book-from-a-single-link) | `32 pts` | `@samuelcole` |
+| [Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code](https://github.com/schildep/verified-3d-mesh-intersection) | `43 pts` | `@permute` |
+| [Kimi Linear: An Expressive, Efficient Attention Architecture](https://arxiv.org/abs/2510.26692) | `58 pts` | `@ronfriedhaber` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-07-28 03:24:56 UTC`*
+*Last automated pipeline execution: `2026-07-28 14:28:25 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
