@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [7.1 Earthquake in Japan](https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en) | `511 pts` | `@krembo` |
-| [New HIV vaccine shows unprecedented success in preclinical study](https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/) | `124 pts` | `@codebyaditya` |
-| [Show HN: tale.fyi, we deserve a home for fiction](https://tale.fyi/@sam/announcing-tale-fyi-read-or-listen-to-an-entire-book-from-a-single-link) | `32 pts` | `@samuelcole` |
-| [Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code](https://github.com/schildep/verified-3d-mesh-intersection) | `43 pts` | `@permute` |
-| [Kimi Linear: An Expressive, Efficient Attention Architecture](https://arxiv.org/abs/2510.26692) | `58 pts` | `@ronfriedhaber` |
+| [Codex Security](https://github.com/openai/codex-security) | `381 pts` | `@bakigul` |
+| [LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences](https://learnvector.ai/) | `45 pts` | `@ajhai` |
+| [Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript](https://github.com/twalichiewicz/HNewhere) | `170 pts` | `@twalichiewicz` |
+| [Half-Life ported to Mac OS 9](https://mac-classic.com/news/half-life-ported-to-mac-os-9/) | `174 pts` | `@freediver` |
+| [Chip stocks slide in US and Asia as AI jitters rattle investors](https://www.bbc.com/news/articles/cly8zng43npo) | `17 pts` | `@yogthos` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-07-28 14:28:25 UTC`*
+*Last automated pipeline execution: `2026-07-29 03:26:06 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
