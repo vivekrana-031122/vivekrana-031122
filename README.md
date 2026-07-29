@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Codex Security](https://github.com/openai/codex-security) | `381 pts` | `@bakigul` |
-| [LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences](https://learnvector.ai/) | `45 pts` | `@ajhai` |
-| [Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript](https://github.com/twalichiewicz/HNewhere) | `170 pts` | `@twalichiewicz` |
-| [Half-Life ported to Mac OS 9](https://mac-classic.com/news/half-life-ported-to-mac-os-9/) | `174 pts` | `@freediver` |
-| [Chip stocks slide in US and Asia as AI jitters rattle investors](https://www.bbc.com/news/articles/cly8zng43npo) | `17 pts` | `@yogthos` |
+| [KOReader](https://koreader.rocks/) | `293 pts` | `@Cider9986` |
+| [Handbook.md shows that long policy documents do not reliably govern agents](https://arxiv.org/abs/2607.25398) | `67 pts` | `@spIrr` |
+| [Show HN: Bullshit Detector – agent skills that fact-check videos and articles](https://github.com/SerhiiKorniienko/bullshit-detector) | `41 pts` | `@skorniienko` |
+| [Choose DuckDB rather than SQLite](https://tracewayapp.com/blog/sqlite-vs-duckdb) | `16 pts` | `@rubenvanwyk` |
+| [Document-borne AI worms can self-propagate through Copilot for Word](https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/) | `148 pts` | `@Canopy9560` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-07-29 03:26:06 UTC`*
+*Last automated pipeline execution: `2026-07-29 14:26:13 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
