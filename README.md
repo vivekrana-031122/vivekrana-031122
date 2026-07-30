@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [AI's top startups are barely publishing their research](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research) | `262 pts` | `@YeGoblynQueenne` |
-| [The coolest use for the Vision Pro](https://christianselig.com/2026/07/vision-pro-house/) | `435 pts` | `@robbiet480` |
-| [Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac](https://github.com/drumih/turbo-fieldfare) | `673 pts` | `@gitpusher42` |
-| [Superlogical](https://www.superlogical.com/) | `550 pts` | `@yan` |
-| [LLM Honeypot](https://llm2human.pages.dev/) | `91 pts` | `@8thom` |
+| ['VPNs are lawful technical tools,' says EU Court in landmark copyright ruling](https://remysharp.com/links/2026-07-23-35890312) | `208 pts` | `@speckx` |
+| [Europe's fires are just the start](https://economist.com/leaders/2026/07/28/europes-fires-are-just-the-start) | `23 pts` | `@andsoitis` |
+| [Why Is Everyone Trying to Build a Solid-State Battery?](https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a) | `40 pts` | `@crescit_eundo` |
+| [RFC 8890 – The Internet is for End Users (2020)](https://mnot.net/blog/2020/for_the_users) | `31 pts` | `@notarobot123` |
+| [Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools](https://prized.dev) | `11 pts` | `@marinoseliades` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-07-30 03:13:53 UTC`*
+*Last automated pipeline execution: `2026-07-30 14:24:18 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
