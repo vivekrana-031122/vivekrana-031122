@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [KOReader](https://koreader.rocks/) | `293 pts` | `@Cider9986` |
-| [Handbook.md shows that long policy documents do not reliably govern agents](https://arxiv.org/abs/2607.25398) | `67 pts` | `@spIrr` |
-| [Show HN: Bullshit Detector – agent skills that fact-check videos and articles](https://github.com/SerhiiKorniienko/bullshit-detector) | `41 pts` | `@skorniienko` |
-| [Choose DuckDB rather than SQLite](https://tracewayapp.com/blog/sqlite-vs-duckdb) | `16 pts` | `@rubenvanwyk` |
-| [Document-borne AI worms can self-propagate through Copilot for Word](https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/) | `148 pts` | `@Canopy9560` |
+| [AI's top startups are barely publishing their research](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research) | `262 pts` | `@YeGoblynQueenne` |
+| [The coolest use for the Vision Pro](https://christianselig.com/2026/07/vision-pro-house/) | `435 pts` | `@robbiet480` |
+| [Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac](https://github.com/drumih/turbo-fieldfare) | `673 pts` | `@gitpusher42` |
+| [Superlogical](https://www.superlogical.com/) | `550 pts` | `@yan` |
+| [LLM Honeypot](https://llm2human.pages.dev/) | `91 pts` | `@8thom` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-07-29 14:26:13 UTC`*
+*Last automated pipeline execution: `2026-07-30 03:13:53 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
