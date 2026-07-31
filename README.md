@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| ['VPNs are lawful technical tools,' says EU Court in landmark copyright ruling](https://remysharp.com/links/2026-07-23-35890312) | `208 pts` | `@speckx` |
-| [Europe's fires are just the start](https://economist.com/leaders/2026/07/28/europes-fires-are-just-the-start) | `23 pts` | `@andsoitis` |
-| [Why Is Everyone Trying to Build a Solid-State Battery?](https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a) | `40 pts` | `@crescit_eundo` |
-| [RFC 8890 – The Internet is for End Users (2020)](https://mnot.net/blog/2020/for_the_users) | `31 pts` | `@notarobot123` |
-| [Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools](https://prized.dev) | `11 pts` | `@marinoseliades` |
+| [The AI Aesthetic](https://blog.jim-nielsen.com/2026/ai-aesthetic/) | `168 pts` | `@montroser` |
+| [A California aquifer may have crossed the point of no return](https://www.science.org/content/article/california-aquifer-may-have-crossed-point-no-return) | `13 pts` | `@Jimmc414` |
+| [Read this before you buy that TV streaming stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/) | `613 pts` | `@speckx` |
+| [I flagged two research papers for fake authors and both were accepted as orals](https://geospatialml.com/posts/reviewing-ai-slop/) | `118 pts` | `@volumes94` |
+| [Agent Skill to Force Docs in ASD-STE100 Simplified Technical English](https://github.com/AminBlg/SimpleEnglish) | `236 pts` | `@navs` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-07-30 14:24:18 UTC`*
+*Last automated pipeline execution: `2026-07-31 03:41:03 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
