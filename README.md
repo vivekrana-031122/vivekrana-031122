@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [The AI Aesthetic](https://blog.jim-nielsen.com/2026/ai-aesthetic/) | `168 pts` | `@montroser` |
-| [A California aquifer may have crossed the point of no return](https://www.science.org/content/article/california-aquifer-may-have-crossed-point-no-return) | `13 pts` | `@Jimmc414` |
-| [Read this before you buy that TV streaming stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/) | `613 pts` | `@speckx` |
-| [I flagged two research papers for fake authors and both were accepted as orals](https://geospatialml.com/posts/reviewing-ai-slop/) | `118 pts` | `@volumes94` |
-| [Agent Skill to Force Docs in ASD-STE100 Simplified Technical English](https://github.com/AminBlg/SimpleEnglish) | `236 pts` | `@navs` |
+| [DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash-ga) | `239 pts` | `@theanonymousone` |
+| [Google fixed more Chrome bugs in June than over the past two years, thanks to AI](https://blog.google/security/chrome-stronger-with-every-update/) | `259 pts` | `@Garbage` |
+| [The session you cannot take with you](https://earendil.com/posts/session-portability/) | `570 pts` | `@apitman` |
+| [JEP 401: Value Objects (Preview) merged to OpenJDK master](https://github.com/openjdk/jdk/pull/31120) | `179 pts` | `@mfiguiere` |
+| [Situational Awareness Down 67% in July in AI Stock Rout](https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f) | `50 pts` | `@pondsider` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-07-31 03:41:03 UTC`*
+*Last automated pipeline execution: `2026-07-31 14:26:38 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
