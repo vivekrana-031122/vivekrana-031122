@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [BMW Is Showing Full-Screen Ads on Its Cars' Main Dashboard Control Display](https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising) | `11 pts` | `@goplayoutside` |
-| [Elevators](https://john.fun/elevators) | `974 pts` | `@Jrh0203` |
-| [How to Exist](https://www.raptitude.com/2026/07/how-to-exist/) | `57 pts` | `@walterbell` |
-| [qm – Multiplayer agent harness for work](https://github.com/yc-software/qm) | `499 pts` | `@tosh` |
-| [The development pipeline is a production system](https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system) | `8 pts` | `@firefoxd` |
+| [RipGrep musl binaries occasionally segfault during very-large searches](https://github.com/BurntSushi/ripgrep/issues/3494) | `61 pts` | `@throwaway2037` |
+| [Elevators](https://john.fun/elevators) | `1419 pts` | `@Jrh0203` |
+| [Google kills Earth AI generator after one day](https://twitter.com/newsfromgoogle/status/2083249962150760610) | `36 pts` | `@BlueBerry2001` |
+| [Flint: A Visualization Language for the AI Era](https://microsoft.github.io/flint-chart/) | `162 pts` | `@vinhnx` |
+| [Manual: •.,:;?·](https://type.today/en/journal/dots) | `38 pts` | `@behnamoh` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-01 03:39:52 UTC`*
+*Last automated pipeline execution: `2026-08-01 13:45:10 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
