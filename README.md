@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash-ga) | `239 pts` | `@theanonymousone` |
-| [Google fixed more Chrome bugs in June than over the past two years, thanks to AI](https://blog.google/security/chrome-stronger-with-every-update/) | `259 pts` | `@Garbage` |
-| [The session you cannot take with you](https://earendil.com/posts/session-portability/) | `570 pts` | `@apitman` |
-| [JEP 401: Value Objects (Preview) merged to OpenJDK master](https://github.com/openjdk/jdk/pull/31120) | `179 pts` | `@mfiguiere` |
-| [Situational Awareness Down 67% in July in AI Stock Rout](https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f) | `50 pts` | `@pondsider` |
+| [BMW Is Showing Full-Screen Ads on Its Cars' Main Dashboard Control Display](https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising) | `11 pts` | `@goplayoutside` |
+| [Elevators](https://john.fun/elevators) | `974 pts` | `@Jrh0203` |
+| [How to Exist](https://www.raptitude.com/2026/07/how-to-exist/) | `57 pts` | `@walterbell` |
+| [qm – Multiplayer agent harness for work](https://github.com/yc-software/qm) | `499 pts` | `@tosh` |
+| [The development pipeline is a production system](https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system) | `8 pts` | `@firefoxd` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-07-31 14:26:38 UTC`*
+*Last automated pipeline execution: `2026-08-01 03:39:52 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
