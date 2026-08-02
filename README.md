@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Go 1.27 Interactive Tour](https://victoriametrics.com/blog/go-1-27/index.html) | `61 pts` | `@Hixon10` |
-| [Plug-in solar is coming. Plug-in batteries should follow](https://www.regen.co.uk/insights/plug-in-solar-is-coming-plug-in-batteries-should-follow) | `15 pts` | `@thelastgallon` |
-| [MkLinux and the pimped-out Apple Workgroup Server 9150](http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html) | `10 pts` | `@goldenskye` |
-| [Seedance 2.5](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5) | `214 pts` | `@njaremko` |
-| [Diátaxis](https://diataxis.fr/) | `236 pts` | `@ryanseys` |
+| [Twenty Years of RISC OS Open](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open) | `37 pts` | `@AlexeyBrin` |
+| [Meshdiff – visually compare two STL versions in the browser, client-side](https://meshdiff.com/) | `71 pts` | `@projscope` |
+| [Show HN: Bor – Open-source policy management for Linux desktops](https://getbor.dev/blog/2026-08-02-bor-v080-release/) | `77 pts` | `@eniac111` |
+| [Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge](https://publicdomainreview.org/essay/ars-notoria/) | `52 pts` | `@jruohonen` |
+| [Show HN: Fuse – statically typed functional programming language](https://fuselang.org) | `23 pts` | `@the_unproven` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-02 03:40:02 UTC`*
+*Last automated pipeline execution: `2026-08-02 13:44:47 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
