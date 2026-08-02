@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [RipGrep musl binaries occasionally segfault during very-large searches](https://github.com/BurntSushi/ripgrep/issues/3494) | `61 pts` | `@throwaway2037` |
-| [Elevators](https://john.fun/elevators) | `1419 pts` | `@Jrh0203` |
-| [Google kills Earth AI generator after one day](https://twitter.com/newsfromgoogle/status/2083249962150760610) | `36 pts` | `@BlueBerry2001` |
-| [Flint: A Visualization Language for the AI Era](https://microsoft.github.io/flint-chart/) | `162 pts` | `@vinhnx` |
-| [Manual: •.,:;?·](https://type.today/en/journal/dots) | `38 pts` | `@behnamoh` |
+| [Go 1.27 Interactive Tour](https://victoriametrics.com/blog/go-1-27/index.html) | `61 pts` | `@Hixon10` |
+| [Plug-in solar is coming. Plug-in batteries should follow](https://www.regen.co.uk/insights/plug-in-solar-is-coming-plug-in-batteries-should-follow) | `15 pts` | `@thelastgallon` |
+| [MkLinux and the pimped-out Apple Workgroup Server 9150](http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html) | `10 pts` | `@goldenskye` |
+| [Seedance 2.5](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5) | `214 pts` | `@njaremko` |
+| [Diátaxis](https://diataxis.fr/) | `236 pts` | `@ryanseys` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-01 13:45:10 UTC`*
+*Last automated pipeline execution: `2026-08-02 03:40:02 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
