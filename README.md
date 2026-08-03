@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Qwen3.8-Max: A New Bar for Coding and Cowork](https://qwen.ai/blog?id=qwen3.8) | `90 pts` | `@ai2027` |
-| [CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K](https://github.com/johnsonjh/cpm386) | `42 pts` | `@TMWNN` |
-| [Show HN: Isopolis – Isometric pixel map of SF](https://sf.isopolis.city/) | `77 pts` | `@nuwandavek` |
-| [Karpathy’s Pelican](https://twitter.com/karpathy/status/2083749667410727319) | `476 pts` | `@delichon` |
-| [Show HN: ssh ssh.place](https://ssh.place) | `47 pts` | `@jeninh` |
+| [Critical CVE issued for hallucinated SQLite vulnerability](https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/) | `416 pts` | `@ymir_e` |
+| [MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video](https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui) | `79 pts` | `@vblanco` |
+| [Devtools must be open source](https://blog.exe.dev/devtools-must-be-open-source) | `31 pts` | `@bryanmikaelian` |
+| [Don't be a meat proxy](https://gruhn.me/blog/2026-08-03/) | `1208 pts` | `@ngruhn` |
+| [Qwen3.8-Max: A New Bar for Coding and Cowork](https://qwen.ai/blog?id=qwen3.8) | `847 pts` | `@ai2027` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-03 03:42:11 UTC`*
+*Last automated pipeline execution: `2026-08-03 15:08:20 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
