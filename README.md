@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Twenty Years of RISC OS Open](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open) | `37 pts` | `@AlexeyBrin` |
-| [Meshdiff – visually compare two STL versions in the browser, client-side](https://meshdiff.com/) | `71 pts` | `@projscope` |
-| [Show HN: Bor – Open-source policy management for Linux desktops](https://getbor.dev/blog/2026-08-02-bor-v080-release/) | `77 pts` | `@eniac111` |
-| [Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge](https://publicdomainreview.org/essay/ars-notoria/) | `52 pts` | `@jruohonen` |
-| [Show HN: Fuse – statically typed functional programming language](https://fuselang.org) | `23 pts` | `@the_unproven` |
+| [Qwen3.8-Max: A New Bar for Coding and Cowork](https://qwen.ai/blog?id=qwen3.8) | `90 pts` | `@ai2027` |
+| [CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K](https://github.com/johnsonjh/cpm386) | `42 pts` | `@TMWNN` |
+| [Show HN: Isopolis – Isometric pixel map of SF](https://sf.isopolis.city/) | `77 pts` | `@nuwandavek` |
+| [Karpathy’s Pelican](https://twitter.com/karpathy/status/2083749667410727319) | `476 pts` | `@delichon` |
+| [Show HN: ssh ssh.place](https://ssh.place) | `47 pts` | `@jeninh` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-02 13:44:47 UTC`*
+*Last automated pipeline execution: `2026-08-03 03:42:11 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
