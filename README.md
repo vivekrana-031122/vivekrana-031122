@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/) | `544 pts` | `@MaxMussio` |
-| [Amazonian civilization had estimated 3M people in 3% of forest area](https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization) | `57 pts` | `@marojejian` |
-| [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/) | `467 pts` | `@milkshakes` |
-| [Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone](https://github.com/leonickson1/Swiftlet) | `14 pts` | `@leonickson` |
-| [Devtools must be open source](https://blog.exe.dev/devtools-must-be-open-source) | `525 pts` | `@bryanmikaelian` |
+| [Ray Bradbury's "There Will Come Soft Rains" is set today (2026-08-04)](https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj) | `219 pts` | `@askvictor` |
+| [DeepSeek V4 Flash on a Single AMD MI300X](https://github.com/ryanzhou/deepseek-v4-flash-mi300x) | `188 pts` | `@zhoutong` |
+| [Xbox goes down. You can't play games you own on disc](https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/) | `235 pts` | `@surprisetalk` |
+| [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/) | `1150 pts` | `@MaxMussio` |
+| [Buckminster Fuller: everything I know](https://www.bfi.org/about-fuller/everything-i-know/) | `55 pts` | `@simonebrunozzi` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-04 03:27:37 UTC`*
+*Last automated pipeline execution: `2026-08-04 14:33:54 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
