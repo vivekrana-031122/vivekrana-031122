@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Critical CVE issued for hallucinated SQLite vulnerability](https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/) | `416 pts` | `@ymir_e` |
-| [MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video](https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui) | `79 pts` | `@vblanco` |
-| [Devtools must be open source](https://blog.exe.dev/devtools-must-be-open-source) | `31 pts` | `@bryanmikaelian` |
-| [Don't be a meat proxy](https://gruhn.me/blog/2026-08-03/) | `1208 pts` | `@ngruhn` |
-| [Qwen3.8-Max: A New Bar for Coding and Cowork](https://qwen.ai/blog?id=qwen3.8) | `847 pts` | `@ai2027` |
+| [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/) | `544 pts` | `@MaxMussio` |
+| [Amazonian civilization had estimated 3M people in 3% of forest area](https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization) | `57 pts` | `@marojejian` |
+| [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/) | `467 pts` | `@milkshakes` |
+| [Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone](https://github.com/leonickson1/Swiftlet) | `14 pts` | `@leonickson` |
+| [Devtools must be open source](https://blog.exe.dev/devtools-must-be-open-source) | `525 pts` | `@bryanmikaelian` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-03 15:08:20 UTC`*
+*Last automated pipeline execution: `2026-08-04 03:27:37 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
