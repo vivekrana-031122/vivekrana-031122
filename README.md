@@ -1,101 +1,67 @@
 # 👋 Vivek Rana
 
-**AI/ML Engineer & Backend Developer** | Building Production-Grade Intelligent Systems, RAG Pipelines & Agentic Workflows
+**AI/ML Engineer & Data Engineer** | Specializing in Computer Vision, Deep Learning, and High-Throughput Data Engineering.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vivek-rana-2899b8292)
-[![GitHub followers](https://img.shields.io/github/followers/vivekrana-031122?label=Follow&style=for-the-badge)](https://github.com/vivekrana-031122)
-
----
-
-## 🚀 About Me
-
-I am a Python developer and AI engineer passionate about developing **scalable, secure, and production-ready intelligent systems**. Currently working as a **Data Analyst Intern at Trailytics**, where I apply data manipulation, SQL optimization, and automated scripting to real-world datasets.
-
-*   **🔭 Currently Working On:** Building multi-tenant RAG systems with local vector database persistence.
-*   **🧠 Specializing In:** Large Language Model (LLM) orchestration, vector search architectures, and concurrent process scheduling.
-*   **🌱 Learning Next:** Next.js (App Router), TypeScript, and pgvector for native SQL vector indexes.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/vivek-rana-2899b8292)
+[![GitHub followers](https://img.shields.io/github/followers/vivekrana-031122?label=Follow&style=flat-square&color=black)](https://github.com/vivekrana-031122)
 
 ---
 
-## 🏆 Featured Repositories
+## ⚡ Engineering Impact in Numbers
 
-### 1️⃣ [Secure RAG PDF Chatbot](https://github.com/vivekrana-031122/RAG-PDF-CHATBOT)
-*A secure, persistent Retrieval-Augmented Generation service with dual Streamlit UI & FastAPI REST interfaces.*
-
-*   **Core Stack:** FastAPI, Streamlit, LangChain, OpenAI, FAISS, Docker Compose.
-*   **Key Engineering Updates:**
-    *   🔒 **UUID Validation:** Input validation check on all database session paths to prevent directory traversal exploits.
-    *   💾 **Disk Persistence:** Automatic disk serialization for both index vectors and conversation history sessions.
-    *   🐳 **Containerized Deployment:** Dockerized multi-service configuration for instantaneous local spins.
+*   🚗 **Computer Vision:** YOLOv8-based vehicle tracking and counting suite operating at **95% accuracy** and **34 FPS**.
+*   📈 **Predictive Modeling:** Advanced ML forecasting engines achieving **0.92+ ROC-AUC** on cricket match outcomes and stock trends.
+*   ⚡ **Data Pipelines:** Production-grade concurrent scraping architectures processing millions of SKU listings with robust anti-bot bypass.
 
 ---
 
-## 🕷️ Professional Web Scraping & Data Extraction Portfolio
+## 🛠️ Technology Stack
 
-A collection of production-grade web crawlers, quick commerce scrapers, and data extraction engines showcasing advanced parsing, anti-bot bypass strategies (headers/cookies/playwright-stealth), and database persistence (SQLite/MySQL).
-
-| Repository Name | Description | Key Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| [`scraper-zepto-pdp`](https://github.com/vivekrana-031122/scraper-zepto-pdp) | Scrapy-based Zepto product detail page scraper | Scrapy, PyMySQL, SQLite | [View Repository](https://github.com/vivekrana-031122/scraper-zepto-pdp) |
-| [`scraper-myntra-pincode`](https://github.com/vivekrana-031122/scraper-myntra-pincode) | Geographically localized Myntra product price & stock crawler | Scrapy, Cloudscraper, SQLite | [View Repository](https://github.com/vivekrana-031122/scraper-myntra-pincode) |
-| [`scraper-flipkart-minutes`](https://github.com/vivekrana-031122/scraper-flipkart-minutes) | Playwright Stealth scraper for Flipkart Minutes brands | Playwright, BeautifulSoup4 | [View Repository](https://github.com/vivekrana-031122/scraper-flipkart-minutes) |
-| [`scraper-swiggy-instamart`](https://github.com/vivekrana-031122/scraper-swiggy-instamart) | Search-engine fallback Swiggy Instamart image resolver | Playwright, BeautifulSoup4 | [View Repository](https://github.com/vivekrana-031122/scraper-swiggy-instamart) |
-| [`scraper-1mg-reviews`](https://github.com/vivekrana-031122/scraper-1mg-reviews) | Concurrent HTTPX crawler with Semaphore rate limiting | HTTPX, Asyncio | [View Repository](https://github.com/vivekrana-031122/scraper-1mg-reviews) |
-| [`scraper-healthcare-products`](https://github.com/vivekrana-031122/scraper-healthcare-products) | Medicine catalog crawler (Tata 1mg, Apollo, PharmEasy) | HTTPX, Pandas | [View Repository](https://github.com/vivekrana-031122/scraper-healthcare-products) |
-| [`scraper-ecommerce-keywords`](https://github.com/vivekrana-031122/scraper-ecommerce-keywords) | Search term visibility tracker (Amazon, Noon, BigBasket) | Playwright, Requests | [View Repository](https://github.com/vivekrana-031122/scraper-ecommerce-keywords) |
-| [`scraper-nykaa-brands`](https://github.com/vivekrana-031122/scraper-nykaa-brands) | Selenium crawler with SQLite caching and Excel exports | Selenium, SQLite, openpyxl | [View Repository](https://github.com/vivekrana-031122/scraper-nykaa-brands) |
-| [`scraper-retail-pdp`](https://github.com/vivekrana-031122/scraper-retail-pdp) | Parallel catalog scraper for Amazon & Flipkart with Captcha resolver | Scrapy, Requests, SQLite | [View Repository](https://github.com/vivekrana-031122/scraper-retail-pdp) |
+| Category | Technologies |
+| :--- | :--- |
+| **AI/ML & Computer Vision** | `Python` `PyTorch` `TensorFlow` `OpenCV` `Ultralytics YOLOv8` `LangChain` `FAISS` |
+| **Data & Crawling** | `Pandas` `NumPy` `Playwright` `Scrapy` `BeautifulSoup4` `MySQL` `PostgreSQL` |
+| **Backend & DevOps** | `FastAPI` `Streamlit` `Uvicorn` `Docker` `Docker Compose` `Git` `GitHub Actions` |
 
 ---
 
-## 🤖 Machine Learning, AI & Data Engineering Portfolio
+## 🤖 Pinned Projects & Engineering Showcase
 
-Engineering applications highlighting core artificial intelligence integrations, Retrieval-Augmented Generation (RAG) endpoints, and data processing utilities.
+### 1️⃣ [YOLOv8 Traffic Object Detection & Analytics Suite](https://github.com/vivekrana-031122/yolo-traffic-monitor)
+*Real-time object detection and diagnostic toolkit built to analyze traffic density, count vehicle classes, and track diagnostics.*
+*   **Key Stats:** **95% tracking accuracy** / **34 FPS** execution speed.
+*   **Highlight:** Features a custom GUI label reviewer (`label_reviewer.py`) for dataset annotation correction and model diagnostic metrics tracking.
+*   **Stack:** Python, Ultralytics YOLOv8, OpenCV, PyTorch, Streamlit
 
-| Repository Name | Description | Key Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| [`ai-teaching-coach`](https://github.com/vivekrana-031122/ai-teaching-coach) | Personal Bilingual Teaching Coach ("Agent 1") powered by Gemini API | FastAPI, HTML/CSS/JS, Google Gemini API | [View Repository](https://github.com/vivekrana-031122/ai-teaching-coach) |
-| [`rag-pdf-chatbot`](https://github.com/vivekrana-031122/rag-pdf-chatbot) | Secure FastAPI/Streamlit RAG PDF chatbot with FAISS persistence | FastAPI, Streamlit, LangChain, FAISS | [View Repository](https://github.com/vivekrana-031122/rag-pdf-chatbot) |
-| [`yolo-traffic-monitor`](https://github.com/vivekrana-031122/yolo-traffic-monitor) | YOLOv8 real-time vehicle detection and dashboard diagnostics | Ultralytics YOLO, OpenCV, Streamlit | [View Repository](https://github.com/vivekrana-031122/yolo-traffic-monitor) |
-| [`ml-prediction-models`](https://github.com/vivekrana-031122/ml-prediction-models) | ML forecasting engines for IPL cricket matches & stock price trends | scikit-learn, pandas, numpy | [View Repository](https://github.com/vivekrana-031122/ml-prediction-models) |
-| [`scraper-agency-data-uploaders`](https://github.com/vivekrana-031122/scraper-agency-data-uploaders) | Dynamic Excel-to-MySQL database ingestion pipeline | pandas, PyMySQL, SQLAlchemy | [View Repository](https://github.com/vivekrana-031122/scraper-agency-data-uploaders) |
-| [`student-assignments`](https://github.com/vivekrana-031122/student-assignments) | Academic computational algorithms and python programming lab work | Python | [View Repository](https://github.com/vivekrana-031122/student-assignments) |
+### 2️⃣ [AI Teaching Coach ("Agent 1")](https://github.com/vivekrana-031122/ai-teaching-coach)
+*Bilingual web-based study peer tutor designed to explain complex engineering codebases and log summaries.*
+*   **Highlight:** Integrates Google Gemini API to translate dry repository files into fluid **Hinglish** explanations, with active-recall prompts and line-by-line concept breakdown.
+*   **Stack:** FastAPI, HTML5/CSS3/JavaScript (glassmorphism UI), Google Gemini API, Docker
 
----
+### 3️⃣ [Retail E-commerce Scraper & Import Pipeline](https://github.com/vivekrana-031122/scraper-retail-import-pipeline)
+*Enterprise-grade configuration-driven import pipeline and scraper suite for large-scale retail catalog data ingestion.*
+*   **Highlight:** Features multi-threaded Playwright Stealth crawlers for Amazon and Flipkart, parsing product weights and pricing with an automated QA validation engine mapping categories.
+*   **Stack:** Playwright, BeautifulSoup4, Pandas, openpyxl, MySQL, Dotenv
 
-## 🛠️ Technical Skill Matrix
-
-```
-┌─────────────────────────────────┬─────────────────────────────────┐
-│ Languages & Frameworks          │ AI & Database Systems           │
-├─────────────────────────────────┼─────────────────────────────────┤
-│ 🐍 Python (FastAPI, Streamlit)  │ 🤖 LLM Chains (LangChain)       │
-│ ☕ Java (Core Basics)           │ 🧠 Vector DBs (FAISS, Pinecone) │
-│ 📊 SQL (MySQL, PostgreSQL)      │ 📈 Analytics (Pandas, NumPy)    │
-└─────────────────────────────────┴─────────────────────────────────┘
-┌─────────────────────────────────┐
-│ Developer Tools & DevOps        │
-├─────────────────────────────────┤
-│ 🐳 Docker & Docker Compose      │
-│ ⚙️ Version Control (Git, GitHub) │
-│ 🐧 OS Shells (Bash, PowerShell) │
-└─────────────────────────────────┘
-```
+### 4️⃣ [Secure RAG PDF Chatbot](https://github.com/vivekrana-031122/RAG-PDF-CHATBOT)
+*A multi-tenant Retrieval-Augmented Generation chatbot with FastAPI endpoints and Streamlit frontend.*
+*   **Highlight:** Dual UI/API interfaces with secure UUID-validated document session storage, disk persistence for FAISS vectors, and containerized Docker-Compose configuration.
+*   **Stack:** FastAPI, Streamlit, LangChain, FAISS vector store, Docker Compose
 
 ---
 
-## 📈 Activity & Stats
+## 📈 GitHub Metrics & Top Languages
 
-![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivekrana-031122&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekrana-031122&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekrana-031122&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 
 ---
 
 ## ⚙️ Automated Engineering Pipeline (Self-Updating Profile)
 
-This repository is powered by a fully automated Python scraper and visualization engine.
+This repository runs a scheduled GitHub Action that aggregates trending tech headlines and outputs scraper diagnostics.
 
-### 🛠️ Architecture & How It Works
 ```mermaid
 graph TD
     A[GitHub Actions Cron Job] -->|Every 12h| B[scripts/generate_dashboard.py]
@@ -107,11 +73,6 @@ graph TD
     D -->|Auto-Commit & Push| G
     F -->|Auto-Commit & Push| G
 ```
-
-1. **GitHub Actions Workflow:** [profile_dashboard.yml](file:///.github/workflows/profile_dashboard.yml) triggers on a cron schedule.
-2. **Python Scraper Engine:** [generate_dashboard.py](file:///scripts/generate_dashboard.py) uses only Python standard libraries to fetch trending tech stories without external dependencies.
-3. **SVG Visualizer:** Generates a custom-styled SVG representing daily crawler loads with modern gradients.
-4. **Log Verification:** Records execution metrics in [activity_log.md](file:///activity_log.md) to demonstrate automated proof of work.
 
 ---
 
@@ -139,6 +100,6 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 ---
 
 ## 📨 Connect With Me
+
 *   **LinkedIn:** [linkedin.com/in/vivek-rana-2899b8292](https://linkedin.com/in/vivek-rana-2899b8292)
-*   **GitHub:** [github.com/vivekrana-031122](https://github.com/vivekrana-031122)
 *   **Email:** [vivekrana.031122@gmail.com](mailto:vivekrana.031122@gmail.com)
