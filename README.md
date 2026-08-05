@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [libexpat now funded by the City of Munich for up to 6 months](https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/) | `170 pts` | `@spyc` |
-| [Eight Myths on Software Engineering and GenAI](https://queue.acm.org/detail.cfm?id=3807963) | `100 pts` | `@tchalla` |
-| [Pi's Minimalism Is Its Advantage](https://earendil.com/posts/pi-autoresearch-and-databricks/) | `149 pts` | `@luispa` |
-| [Mistral's Shieldstral: 3B open-weights model for multimodal moderation](https://mistral.ai/news/shieldstral/) | `329 pts` | `@riadsila` |
-| [IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay](https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/) | `53 pts` | `@lapcat` |
+| [Cloudflare OS: an open platform for agents, apps, and work](https://blog.cloudflare.com/cloudflare-os/) | `41 pts` | `@speckx` |
+| [Position: LLMs Can't Jump](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt) | `134 pts` | `@theanonymousone` |
+| [Aristotle quotes on virtue, knowledge, and happiness](https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/) | `9 pts` | `@teleforce` |
+| [Why the Legendary Erdős Problems Are Falling to AI](https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/) | `63 pts` | `@pseudolus` |
+| [Silicon Valley sees AI as the solution – for everyone else](https://observer.co.uk/news/science-technology/article/silicon-valley-sees-ai-as-the-solution-for-everyone-else-its-the-problem) | `7 pts` | `@MaysonL` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-05 03:22:20 UTC`*
+*Last automated pipeline execution: `2026-08-05 14:26:47 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
