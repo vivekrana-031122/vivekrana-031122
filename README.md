@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Cloudflare OS: an open platform for agents, apps, and work](https://blog.cloudflare.com/cloudflare-os/) | `41 pts` | `@speckx` |
-| [Position: LLMs Can't Jump](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt) | `134 pts` | `@theanonymousone` |
-| [Aristotle quotes on virtue, knowledge, and happiness](https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/) | `9 pts` | `@teleforce` |
-| [Why the Legendary Erdős Problems Are Falling to AI](https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/) | `63 pts` | `@pseudolus` |
-| [Silicon Valley sees AI as the solution – for everyone else](https://observer.co.uk/news/science-technology/article/silicon-valley-sees-ai-as-the-solution-for-everyone-else-its-the-problem) | `7 pts` | `@MaysonL` |
+| [Nashville uses eminent domain to block data center near zoo](https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project) | `58 pts` | `@mapping365` |
+| [LLMs won't break symmetric crypto](https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto) | `43 pts` | `@rowbin` |
+| [Discovery Loop](https://www.discoveryloop.com/) | `629 pts` | `@xtreak29` |
+| [Zed DeltaDB](https://zed.dev/deltadb) | `328 pts` | `@ahamez` |
+| [The title cards in Blade Runner are amazing](https://randsinrepose.com/archives/blade-runner-title-cards/) | `175 pts` | `@ExMachina73` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-05 14:26:47 UTC`*
+*Last automated pipeline execution: `2026-08-06 03:25:26 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
