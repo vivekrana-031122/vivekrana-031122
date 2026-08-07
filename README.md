@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Mario Meets Pareto](https://www.mayerowitz.io/blog/mario-meets-pareto) | `246 pts` | `@theanonymousone` |
-| [Humans missed 1 in 3 threats approving AI agent commands across 40k game runs](https://scalex.dev/blog/ai-agent-permissions-stats/) | `66 pts` | `@Wirbelwind` |
-| [I added a real-time chat to my blog, people used it to attack me](https://en.andros.dev/blog/b6c32a90/i-added-a-real-time-chat-to-my-blog-people-used-it-to-attack-me/) | `24 pts` | `@andros` |
-| [How to Make a Nintendo 64 Game in 2026](https://phoboslab.org/log/2026/08/xibalba64-making-of) | `275 pts` | `@atan2` |
-| [Crime Pays but Botany Doesn't](https://www.crimepaysbutbotanydoesnt.com/reading-list) | `390 pts` | `@DarkContinent` |
+| [AMD acquires Taalas to boost inference performance by etching models in silicon](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344) | `425 pts` | `@itvision` |
+| [Mario Meets Pareto](https://www.mayerowitz.io/blog/mario-meets-pareto) | `907 pts` | `@theanonymousone` |
+| [Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun](https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/) | `158 pts` | `@neversaydie` |
+| [I stopped trusting USB-C cable labels and started testing them](https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/) | `101 pts` | `@baranul` |
+| [Welcoming the Nepalese Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/) | `102 pts` | `@gnabgib` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-06 14:29:41 UTC`*
+*Last automated pipeline execution: `2026-08-07 03:10:37 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
