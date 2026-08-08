@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [The Nixpkgs core team has disbanded](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413) | `51 pts` | `@Meleagris` |
-| [DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731) | `473 pts` | `@tosh` |
-| [U.S. Department of Energy Launches the Genesis Open Models Initiative](https://genesisopenmodels.anl.gov/) | `95 pts` | `@moelf` |
-| [Assembly Hall of Shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame) | `257 pts` | `@piotrgrabowski` |
-| [Ancient Library – 1,060 Greek/Latin texts, click any word to parse it](https://ancientlibrary.net/) | `152 pts` | `@aagha` |
+| [The CPU is back: Rethinking the CPU-GPU split for LLM inference](https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference) | `23 pts` | `@eigenBasis` |
+| [DeepMind's WeatherNext model achieves breakthrough forecasting cyclones](https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/) | `56 pts` | `@bhavansig` |
+| [A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava](https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/) | `273 pts` | `@aanet` |
+| [Hardware backdoors in some x86 CPUs](https://github.com/xoreaxeaxeax/rosenbridge) | `178 pts` | `@epestr` |
+| [DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731) | `676 pts` | `@tosh` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-08 02:07:53 UTC`*
+*Last automated pipeline execution: `2026-08-08 13:04:24 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
