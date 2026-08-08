@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [US strikes $1.2B deal to pay German firm to halt offshore wind projects](https://www.bbc.com/news/articles/c1e1vg0gjl5o) | `408 pts` | `@defrost` |
-| [New Mexico court orders Meta to pay $567m over harms to children’s mental health](https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta) | `408 pts` | `@boplicity` |
-| [AMD acquires Taalas to boost inference performance by etching models in silicon](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344) | `740 pts` | `@itvision` |
-| [Taste Is All That's Left](https://notashelf.dev/posts/taste-is-all-thats-left) | `514 pts` | `@tsak` |
-| [Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun](https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/) | `259 pts` | `@neversaydie` |
+| [The Nixpkgs core team has disbanded](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413) | `51 pts` | `@Meleagris` |
+| [DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731) | `473 pts` | `@tosh` |
+| [U.S. Department of Energy Launches the Genesis Open Models Initiative](https://genesisopenmodels.anl.gov/) | `95 pts` | `@moelf` |
+| [Assembly Hall of Shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame) | `257 pts` | `@piotrgrabowski` |
+| [Ancient Library – 1,060 Greek/Latin texts, click any word to parse it](https://ancientlibrary.net/) | `152 pts` | `@aagha` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-07 13:20:49 UTC`*
+*Last automated pipeline execution: `2026-08-08 02:07:53 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
