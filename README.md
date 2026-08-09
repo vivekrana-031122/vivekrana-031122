@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [The CPU is back: Rethinking the CPU-GPU split for LLM inference](https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference) | `23 pts` | `@eigenBasis` |
-| [DeepMind's WeatherNext model achieves breakthrough forecasting cyclones](https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/) | `56 pts` | `@bhavansig` |
-| [A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava](https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/) | `273 pts` | `@aanet` |
-| [Hardware backdoors in some x86 CPUs](https://github.com/xoreaxeaxeax/rosenbridge) | `178 pts` | `@epestr` |
-| [DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731) | `676 pts` | `@tosh` |
+| [My server is a phone now](https://seg6.space/posts/phone-server/) | `109 pts` | `@seg6` |
+| [Os8088: A powerful Mac-like OS for the IBM XT, 286, 386](https://os8088.com/) | `45 pts` | `@jggonz` |
+| [Improving Heuristics for A* Pathfinding](https://www.redblobgames.com/pathfinding/heuristics/differential.html) | `78 pts` | `@bobbiechen` |
+| [Fastmail offers EU data region](https://www.fastmail.com/blog/fastmail-offers-eu-data-region/) | `327 pts` | `@groomlake` |
+| [Shopify replaced Redis with MySQL for inventory reservations–and it scaled](https://shopify.engineering/scaling-inventory-reservations) | `57 pts` | `@adletbalzhanov` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-08 13:04:24 UTC`*
+*Last automated pipeline execution: `2026-08-09 02:20:13 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
