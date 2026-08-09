@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [My server is a phone now](https://seg6.space/posts/phone-server/) | `109 pts` | `@seg6` |
-| [Os8088: A powerful Mac-like OS for the IBM XT, 286, 386](https://os8088.com/) | `45 pts` | `@jggonz` |
-| [Improving Heuristics for A* Pathfinding](https://www.redblobgames.com/pathfinding/heuristics/differential.html) | `78 pts` | `@bobbiechen` |
-| [Fastmail offers EU data region](https://www.fastmail.com/blog/fastmail-offers-eu-data-region/) | `327 pts` | `@groomlake` |
-| [Shopify replaced Redis with MySQL for inventory reservations–and it scaled](https://shopify.engineering/scaling-inventory-reservations) | `57 pts` | `@adletbalzhanov` |
+| [Reviving a four year old reMarkable 2](https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html) | `18 pts` | `@tremguy` |
+| [There Are Magic Hexagons of Every Order](https://gukov.dev/math/2026/08/02/new-magic-hexagons.html) | `80 pts` | `@gukoff` |
+| [My server is a phone now](https://seg6.space/posts/phone-server/) | `386 pts` | `@seg6` |
+| [Microsoft Word for Windows 1.1a, Native X64 Port](https://github.com/jmarshall23/msword) | `103 pts` | `@BruceEel` |
+| [Everything You Do Is Being Recorded](https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/) | `49 pts` | `@ike_usawa` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-09 02:20:13 UTC`*
+*Last automated pipeline execution: `2026-08-09 13:06:53 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
