@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Reviving a four year old reMarkable 2](https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html) | `18 pts` | `@tremguy` |
-| [There Are Magic Hexagons of Every Order](https://gukov.dev/math/2026/08/02/new-magic-hexagons.html) | `80 pts` | `@gukoff` |
-| [My server is a phone now](https://seg6.space/posts/phone-server/) | `386 pts` | `@seg6` |
-| [Microsoft Word for Windows 1.1a, Native X64 Port](https://github.com/jmarshall23/msword) | `103 pts` | `@BruceEel` |
-| [Everything You Do Is Being Recorded](https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/) | `49 pts` | `@ike_usawa` |
+| [How I use LLMs to learn complex topics](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/) | `438 pts` | `@laurentiurad` |
+| [How We Pushed CDC into Postgres](https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/) | `22 pts` | `@craigkerstiens` |
+| [Mea Culpa – Dark Hours](https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html) | `565 pts` | `@satvikpendem` |
+| ["The Persian MâR-Nâmeh Or, the Book for Taking Omens from Snakes" (1892)](https://publicdomainreview.org/collection/marnameh/) | `29 pts` | `@Thevet` |
+| [New Zealand lost its music media, and what we're building to replace it](https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media) | `80 pts` | `@berghoffer` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-09 13:06:53 UTC`*
+*Last automated pipeline execution: `2026-08-10 02:25:00 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
