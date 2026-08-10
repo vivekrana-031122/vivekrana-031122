@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [How I use LLMs to learn complex topics](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/) | `438 pts` | `@laurentiurad` |
-| [How We Pushed CDC into Postgres](https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/) | `22 pts` | `@craigkerstiens` |
-| [Mea Culpa – Dark Hours](https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html) | `565 pts` | `@satvikpendem` |
-| ["The Persian MâR-Nâmeh Or, the Book for Taking Omens from Snakes" (1892)](https://publicdomainreview.org/collection/marnameh/) | `29 pts` | `@Thevet` |
-| [New Zealand lost its music media, and what we're building to replace it](https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media) | `80 pts` | `@berghoffer` |
+| [Meta Muse Glimmer – open weights 30B local coding model](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model) | `327 pts` | `@riordan` |
+| [50k Boat Names](https://www.beautifulpublicdata.com/boat-names/) | `17 pts` | `@jonathanmkeegan` |
+| [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://www.docker.com/products/docker-sandboxes/) | `340 pts` | `@etoxin` |
+| [Tail-call optimization in C is relatively recent](https://lwn.net/Articles/1034703/) | `39 pts` | `@prakashqwerty` |
+| [Squeak/Smalltalk 6.1 Release Notes](https://squeak.org/release_notes/6.1/) | `20 pts` | `@fniephaus` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-10 02:25:00 UTC`*
+*Last automated pipeline execution: `2026-08-10 13:26:28 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
