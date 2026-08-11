@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Meta Muse Glimmer – open weights 30B local coding model](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model) | `327 pts` | `@riordan` |
-| [50k Boat Names](https://www.beautifulpublicdata.com/boat-names/) | `17 pts` | `@jonathanmkeegan` |
-| [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://www.docker.com/products/docker-sandboxes/) | `340 pts` | `@etoxin` |
-| [Tail-call optimization in C is relatively recent](https://lwn.net/Articles/1034703/) | `39 pts` | `@prakashqwerty` |
-| [Squeak/Smalltalk 6.1 Release Notes](https://squeak.org/release_notes/6.1/) | `20 pts` | `@fniephaus` |
+| [The UK's War on Anonymity Has Come to America](https://www.effort.news/uk-lobby) | `215 pts` | `@slowin` |
+| [Chicken Scheme 6.0](https://code.call-cc.org/releases/6.0.0/NEWS) | `50 pts` | `@eatonphil` |
+| [Show HN: Scroll through all 43252003274489856000 Rubik's Cube states](https://everycube.alen.is/) | `71 pts` | `@Alen123` |
+| [The “mechanical miracle” that ruined Mark Twain’s life](https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined) | `53 pts` | `@benbreen` |
+| [Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model) | `1047 pts` | `@riordan` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-10 13:26:28 UTC`*
+*Last automated pipeline execution: `2026-08-11 02:18:36 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
