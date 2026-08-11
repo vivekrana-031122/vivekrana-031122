@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [The UK's War on Anonymity Has Come to America](https://www.effort.news/uk-lobby) | `215 pts` | `@slowin` |
-| [Chicken Scheme 6.0](https://code.call-cc.org/releases/6.0.0/NEWS) | `50 pts` | `@eatonphil` |
-| [Show HN: Scroll through all 43252003274489856000 Rubik's Cube states](https://everycube.alen.is/) | `71 pts` | `@Alen123` |
-| [The “mechanical miracle” that ruined Mark Twain’s life](https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined) | `53 pts` | `@benbreen` |
-| [Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model) | `1047 pts` | `@riordan` |
+| [More than 10 firms pay up to $100k a month for access to Truth Social posts](https://www.bbc.com/news/articles/ce3q5nxpgk1o) | `82 pts` | `@whosgotch` |
+| [France to ban unsolicited telemarketing calls](https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html) | `524 pts` | `@aziaziazi` |
+| [England set to be one of the first countries to eliminate hepatitis C](https://www.bbc.com/news/articles/c75gk620r22o) | `6 pts` | `@stevekemp` |
+| [H3-metal – Native MiniMax-H3 inference for Apple Silicon](https://github.com/antirez/h3.c) | `338 pts` | `@swyx` |
+| [As AI eats the web, the internet’s collective memory is disappearing](https://thewalrus.ca/google-search-is-dying/) | `460 pts` | `@awnird` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-11 02:18:36 UTC`*
+*Last automated pipeline execution: `2026-08-11 13:22:29 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
