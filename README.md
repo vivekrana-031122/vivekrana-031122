@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [More than 10 firms pay up to $100k a month for access to Truth Social posts](https://www.bbc.com/news/articles/ce3q5nxpgk1o) | `82 pts` | `@whosgotch` |
-| [France to ban unsolicited telemarketing calls](https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html) | `524 pts` | `@aziaziazi` |
-| [England set to be one of the first countries to eliminate hepatitis C](https://www.bbc.com/news/articles/c75gk620r22o) | `6 pts` | `@stevekemp` |
-| [H3-metal – Native MiniMax-H3 inference for Apple Silicon](https://github.com/antirez/h3.c) | `338 pts` | `@swyx` |
-| [As AI eats the web, the internet’s collective memory is disappearing](https://thewalrus.ca/google-search-is-dying/) | `460 pts` | `@awnird` |
+| [WorldClaw Agentic 3D open-world generation at scale](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/) | `135 pts` | `@EwanG` |
+| [Compression is prediction](https://ngrok.com/blog/compression-is-prediction) | `271 pts` | `@nikolay` |
+| [Nvidia Nemotron 3.5 Lightning and NeMo Switchyard](https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/) | `187 pts` | `@droidjj` |
+| [Mojo 1.0](https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here) | `301 pts` | `@dayanruben` |
+| [Stealing Reasoning Traces from Proprietary LLM APIs](https://stolen-thoughts.com/) | `508 pts` | `@quantumgarbage` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-11 13:22:29 UTC`*
+*Last automated pipeline execution: `2026-08-12 02:33:24 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
