@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [2026 Eclipse Webcams](https://jonty.github.io/2026_eclipse_webcams/) | `141 pts` | `@zoenolan` |
-| [What sort of maths are LLMs good at?](https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/) | `129 pts` | `@ColinWright` |
-| [Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation](https://woxi.ad-si.com) | `115 pts` | `@adius` |
-| [LinkedIn CringeBot 3000](https://www.cringebot3000.com/) | `371 pts` | `@theanonymousone` |
-| [Delphi 13 Community Edition Is Now Available](https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/) | `46 pts` | `@layer8` |
+| [DeepSeek V4 Pro 0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813) | `766 pts` | `@explosion-s` |
+| [Delta](https://zed.dev/blog/introducing-delta) | `417 pts` | `@khy` |
+| [Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug](https://tailscale.com/blog/sqlite-wal-reset-bug) | `819 pts` | `@ropbear` |
+| [Qwen3.8-2.4T](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B) | `511 pts` | `@Philpax` |
+| [What's New in Flutter 3.47](https://flutter.dev/blog/whats-new-in-flutter-3-47) | `51 pts` | `@gumby271` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-12 13:27:20 UTC`*
+*Last automated pipeline execution: `2026-08-13 02:35:14 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
