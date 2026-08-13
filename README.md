@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [DeepSeek V4 Pro 0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813) | `766 pts` | `@explosion-s` |
-| [Delta](https://zed.dev/blog/introducing-delta) | `417 pts` | `@khy` |
-| [Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug](https://tailscale.com/blog/sqlite-wal-reset-bug) | `819 pts` | `@ropbear` |
-| [Qwen3.8-2.4T](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B) | `511 pts` | `@Philpax` |
-| [What's New in Flutter 3.47](https://flutter.dev/blog/whats-new-in-flutter-3-47) | `51 pts` | `@gumby271` |
+| [Deutsche Bank becomes first foreign yuan clearing bank in Europe](https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/) | `156 pts` | `@Markoff` |
+| [Choosing an AI model: one prompt, 11 models, different results](https://www.netlify.com/blog/one-prompt-11-models-very-different-results/) | `18 pts` | `@toddmorey` |
+| [ChatGPT Desktop (Codex Desktop) for Linux](https://openai.com/codex/) | `284 pts` | `@allanrbo` |
+| [The lattice of sets of natural numbers is rich (2021)](https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/) | `71 pts` | `@benmandrew` |
+| [Better Gaussian Splatting in Julia](https://pxl-th.github.io/blog/better-gs-julia/) | `24 pts` | `@pxl-th` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-13 02:35:14 UTC`*
+*Last automated pipeline execution: `2026-08-13 13:35:10 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
