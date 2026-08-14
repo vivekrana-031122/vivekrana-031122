@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Deutsche Bank becomes first foreign yuan clearing bank in Europe](https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/) | `156 pts` | `@Markoff` |
-| [Choosing an AI model: one prompt, 11 models, different results](https://www.netlify.com/blog/one-prompt-11-models-very-different-results/) | `18 pts` | `@toddmorey` |
-| [ChatGPT Desktop (Codex Desktop) for Linux](https://openai.com/codex/) | `284 pts` | `@allanrbo` |
-| [The lattice of sets of natural numbers is rich (2021)](https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/) | `71 pts` | `@benmandrew` |
-| [Better Gaussian Splatting in Julia](https://pxl-th.github.io/blog/better-gs-julia/) | `24 pts` | `@pxl-th` |
+| [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/) | `633 pts` | `@thisisauserid` |
+| [SparrowMap – Cameras that watch government vehicles](https://sparrowmap.com/) | `56 pts` | `@paulnpace` |
+| [Accelerating GPT-5.6 Sol Ultrafast](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai) | `439 pts` | `@pr337h4m` |
+| [Bluesky Protocol Services](https://atproto.com/blog/introducing-bluesky-protocol-services) | `73 pts` | `@danabramov` |
+| [DeepSeek Harness developer preview](https://deepseek.com/harness/en/) | `565 pts` | `@bjin` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-13 13:35:10 UTC`*
+*Last automated pipeline execution: `2026-08-14 02:33:19 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
