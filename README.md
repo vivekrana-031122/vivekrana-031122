@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/) | `633 pts` | `@thisisauserid` |
-| [SparrowMap – Cameras that watch government vehicles](https://sparrowmap.com/) | `56 pts` | `@paulnpace` |
-| [Accelerating GPT-5.6 Sol Ultrafast](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai) | `439 pts` | `@pr337h4m` |
-| [Bluesky Protocol Services](https://atproto.com/blog/introducing-bluesky-protocol-services) | `73 pts` | `@danabramov` |
-| [DeepSeek Harness developer preview](https://deepseek.com/harness/en/) | `565 pts` | `@bjin` |
+| [GLM-5.3: Frontier coding with emergent cyber capabilities](https://z.ai/blog/glm-5.3) | `690 pts` | `@pella` |
+| [Don't classify, hallucinate!](https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications) | `45 pts` | `@softwaredoug` |
+| [DeepSeek peak/off-peak pricing update](https://api-docs.deepseek.com/news/news260813/) | `104 pts` | `@fagnerbrack` |
+| [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/) | `899 pts` | `@thisisauserid` |
+| [Why does Opus 5 feel worse to work with?](https://mun-logadan.github.io/why-does-opus-5-feel-worse/) | `216 pts` | `@numeri` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-14 02:33:19 UTC`*
+*Last automated pipeline execution: `2026-08-14 13:23:07 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
