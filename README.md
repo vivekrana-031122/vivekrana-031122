@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Qwen 3.8 27B](https://huggingface.co/Qwen/Qwen3.8-27B-FP8) | `904 pts` | `@erdaltoprak` |
-| [Going Dark, and the era of law enforcement hacking](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/) | `201 pts` | `@vslira` |
-| [Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive) | `6 pts` | `@Bender` |
-| [Why does Opus 5 feel worse to work with?](https://mun-logadan.github.io/why-does-opus-5-feel-worse/) | `785 pts` | `@numeri` |
-| [The Ploopy A+ Trackball Is Here](https://blog.ploopy.co/the-aplus-is-finally-here-499) | `11 pts` | `@big_toast` |
+| [Auto-research with codex: How I achieved a 232x Faster Kernel](https://sankalp.bearblog.dev/autoresearch/) | `57 pts` | `@tosh` |
+| [The other Sean Byrne doesn't exist](https://conic.al/writing/the-other-sean-byrne-doesnt-exist/) | `246 pts` | `@rdl` |
+| [Qwen 3.8 27B](https://huggingface.co/Qwen/Qwen3.8-27B-FP8) | `1208 pts` | `@erdaltoprak` |
+| [The mathematical beauty of hyperbezier curves](https://linebender.org/blog/hyperbezier/) | `46 pts` | `@raphlinus` |
+| [Using GCC's Nested Functions with Wide Pointers and No Trampolines II](https://uecker.codeberg.page/2026-07-14.html) | `37 pts` | `@uecker` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-15 01:42:51 UTC`*
+*Last automated pipeline execution: `2026-08-15 12:52:20 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
