@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [GLM-5.3: Frontier coding with emergent cyber capabilities](https://z.ai/blog/glm-5.3) | `690 pts` | `@pella` |
-| [Don't classify, hallucinate!](https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications) | `45 pts` | `@softwaredoug` |
-| [DeepSeek peak/off-peak pricing update](https://api-docs.deepseek.com/news/news260813/) | `104 pts` | `@fagnerbrack` |
-| [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/) | `899 pts` | `@thisisauserid` |
-| [Why does Opus 5 feel worse to work with?](https://mun-logadan.github.io/why-does-opus-5-feel-worse/) | `216 pts` | `@numeri` |
+| [Qwen 3.8 27B](https://huggingface.co/Qwen/Qwen3.8-27B-FP8) | `904 pts` | `@erdaltoprak` |
+| [Going Dark, and the era of law enforcement hacking](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/) | `201 pts` | `@vslira` |
+| [Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive) | `6 pts` | `@Bender` |
+| [Why does Opus 5 feel worse to work with?](https://mun-logadan.github.io/why-does-opus-5-feel-worse/) | `785 pts` | `@numeri` |
+| [The Ploopy A+ Trackball Is Here](https://blog.ploopy.co/the-aplus-is-finally-here-499) | `11 pts` | `@big_toast` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-14 13:23:07 UTC`*
+*Last automated pipeline execution: `2026-08-15 01:42:51 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
