@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Auto-research with codex: How I achieved a 232x Faster Kernel](https://sankalp.bearblog.dev/autoresearch/) | `57 pts` | `@tosh` |
-| [The other Sean Byrne doesn't exist](https://conic.al/writing/the-other-sean-byrne-doesnt-exist/) | `246 pts` | `@rdl` |
-| [Qwen 3.8 27B](https://huggingface.co/Qwen/Qwen3.8-27B-FP8) | `1208 pts` | `@erdaltoprak` |
-| [The mathematical beauty of hyperbezier curves](https://linebender.org/blog/hyperbezier/) | `46 pts` | `@raphlinus` |
-| [Using GCC's Nested Functions with Wide Pointers and No Trampolines II](https://uecker.codeberg.page/2026-07-14.html) | `37 pts` | `@uecker` |
+| [Asus Bike Booster](https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/) | `52 pts` | `@wiradikusuma` |
+| [Semaglutide linked to lower predicted dementia risk](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432) | `348 pts` | `@randycupertino` |
+| [Cultivating a state of mind where new ideas are born (2023)](https://www.henrikkarlsson.xyz/p/good-ideas) | `79 pts` | `@felixbraun` |
+| [AI in drug discovery – what it is, where we stand and the path forward](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really) | `87 pts` | `@AnodicElegy` |
+| [At-home test for infected ticks could improve Lyme Disease diagnosis](https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/) | `211 pts` | `@gmays` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-15 12:52:20 UTC`*
+*Last automated pipeline execution: `2026-08-16 01:50:18 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
