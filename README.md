@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [A SAT Attack on Tarski's High School Algebra Problem](https://arxiv.org/abs/2608.08421) | `11 pts` | `@matt_d` |
-| [Asus Bike Booster](https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/) | `482 pts` | `@wiradikusuma` |
-| [Superconducting monolayer cuprate with a single CuO2 plane](https://www.nature.com/articles/s41586-026-10857-1) | `27 pts` | `@sbulaev` |
-| [Chestnut – eGPU dock with open-source firmware](https://hwbusters.com/news/comma-ai-egpu-dock-runs-open-source-firmware-249-bare-799-with-an-rx-9060/) | `42 pts` | `@txrx0000` |
-| [Asynchronous I/O in DuckDB: Work, Thread, Work](https://duckdb.org/2026/07/31/asynchronous-io) | `194 pts` | `@pdet` |
+| [The Life and Death of Direct File [pdf]](https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf) | `45 pts` | `@ronbenton` |
+| [A 3rd World Embedded Engineer Responds to "RISC-V They Should Have Known Better"](https://rvembedded.com/blog_post/12/) | `374 pts` | `@Narishma` |
+| [Qwen 3.8 27B is excellent, but it defaults to overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/) | `37 pts` | `@bilsbie` |
+| [Rhombus 1.1 is now available](https://blog.racket-lang.org/2026/08/rhombus-v1.1.html) | `11 pts` | `@spdegabrielle` |
+| [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts) | `541 pts` | `@tosh` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-16 12:53:27 UTC`*
+*Last automated pipeline execution: `2026-08-17 01:47:38 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
