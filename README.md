@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Qwen 3.8 27B is excellent, but it defaults to overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/) | `598 pts` | `@bilsbie` |
-| [GPT 5.6 Sol is the best "vision" model OpenAI ever released](https://blog.roboflow.com/openai-gpt-5-6/) | `11 pts` | `@plurby` |
-| [On A.I. regulation and messaging](https://twitter.com/DarioAmodei/status/2088758816376807762) | `137 pts` | `@jacquesm` |
-| [Buyer cancels showing after Deflock shows two cameras utilized by the HOA](https://twitter.com/lydiakauppi/status/2089196932413452386) | `34 pts` | `@bilsbie` |
-| [How Go detects struct copies with sync.noCopy](https://func25.dev/posts/go-sync-nocopy/) | `10 pts` | `@func25` |
+| [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/) | `214 pts` | `@gavide` |
+| [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html) | `141 pts` | `@shdon` |
+| [GPT-5.6 Sol Pricing Cut by 50%](https://openrouter.ai/openai/gpt-5.6-sol) | `110 pts` | `@Topfi` |
+| [Fairphone 6 and PostmarketOS working main camera](https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera) | `79 pts` | `@pizzaiolo` |
+| [A Preview of DuckDB v2.0](https://duckdb.org/2026/08/17/duckdb-20-highlights) | `536 pts` | `@ibotty` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-17 12:58:08 UTC`*
+*Last automated pipeline execution: `2026-08-18 01:42:30 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
