@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/) | `214 pts` | `@gavide` |
-| [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html) | `141 pts` | `@shdon` |
-| [GPT-5.6 Sol Pricing Cut by 50%](https://openrouter.ai/openai/gpt-5.6-sol) | `110 pts` | `@Topfi` |
-| [Fairphone 6 and PostmarketOS working main camera](https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera) | `79 pts` | `@pizzaiolo` |
-| [A Preview of DuckDB v2.0](https://duckdb.org/2026/08/17/duckdb-20-highlights) | `536 pts` | `@ibotty` |
+| [Linux 7.3 improves performance when running out of vRAM](https://pixelcluster.dev/VRAM-Overcommit/) | `276 pts` | `@flaburgan` |
+| [Teaching my kid to code with a modern MUD](https://tau.dev/2026/08/07/canon) | `26 pts` | `@andrewjanke` |
+| [Google buys crashed airline Spirit's data at auction, because AI](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962) | `203 pts` | `@pseudolus` |
+| [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/) | `599 pts` | `@gavide` |
+| [Rethinking Database Programming](https://acadia.engineering/blog/rethinking-database-programming) | `115 pts` | `@honungsburk` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-18 01:42:30 UTC`*
+*Last automated pipeline execution: `2026-08-18 12:59:58 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
