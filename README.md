@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Linux 7.3 improves performance when running out of vRAM](https://pixelcluster.dev/VRAM-Overcommit/) | `276 pts` | `@flaburgan` |
-| [Teaching my kid to code with a modern MUD](https://tau.dev/2026/08/07/canon) | `26 pts` | `@andrewjanke` |
-| [Google buys crashed airline Spirit's data at auction, because AI](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962) | `203 pts` | `@pseudolus` |
-| [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/) | `599 pts` | `@gavide` |
-| [Rethinking Database Programming](https://acadia.engineering/blog/rethinking-database-programming) | `115 pts` | `@honungsburk` |
+| [A 3D fruit fly on macOS desktop powered by the real FlyWire connectome](https://github.com/DenisSergeevitch/desktop-fly) | `155 pts` | `@phoenix120` |
+| [New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]](https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf) | `16 pts` | `@jplusequalt` |
+| [The Amazon tax](https://seths.blog/2026/08/the-amazon-tax/) | `937 pts` | `@herbertl` |
+| [Cerebras CS4](https://www.cerebras.ai/cs4) | `29 pts` | `@sunils34` |
+| [Solo – a .so loader for static Linux binaries](https://github.com/pg83/solo) | `36 pts` | `@zX41ZdbW` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-18 12:59:58 UTC`*
+*Last automated pipeline execution: `2026-08-19 01:44:55 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
