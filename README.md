@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [A 3D fruit fly on macOS desktop powered by the real FlyWire connectome](https://github.com/DenisSergeevitch/desktop-fly) | `155 pts` | `@phoenix120` |
-| [New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]](https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf) | `16 pts` | `@jplusequalt` |
-| [The Amazon tax](https://seths.blog/2026/08/the-amazon-tax/) | `937 pts` | `@herbertl` |
-| [Cerebras CS4](https://www.cerebras.ai/cs4) | `29 pts` | `@sunils34` |
-| [Solo – a .so loader for static Linux binaries](https://github.com/pg83/solo) | `36 pts` | `@zX41ZdbW` |
+| [GrapheneOS in 2027 available on high-end Motorola phones](https://grapheneos.social/@GrapheneOS/117078064184215730) | `123 pts` | `@exceptione` |
+| [OpenLogi](https://openlogi.org/en) | `1012 pts` | `@amatheus` |
+| [Air Theremin – a browser theremin you play by waving at your webcam](https://theremin.bizibah.com/) | `77 pts` | `@gurov` |
+| [Geolocating a random island using geometry and CUDA programming](https://yassa9.github.io/osint/gralhix-004/) | `18 pts` | `@yassa9` |
+| [Cerebras CS-4](https://www.cerebras.ai/cs4) | `351 pts` | `@sunils34` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-19 01:44:55 UTC`*
+*Last automated pipeline execution: `2026-08-19 13:00:52 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
