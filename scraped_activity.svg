@@ -30,38 +30,38 @@
   <!-- Graph Plotting -->
   
   <!-- Bar 0 -->
-  <rect x="75" y="78" width="30" height="82" rx="4" fill="url(#barGrad)"/>
-  <text x="90" y="72" font-family="monospace" font-size="8" fill="#58a6ff" text-anchor="middle" font-weight="bold">596</text>
-  <text x="90" y="176" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="10" fill="#8b949e" text-anchor="middle">Thu</text>
+  <rect x="75" y="75" width="30" height="85" rx="4" fill="url(#barGrad)"/>
+  <text x="90" y="69" font-family="monospace" font-size="8" fill="#58a6ff" text-anchor="middle" font-weight="bold">620</text>
+  <text x="90" y="176" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="10" fill="#8b949e" text-anchor="middle">Fri</text>
   
   <!-- Bar 1 -->
-  <rect x="127" y="123" width="30" height="37" rx="4" fill="url(#barGrad)"/>
-  <text x="142" y="117" font-family="monospace" font-size="8" fill="#58a6ff" text-anchor="middle" font-weight="bold">272</text>
-  <text x="142" y="176" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="10" fill="#8b949e" text-anchor="middle">Fri</text>
+  <rect x="127" y="78" width="30" height="82" rx="4" fill="url(#barGrad)"/>
+  <text x="142" y="72" font-family="monospace" font-size="8" fill="#58a6ff" text-anchor="middle" font-weight="bold">601</text>
+  <text x="142" y="176" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="10" fill="#8b949e" text-anchor="middle">Sat</text>
   
   <!-- Bar 2 -->
   <rect x="179" y="70" width="30" height="90" rx="4" fill="url(#barGrad)"/>
-  <text x="194" y="64" font-family="monospace" font-size="8" fill="#58a6ff" text-anchor="middle" font-weight="bold">651</text>
-  <text x="194" y="176" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="10" fill="#8b949e" text-anchor="middle">Sat</text>
+  <text x="194" y="64" font-family="monospace" font-size="8" fill="#58a6ff" text-anchor="middle" font-weight="bold">652</text>
+  <text x="194" y="176" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="10" fill="#8b949e" text-anchor="middle">Sun</text>
   
   <!-- Bar 3 -->
-  <rect x="231" y="89" width="30" height="71" rx="4" fill="url(#barGrad)"/>
-  <text x="246" y="83" font-family="monospace" font-size="8" fill="#58a6ff" text-anchor="middle" font-weight="bold">516</text>
-  <text x="246" y="176" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="10" fill="#8b949e" text-anchor="middle">Sun</text>
+  <rect x="231" y="72" width="30" height="88" rx="4" fill="url(#barGrad)"/>
+  <text x="246" y="66" font-family="monospace" font-size="8" fill="#58a6ff" text-anchor="middle" font-weight="bold">642</text>
+  <text x="246" y="176" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="10" fill="#8b949e" text-anchor="middle">Mon</text>
   
   <!-- Bar 4 -->
-  <rect x="283" y="118" width="30" height="42" rx="4" fill="url(#barGrad)"/>
-  <text x="298" y="112" font-family="monospace" font-size="8" fill="#58a6ff" text-anchor="middle" font-weight="bold">311</text>
-  <text x="298" y="176" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="10" fill="#8b949e" text-anchor="middle">Mon</text>
+  <rect x="283" y="115" width="30" height="45" rx="4" fill="url(#barGrad)"/>
+  <text x="298" y="109" font-family="monospace" font-size="8" fill="#58a6ff" text-anchor="middle" font-weight="bold">327</text>
+  <text x="298" y="176" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="10" fill="#8b949e" text-anchor="middle">Tue</text>
   
   <!-- Bar 5 -->
-  <rect x="335" y="90" width="30" height="70" rx="4" fill="url(#barGrad)"/>
-  <text x="350" y="84" font-family="monospace" font-size="8" fill="#58a6ff" text-anchor="middle" font-weight="bold">511</text>
-  <text x="350" y="176" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="10" fill="#8b949e" text-anchor="middle">Tue</text>
+  <rect x="335" y="108" width="30" height="52" rx="4" fill="url(#barGrad)"/>
+  <text x="350" y="102" font-family="monospace" font-size="8" fill="#58a6ff" text-anchor="middle" font-weight="bold">383</text>
+  <text x="350" y="176" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="10" fill="#8b949e" text-anchor="middle">Wed</text>
   
   <!-- Bar 6 -->
-  <rect x="387" y="112" width="30" height="48" rx="4" fill="url(#barGrad)"/>
-  <text x="402" y="106" font-family="monospace" font-size="8" fill="#58a6ff" text-anchor="middle" font-weight="bold">352</text>
-  <text x="402" y="176" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="10" fill="#8b949e" text-anchor="middle">Wed</text>
+  <rect x="387" y="78" width="30" height="82" rx="4" fill="url(#barGrad)"/>
+  <text x="402" y="72" font-family="monospace" font-size="8" fill="#58a6ff" text-anchor="middle" font-weight="bold">595</text>
+  <text x="402" y="176" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="10" fill="#8b949e" text-anchor="middle">Thu</text>
   
 </svg>

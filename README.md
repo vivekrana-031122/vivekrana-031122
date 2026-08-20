@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [GrapheneOS in 2027 available on high-end Motorola phones](https://grapheneos.social/@GrapheneOS/117078064184215730) | `123 pts` | `@exceptione` |
-| [OpenLogi](https://openlogi.org/en) | `1012 pts` | `@amatheus` |
-| [Air Theremin – a browser theremin you play by waving at your webcam](https://theremin.bizibah.com/) | `77 pts` | `@gurov` |
-| [Geolocating a random island using geometry and CUDA programming](https://yassa9.github.io/osint/gralhix-004/) | `18 pts` | `@yassa9` |
-| [Cerebras CS-4](https://www.cerebras.ai/cs4) | `351 pts` | `@sunils34` |
+| [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) | `634 pts` | `@rvz` |
+| [Go 1.27](https://go.dev/blog/go1.27) | `445 pts` | `@database64128` |
+| [Google replaced Git tags for certain source code with obtaining via Google Drive](https://grapheneos.social/@GrapheneOS/117057099753905023) | `292 pts` | `@Animux` |
+| [Unlocking a locked/deactivated e-waste Cricut Maker](https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/) | `130 pts` | `@1e1a` |
+| [Unsloth Dynamic 3.0 GGUFs](https://unsloth.ai/docs/basics/dynamic-3.0-ggufs) | `184 pts` | `@jonesy827` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-19 13:00:52 UTC`*
+*Last automated pipeline execution: `2026-08-20 01:43:39 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
