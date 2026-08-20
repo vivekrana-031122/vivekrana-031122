@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) | `634 pts` | `@rvz` |
-| [Go 1.27](https://go.dev/blog/go1.27) | `445 pts` | `@database64128` |
-| [Google replaced Git tags for certain source code with obtaining via Google Drive](https://grapheneos.social/@GrapheneOS/117057099753905023) | `292 pts` | `@Animux` |
-| [Unlocking a locked/deactivated e-waste Cricut Maker](https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/) | `130 pts` | `@1e1a` |
-| [Unsloth Dynamic 3.0 GGUFs](https://unsloth.ai/docs/basics/dynamic-3.0-ggufs) | `184 pts` | `@jonesy827` |
+| [Don't Paste the AI, please](https://dontpastetheai.com/) | `644 pts` | `@pjerem` |
+| [AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html) | `210 pts` | `@emctech` |
+| [Show HN: I trained a 125M model to autocomplete piano on-device](https://simedw.com/2026/08/20/midi-autocomplete/) | `48 pts` | `@simedw` |
+| [Windows brings out the Rorschach test in everyone (2003)](https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803) | `255 pts` | `@luu` |
+| [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) | `898 pts` | `@rvz` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-20 01:43:39 UTC`*
+*Last automated pipeline execution: `2026-08-20 13:03:33 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
