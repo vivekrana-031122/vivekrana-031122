@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Copyright does not protect AI-generated content in EU](https://mathstodon.xyz/@maxpool/117128107757895678) | `84 pts` | `@u1hcw9nx` |
-| [The August 17 outage, and the work ahead](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/) | `316 pts` | `@0xedb` |
-| [Consumer Rights Wiki](https://consumerrights.wiki/w/Main_Page) | `219 pts` | `@gregsadetsky` |
-| [There's no such thing as a small software team anymore](https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/) | `19 pts` | `@mooreslaw` |
-| [I like 'em thick: an apology to my English teachers](https://www.experimental-history.com/p/i-like-em-thick) | `560 pts` | `@Ariarule` |
+| [DeepSeek-v4-flash-vision-exp](https://api-docs.deepseek.com/guides/vision/) | `191 pts` | `@dares2573` |
+| [AI companies destroy physical books – let's scan rare books before it's too late](https://annas-archive.pk/blog/physical-destruction.html) | `163 pts` | `@darccio` |
+| [TigerBeetle Core System Architecture: Deconstructing Performance Engineering](https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering) | `45 pts` | `@ksec` |
+| [The Lost Treasure of Sid Meier's Pirates](https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/) | `150 pts` | `@spankibalt` |
+| [Small, native web tricks worth remembering](https://htmlcat.net/) | `104 pts` | `@marcomezzavilla` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-21 01:48:47 UTC`*
+*Last automated pipeline execution: `2026-08-21 13:02:08 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
