@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Don't Paste the AI, please](https://dontpastetheai.com/) | `644 pts` | `@pjerem` |
-| [AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html) | `210 pts` | `@emctech` |
-| [Show HN: I trained a 125M model to autocomplete piano on-device](https://simedw.com/2026/08/20/midi-autocomplete/) | `48 pts` | `@simedw` |
-| [Windows brings out the Rorschach test in everyone (2003)](https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803) | `255 pts` | `@luu` |
-| [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) | `898 pts` | `@rvz` |
+| [Copyright does not protect AI-generated content in EU](https://mathstodon.xyz/@maxpool/117128107757895678) | `84 pts` | `@u1hcw9nx` |
+| [The August 17 outage, and the work ahead](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/) | `316 pts` | `@0xedb` |
+| [Consumer Rights Wiki](https://consumerrights.wiki/w/Main_Page) | `219 pts` | `@gregsadetsky` |
+| [There's no such thing as a small software team anymore](https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/) | `19 pts` | `@mooreslaw` |
+| [I like 'em thick: an apology to my English teachers](https://www.experimental-history.com/p/i-like-em-thick) | `560 pts` | `@Ariarule` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-20 13:03:33 UTC`*
+*Last automated pipeline execution: `2026-08-21 01:48:47 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
