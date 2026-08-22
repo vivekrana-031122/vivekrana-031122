@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [DeepSeek-v4-flash-vision-exp](https://api-docs.deepseek.com/guides/vision/) | `191 pts` | `@dares2573` |
-| [AI companies destroy physical books – let's scan rare books before it's too late](https://annas-archive.pk/blog/physical-destruction.html) | `163 pts` | `@darccio` |
-| [TigerBeetle Core System Architecture: Deconstructing Performance Engineering](https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering) | `45 pts` | `@ksec` |
-| [The Lost Treasure of Sid Meier's Pirates](https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/) | `150 pts` | `@spankibalt` |
-| [Small, native web tricks worth remembering](https://htmlcat.net/) | `104 pts` | `@marcomezzavilla` |
+| [Kobo can run apps now](https://bandarlabs.github.io/Cobalt/) | `434 pts` | `@thepoet` |
+| [Felony Bench](https://www.felonybench.com/) | `523 pts` | `@colinprince` |
+| [Three important steps in my maturation process](https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/) | `47 pts` | `@tdullien` |
+| [Scientists release biggest 2D map of the universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/) | `149 pts` | `@NKosmatos` |
+| [Kagi added a setting for removing paywalled links from search results](https://kagi.com/changelog#11296) | `1011 pts` | `@speckx` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-21 13:02:08 UTC`*
+*Last automated pipeline execution: `2026-08-22 01:42:04 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
