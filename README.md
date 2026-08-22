@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Kobo can run apps now](https://bandarlabs.github.io/Cobalt/) | `434 pts` | `@thepoet` |
-| [Felony Bench](https://www.felonybench.com/) | `523 pts` | `@colinprince` |
-| [Three important steps in my maturation process](https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/) | `47 pts` | `@tdullien` |
-| [Scientists release biggest 2D map of the universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/) | `149 pts` | `@NKosmatos` |
-| [Kagi added a setting for removing paywalled links from search results](https://kagi.com/changelog#11296) | `1011 pts` | `@speckx` |
+| [Canada suspends trade negotiations with USA and match tariffs dollar for dollar](https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations) | `369 pts` | `@backlit4034` |
+| [Munder Difflin – Agent harness to run an office of your clones](https://munderdiffl.in/) | `57 pts` | `@simonpure` |
+| [Z80–The 1970s Microprocessor Still Alive](https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi) | `37 pts` | `@asdefghyk` |
+| [Rust Glancer: Rust LSP using 100x less RAM](https://rust-glancer.github.io/blog/hello-world/) | `302 pts` | `@matklad` |
+| [Felony Bench](https://www.felonybench.com/) | `752 pts` | `@colinprince` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-22 01:42:04 UTC`*
+*Last automated pipeline execution: `2026-08-22 12:53:14 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
