@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Figmimic – A bookmarklet to copy any webpage into Figma as editable layers](https://marcua.net/minitools/figmimic/) | `20 pts` | `@speckx` |
-| [NanoGPT Speedrun Frontier](https://www.primeintellect.ai/research/nanogpt-speedrun) | `44 pts` | `@stared` |
-| [Scrap (2006)](https://twitter.com/moxie/status/2091218652133732491) | `314 pts` | `@tosh` |
-| [Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917) | `181 pts` | `@felineflock` |
-| [Hister – A private, full content search index that you control](https://hister.org/) | `234 pts` | `@auraham` |
+| [Sydney Marathon medal mistakenly depicts Munich stadium](https://www.bbc.com/news/articles/cvg92y1wzn8o) | `34 pts` | `@epestr` |
+| [To become a better writer, read as much as you can](https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/) | `242 pts` | `@andsoitis` |
+| [The End of an Athlon](http://www.os2museum.com/wp/the-end-of-an-athlon/) | `125 pts` | `@userbinator` |
+| [Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive](https://skylens.yantraai.app/) | `23 pts` | `@skylensspace` |
+| [JIT Compiling Code in 5μs](https://malisper.me/jit-compiling-code-in-5-us/) | `93 pts` | `@zX41ZdbW` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-23 01:52:08 UTC`*
+*Last automated pipeline execution: `2026-08-23 12:54:25 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
