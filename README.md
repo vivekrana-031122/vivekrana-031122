@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Canada suspends trade negotiations with USA and match tariffs dollar for dollar](https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations) | `369 pts` | `@backlit4034` |
-| [Munder Difflin – Agent harness to run an office of your clones](https://munderdiffl.in/) | `57 pts` | `@simonpure` |
-| [Z80–The 1970s Microprocessor Still Alive](https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi) | `37 pts` | `@asdefghyk` |
-| [Rust Glancer: Rust LSP using 100x less RAM](https://rust-glancer.github.io/blog/hello-world/) | `302 pts` | `@matklad` |
-| [Felony Bench](https://www.felonybench.com/) | `752 pts` | `@colinprince` |
+| [Figmimic – A bookmarklet to copy any webpage into Figma as editable layers](https://marcua.net/minitools/figmimic/) | `20 pts` | `@speckx` |
+| [NanoGPT Speedrun Frontier](https://www.primeintellect.ai/research/nanogpt-speedrun) | `44 pts` | `@stared` |
+| [Scrap (2006)](https://twitter.com/moxie/status/2091218652133732491) | `314 pts` | `@tosh` |
+| [Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917) | `181 pts` | `@felineflock` |
+| [Hister – A private, full content search index that you control](https://hister.org/) | `234 pts` | `@auraham` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-22 12:53:14 UTC`*
+*Last automated pipeline execution: `2026-08-23 01:52:08 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
