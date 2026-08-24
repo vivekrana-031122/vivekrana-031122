@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Sydney Marathon medal mistakenly depicts Munich stadium](https://www.bbc.com/news/articles/cvg92y1wzn8o) | `34 pts` | `@epestr` |
-| [To become a better writer, read as much as you can](https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/) | `242 pts` | `@andsoitis` |
-| [The End of an Athlon](http://www.os2museum.com/wp/the-end-of-an-athlon/) | `125 pts` | `@userbinator` |
-| [Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive](https://skylens.yantraai.app/) | `23 pts` | `@skylensspace` |
-| [JIT Compiling Code in 5μs](https://malisper.me/jit-compiling-code-in-5-us/) | `93 pts` | `@zX41ZdbW` |
+| [Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/) | `267 pts` | `@schlarpc` |
+| [How I find problems to solve as a staff engineer](https://lalitm.com/post/find-problems-staff-engineer/) | `267 pts` | `@vanpra` |
+| [Anthropic's best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245) | `222 pts` | `@naves` |
+| [Google Workspace thinks my domain is an email provider (2025)](https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/) | `185 pts` | `@el1s7` |
+| [My agent.md to improve LLM-assisted code quality](https://fabiensanglard.net/agent.md/index.html) | `164 pts` | `@ibobev` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-23 12:54:25 UTC`*
+*Last automated pipeline execution: `2026-08-24 01:49:40 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
