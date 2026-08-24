@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/) | `267 pts` | `@schlarpc` |
-| [How I find problems to solve as a staff engineer](https://lalitm.com/post/find-problems-staff-engineer/) | `267 pts` | `@vanpra` |
-| [Anthropic's best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245) | `222 pts` | `@naves` |
-| [Google Workspace thinks my domain is an email provider (2025)](https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/) | `185 pts` | `@el1s7` |
-| [My agent.md to improve LLM-assisted code quality](https://fabiensanglard.net/agent.md/index.html) | `164 pts` | `@ibobev` |
+| [SeL4 security proofs now complete on AArch64](https://proofcraft.systems/news-2026/#2026-08-21) | `46 pts` | `@snvzz` |
+| [I were 17, I'd learn how to build LLMs from scratch](https://twitter.com/paulg/status/2091544343589060625) | `250 pts` | `@bilsbie` |
+| [Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/) | `1086 pts` | `@schlarpc` |
+| [FDA clears blood test to aid evaluation for Alzheimer's disease](https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/) | `86 pts` | `@dabinat` |
+| [The Future Belongs to the Weird](https://essays.georgestrakhov.com/weird/) | `49 pts` | `@georgestrakhov` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-24 01:49:40 UTC`*
+*Last automated pipeline execution: `2026-08-24 13:04:52 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
