@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [SeL4 security proofs now complete on AArch64](https://proofcraft.systems/news-2026/#2026-08-21) | `46 pts` | `@snvzz` |
-| [I were 17, I'd learn how to build LLMs from scratch](https://twitter.com/paulg/status/2091544343589060625) | `250 pts` | `@bilsbie` |
-| [Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/) | `1086 pts` | `@schlarpc` |
-| [FDA clears blood test to aid evaluation for Alzheimer's disease](https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/) | `86 pts` | `@dabinat` |
-| [The Future Belongs to the Weird](https://essays.georgestrakhov.com/weird/) | `49 pts` | `@georgestrakhov` |
+| [iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm) | `217 pts` | `@K7PJP` |
+| [Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded](https://twitter.com/lemire/status/2091894299289874926) | `723 pts` | `@tosh` |
+| [MS Paint and Photos inivisibly watermark even locally generated output with GUID](https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/) | `562 pts` | `@ComputerGuru` |
+| [Moon (2024)](https://ciechanow.ski/moon/) | `97 pts` | `@simonebrunozzi` |
+| [The entire city of San Francisco as a video game](https://sf.thijs.gg/) | `346 pts` | `@centrosphere` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-24 13:04:52 UTC`*
+*Last automated pipeline execution: `2026-08-25 01:43:41 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
