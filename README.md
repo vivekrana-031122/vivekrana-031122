@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm) | `217 pts` | `@K7PJP` |
-| [Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded](https://twitter.com/lemire/status/2091894299289874926) | `723 pts` | `@tosh` |
-| [MS Paint and Photos inivisibly watermark even locally generated output with GUID](https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/) | `562 pts` | `@ComputerGuru` |
-| [Moon (2024)](https://ciechanow.ski/moon/) | `97 pts` | `@simonebrunozzi` |
-| [The entire city of San Francisco as a video game](https://sf.thijs.gg/) | `346 pts` | `@centrosphere` |
+| [Don't Wordle](https://dontwordle.com/) | `67 pts` | `@Hbruz0` |
+| [France's tax agency got hacked (in French)](https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/) | `16 pts` | `@zakxxi` |
+| [HelloAssembly The smallest possible complete Windows application](https://github.com/PlummersSoftwareLLC/HelloAssembly) | `17 pts` | `@Bluestein` |
+| [iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm) | `517 pts` | `@K7PJP` |
+| [MS Paint and Photos inivisibly watermark even locally generated output with GUID](https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/) | `762 pts` | `@ComputerGuru` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-25 01:43:41 UTC`*
+*Last automated pipeline execution: `2026-08-25 13:01:40 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
