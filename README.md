@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Nvidia agrees to acquire Hugging Face for $13B](https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8) | `1073 pts` | `@mfiguiere` |
-| [Mechanical Turk shutting down September 30](https://www.mturk.com/) | `345 pts` | `@tmp10423288442` |
-| [GLM-5.3-Flash](https://z.ai/blog/glm-5.3-flash) | `1024 pts` | `@Philpax` |
-| [Asahi Linux Progress Report: Linux 7.2](https://asahilinux.org/2026/08/progress-report-7-2/) | `274 pts` | `@pizzaiolo` |
-| [Tailcat – Like netcat, but over Tailscale’s data plane](https://github.com/tailscale/tailcat) | `572 pts` | `@nderjung` |
+| [Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/) | `363 pts` | `@TangerineDream` |
+| [Small Models Have Arrived](https://calv.info/small-models-have-arrived) | `352 pts` | `@tosh` |
+| [507 Mechanical Movements](https://507movements.com/) | `415 pts` | `@helloplanets` |
+| [Show HN: We built open OpenRouter that turns usage into a better model](https://github.com/experientiallabs/experiential) | `14 pts` | `@SilenN` |
+| [We found a division by zero bug in FFmpeg with a vibecoded fuzzer](https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290) | `125 pts` | `@dclavijo` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-27 09:20:10 UTC`*
+*Last automated pipeline execution: `2026-08-27 22:10:59 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
