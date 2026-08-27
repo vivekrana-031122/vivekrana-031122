@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [RAG Is Simpler Than You Think](https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think) | `175 pts` | `@j0selit0` |
-| [Oldinsurancemaps.net is now a Charter Project](https://openstreetmap.us/news/2026/08/oim-charter-project/) | `100 pts` | `@altilunium` |
-| [Bill Gates: The turbulent AI era is here](https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make) | `8 pts` | `@ilamont` |
-| [Omarchy development practices lead to predictable security issues](https://blog.happyfellow.dev/merchants-of-insecurity/) | `171 pts` | `@arn3n` |
-| [A curmudgeon tries a language server](https://entropicthoughts.com/curmudgeon-tries-language-server) | `4 pts` | `@crescit_eundo` |
+| [Nvidia agrees to acquire Hugging Face for $13B](https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8) | `1073 pts` | `@mfiguiere` |
+| [Mechanical Turk shutting down September 30](https://www.mturk.com/) | `345 pts` | `@tmp10423288442` |
+| [GLM-5.3-Flash](https://z.ai/blog/glm-5.3-flash) | `1024 pts` | `@Philpax` |
+| [Asahi Linux Progress Report: Linux 7.2](https://asahilinux.org/2026/08/progress-report-7-2/) | `274 pts` | `@pizzaiolo` |
+| [Tailcat – Like netcat, but over Tailscale’s data plane](https://github.com/tailscale/tailcat) | `572 pts` | `@nderjung` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-26 13:06:52 UTC`*
+*Last automated pipeline execution: `2026-08-27 09:20:10 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
