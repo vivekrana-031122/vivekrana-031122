@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Hilariously Fast Volume Computation with the Divergence Theorem](https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html) | `71 pts` | `@luu` |
-| [Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/) | `783 pts` | `@TangerineDream` |
-| [Small Models Have Arrived](https://calv.info/small-models-have-arrived) | `666 pts` | `@tosh` |
-| [Sovereign Tech Agency invests €500k in Flatpak](https://modal.cx/blog/announcing-flatpak-sta/) | `150 pts` | `@eigenspace` |
-| [507 Mechanical Movements](https://507movements.com/) | `592 pts` | `@helloplanets` |
+| [Stopping the smart TV from being used against you](https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/) | `87 pts` | `@speckx` |
+| [GUIs should be fully keyboard-driven](https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html) | `467 pts` | `@ckardaris` |
+| [Htmx 4.0](https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released) | `429 pts` | `@rmsaksida` |
+| [25,000 Lbs. Of Chicken Products Recalled in 5 States: USDA](https://www.thehealthy.com/news/chicken-recall-fsis-august-2026/) | `164 pts` | `@randycupertino` |
+| [Just the rumour of a bug is enough to find an exploit these days](https://anil.recoil.org/notes/rumour-is-the-exploit) | `205 pts` | `@avsm` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-28 11:09:38 UTC`*
+*Last automated pipeline execution: `2026-08-28 22:11:22 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
