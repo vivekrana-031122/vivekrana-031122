@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/) | `363 pts` | `@TangerineDream` |
-| [Small Models Have Arrived](https://calv.info/small-models-have-arrived) | `352 pts` | `@tosh` |
-| [507 Mechanical Movements](https://507movements.com/) | `415 pts` | `@helloplanets` |
-| [Show HN: We built open OpenRouter that turns usage into a better model](https://github.com/experientiallabs/experiential) | `14 pts` | `@SilenN` |
-| [We found a division by zero bug in FFmpeg with a vibecoded fuzzer](https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290) | `125 pts` | `@dclavijo` |
+| [Hilariously Fast Volume Computation with the Divergence Theorem](https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html) | `71 pts` | `@luu` |
+| [Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/) | `783 pts` | `@TangerineDream` |
+| [Small Models Have Arrived](https://calv.info/small-models-have-arrived) | `666 pts` | `@tosh` |
+| [Sovereign Tech Agency invests €500k in Flatpak](https://modal.cx/blog/announcing-flatpak-sta/) | `150 pts` | `@eigenspace` |
+| [507 Mechanical Movements](https://507movements.com/) | `592 pts` | `@helloplanets` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-27 22:10:59 UTC`*
+*Last automated pipeline execution: `2026-08-28 11:09:38 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
