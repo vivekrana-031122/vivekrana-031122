@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/) | `402 pts` | `@meetpateltech` |
-| [Boot a Virtual iPhone via Apple's Virtualization.framework](https://github.com/Lakr233/vphone-cli) | `217 pts` | `@hentrep` |
-| [GUIs should be fully keyboard-driven](https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html) | `732 pts` | `@ckardaris` |
-| [TurboKV: Insanely fast Rust key-value store](https://github.com/kingroryg/turbokv) | `68 pts` | `@rgbimbochamp` |
-| [Htmx 4.0](https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released) | `616 pts` | `@rmsaksida` |
+| [Debian votes to allow "responsible use of generative AI"](https://lwn.net/Articles/1091231/) | `282 pts` | `@pluc` |
+| [SQLite as a Document Database (2020)](https://dgl.cx/2020/06/sqlite-json-support) | `45 pts` | `@lioeters` |
+| [Indirect Calling of Nested Functions on GCC Without Executable Stack](https://uecker.codeberg.page/2026-08-29.html) | `33 pts` | `@uecker` |
+| [Tether: iMessage, SMS, etc. on Linux](https://zackbartel.com/blog/2026/08/tether/) | `27 pts` | `@zackb` |
+| [Show HN: Typebase – A single-folder back end you write in TypeScript](https://typebase.io) | `42 pts` | `@andrewww-dev` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-29 06:54:07 UTC`*
+*Last automated pipeline execution: `2026-08-29 16:38:43 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
