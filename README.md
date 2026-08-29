@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Stopping the smart TV from being used against you](https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/) | `87 pts` | `@speckx` |
-| [GUIs should be fully keyboard-driven](https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html) | `467 pts` | `@ckardaris` |
-| [Htmx 4.0](https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released) | `429 pts` | `@rmsaksida` |
-| [25,000 Lbs. Of Chicken Products Recalled in 5 States: USDA](https://www.thehealthy.com/news/chicken-recall-fsis-august-2026/) | `164 pts` | `@randycupertino` |
-| [Just the rumour of a bug is enough to find an exploit these days](https://anil.recoil.org/notes/rumour-is-the-exploit) | `205 pts` | `@avsm` |
+| [Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/) | `402 pts` | `@meetpateltech` |
+| [Boot a Virtual iPhone via Apple's Virtualization.framework](https://github.com/Lakr233/vphone-cli) | `217 pts` | `@hentrep` |
+| [GUIs should be fully keyboard-driven](https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html) | `732 pts` | `@ckardaris` |
+| [TurboKV: Insanely fast Rust key-value store](https://github.com/kingroryg/turbokv) | `68 pts` | `@rgbimbochamp` |
+| [Htmx 4.0](https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released) | `616 pts` | `@rmsaksida` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-28 22:11:22 UTC`*
+*Last automated pipeline execution: `2026-08-29 06:54:07 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
