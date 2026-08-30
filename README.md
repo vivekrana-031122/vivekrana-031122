@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Debian votes to allow "responsible use of generative AI"](https://lwn.net/Articles/1091231/) | `282 pts` | `@pluc` |
-| [SQLite as a Document Database (2020)](https://dgl.cx/2020/06/sqlite-json-support) | `45 pts` | `@lioeters` |
-| [Indirect Calling of Nested Functions on GCC Without Executable Stack](https://uecker.codeberg.page/2026-08-29.html) | `33 pts` | `@uecker` |
-| [Tether: iMessage, SMS, etc. on Linux](https://zackbartel.com/blog/2026/08/tether/) | `27 pts` | `@zackb` |
-| [Show HN: Typebase – A single-folder back end you write in TypeScript](https://typebase.io) | `42 pts` | `@andrewww-dev` |
+| [Bug Blindness](https://danluu.com/bug-blind/) | `145 pts` | `@davidmckenna` |
+| [Algorithmic Rent-Pricing Litigation Expands Under New State and Local Laws](https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws) | `30 pts` | `@toomuchtodo` |
+| [Hy4 preview](https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/) | `236 pts` | `@shenli3514` |
+| [RISC-V is now officially supported by CPython](https://blog.python.org/2026/08/riscv-now-officially-supported/) | `68 pts` | `@lumpa` |
+| [FreeCORE TrueNAS Core – Continued](https://freecore.org/) | `57 pts` | `@sashk` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-29 16:38:43 UTC`*
+*Last automated pipeline execution: `2026-08-30 05:09:06 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
