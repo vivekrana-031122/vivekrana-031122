@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Bug Blindness](https://danluu.com/bug-blind/) | `145 pts` | `@davidmckenna` |
-| [Algorithmic Rent-Pricing Litigation Expands Under New State and Local Laws](https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws) | `30 pts` | `@toomuchtodo` |
-| [Hy4 preview](https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/) | `236 pts` | `@shenli3514` |
-| [RISC-V is now officially supported by CPython](https://blog.python.org/2026/08/riscv-now-officially-supported/) | `68 pts` | `@lumpa` |
-| [FreeCORE TrueNAS Core – Continued](https://freecore.org/) | `57 pts` | `@sashk` |
+| [Creepy Crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies) | `248 pts` | `@zdw` |
+| [Haiku R1/beta6 has been released](https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6) | `30 pts` | `@metrofun` |
+| [Omarchy: Any User Process Can Escalate to Root](https://0xcc.io/posts/omarchy-root-creds/) | `14 pts` | `@trap0xcc` |
+| [Hacking IKEA Furniture](https://greenlightning.eu/diy/hacking-ikea-furniture/) | `139 pts` | `@greenlightning` |
+| [Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video]](https://www.youtube.com/watch?v=hpj6r6CjJf8) | `180 pts` | `@surprisetalk` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-30 05:09:06 UTC`*
+*Last automated pipeline execution: `2026-08-30 16:33:44 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
