@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [“I just chose words carefully”](https://unsung.aresluna.org/i-just-chose-words-carefully/) | `476 pts` | `@zdw` |
-| [P99 0 ms* autocomplete for 240M domain names](https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names) | `30 pts` | `@dbalatero` |
-| [Creepy Crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies) | `1006 pts` | `@zdw` |
-| [It takes 5 cloud services to hear my doorbell](https://blog.vghaisas.com/rube-goldberg-doorbell/) | `69 pts` | `@vghaisas` |
-| [The EU has begun enforcing the AI Act: first RFIs to model providers](https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis) | `27 pts` | `@cdnsteve` |
+| [I turned my security cameras into an automatic bird identification system](https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/) | `156 pts` | `@speckx` |
+| [Playa Phone](https://playaphone.com/) | `306 pts` | `@cutoff` |
+| [A walkable ASCII cyberpunk city in one HTML file [video]](https://www.youtube.com/watch?v=3YtygAx_C6A) | `21 pts` | `@keithcarolus` |
+| [Tmp.0ut, Vol. 5](https://tmpout.sh/5/) | `28 pts` | `@kmstout` |
+| [ChatGPT Work Tool and Skill Reference](https://codex-tool-reference.simonw.chatgpt.site/) | `122 pts` | `@ijidak` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-31 05:16:59 UTC`*
+*Last automated pipeline execution: `2026-08-31 19:05:14 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
