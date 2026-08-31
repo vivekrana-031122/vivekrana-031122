@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Creepy Crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies) | `248 pts` | `@zdw` |
-| [Haiku R1/beta6 has been released](https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6) | `30 pts` | `@metrofun` |
-| [Omarchy: Any User Process Can Escalate to Root](https://0xcc.io/posts/omarchy-root-creds/) | `14 pts` | `@trap0xcc` |
-| [Hacking IKEA Furniture](https://greenlightning.eu/diy/hacking-ikea-furniture/) | `139 pts` | `@greenlightning` |
-| [Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video]](https://www.youtube.com/watch?v=hpj6r6CjJf8) | `180 pts` | `@surprisetalk` |
+| [“I just chose words carefully”](https://unsung.aresluna.org/i-just-chose-words-carefully/) | `476 pts` | `@zdw` |
+| [P99 0 ms* autocomplete for 240M domain names](https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names) | `30 pts` | `@dbalatero` |
+| [Creepy Crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies) | `1006 pts` | `@zdw` |
+| [It takes 5 cloud services to hear my doorbell](https://blog.vghaisas.com/rube-goldberg-doorbell/) | `69 pts` | `@vghaisas` |
+| [The EU has begun enforcing the AI Act: first RFIs to model providers](https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis) | `27 pts` | `@cdnsteve` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-30 16:33:44 UTC`*
+*Last automated pipeline execution: `2026-08-31 05:16:59 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
