@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [I turned my security cameras into an automatic bird identification system](https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/) | `156 pts` | `@speckx` |
-| [Playa Phone](https://playaphone.com/) | `306 pts` | `@cutoff` |
-| [A walkable ASCII cyberpunk city in one HTML file [video]](https://www.youtube.com/watch?v=3YtygAx_C6A) | `21 pts` | `@keithcarolus` |
-| [Tmp.0ut, Vol. 5](https://tmpout.sh/5/) | `28 pts` | `@kmstout` |
-| [ChatGPT Work Tool and Skill Reference](https://codex-tool-reference.simonw.chatgpt.site/) | `122 pts` | `@ijidak` |
+| [Fastpotify](https://fastpotify.rocks/) | `78 pts` | `@nreece` |
+| [Google Antigravity introduces Boost deep reasoning (/boost)](https://antigravity.google/docs/boost/) | `46 pts` | `@simonpure` |
+| [I turned my security cameras into an automatic bird identification system](https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/) | `413 pts` | `@speckx` |
+| [Playa Phone](https://playaphone.com/) | `552 pts` | `@cutoff` |
+| [Evidence of Fraud in an Influential Study About Procrastination](https://datacolada.org/138) | `121 pts` | `@Anon84` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-08-31 19:05:14 UTC`*
+*Last automated pipeline execution: `2026-09-01 04:51:54 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
