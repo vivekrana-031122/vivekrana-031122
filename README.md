@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Fastpotify](https://fastpotify.rocks/) | `78 pts` | `@nreece` |
-| [Google Antigravity introduces Boost deep reasoning (/boost)](https://antigravity.google/docs/boost/) | `46 pts` | `@simonpure` |
-| [I turned my security cameras into an automatic bird identification system](https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/) | `413 pts` | `@speckx` |
-| [Playa Phone](https://playaphone.com/) | `552 pts` | `@cutoff` |
-| [Evidence of Fraud in an Influential Study About Procrastination](https://datacolada.org/138) | `121 pts` | `@Anon84` |
+| [Play Store blocks AuroraStore, hurting GrapheneOS users](https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566) | `40 pts` | `@erikvanoosten` |
+| [AnkiDroid: Google Play no longer allowing Open Collective donation link](https://github.com/ankidroid/Anki-Android/issues/21656) | `578 pts` | `@hexa555` |
+| [Ask HN: Who is hiring? (September 2026)](https://news.ycombinator.com/item?id=49522897) | `72 pts` | `@whoishiring` |
+| [Ambient CSS v3 – Blender meets CSS](https://ambientcss.vercel.app/) | `33 pts` | `@kikkupico` |
+| [44% on ARC-AGI-1 in 67 cents](https://mvakde.github.io/blog/44-on-arc-1/) | `263 pts` | `@porridgeraisin` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-01 04:51:54 UTC`*
+*Last automated pipeline execution: `2026-09-01 16:29:26 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
