@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1) | `1007 pts` | `@denysvitali` |
-| [How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/) | `509 pts` | `@jatins` |
-| [True Rate of Unemployment](https://www.lisep.org/tru) | `25 pts` | `@ptrhvns` |
-| [WebFPGA](https://webfpga.io/) | `4 pts` | `@gurjeet` |
-| [The efficient frontier of LLM inference](https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/) | `62 pts` | `@philipkiely` |
+| [Gemini 3.8 Flash](https://deepmind.google/models/model-cards/gemini-3-8-flash/) | `253 pts` | `@bratao` |
+| [A Note from LWN](https://lwn.net/Articles/1090585/) | `453 pts` | `@rwky` |
+| [Gemini 3.8 Flash and 3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/) | `34 pts` | `@simonsarris` |
+| [Biggest dark matter detector spots a single weird particle](https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle) | `115 pts` | `@randycupertino` |
+| [GrapheneOS says Pixel 11 has MTE support after all](https://grapheneos.social/@GrapheneOS/117194007157499435) | `95 pts` | `@user_7832` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-02 04:12:33 UTC`*
+*Last automated pipeline execution: `2026-09-02 16:27:52 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
