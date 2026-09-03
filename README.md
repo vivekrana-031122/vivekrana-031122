@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Gemini 3.8 Flash](https://deepmind.google/models/model-cards/gemini-3-8-flash/) | `253 pts` | `@bratao` |
-| [A Note from LWN](https://lwn.net/Articles/1090585/) | `453 pts` | `@rwky` |
-| [Gemini 3.8 Flash and 3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/) | `34 pts` | `@simonsarris` |
-| [Biggest dark matter detector spots a single weird particle](https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle) | `115 pts` | `@randycupertino` |
-| [GrapheneOS says Pixel 11 has MTE support after all](https://grapheneos.social/@GrapheneOS/117194007157499435) | `95 pts` | `@user_7832` |
+| [Muse Spark 1.3](https://developer.meta.com/ai/models/muse-spark/) | `443 pts` | `@bvaldivielso` |
+| [Gemini 3.8 Flash and 3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/) | `878 pts` | `@bratao` |
+| [Google avoids a breakup of its ad tech business](https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html) | `299 pts` | `@donohoe` |
+| [Holden's Lightning Flight](https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight) | `86 pts` | `@ColinWright` |
+| [The shrinking landscape of linguistic diversity in the age of LLMs](https://www.nature.com/articles/s41562-026-02550-0) | `66 pts` | `@Anon84` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-02 16:27:52 UTC`*
+*Last automated pipeline execution: `2026-09-03 04:09:41 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
