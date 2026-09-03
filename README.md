@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Muse Spark 1.3](https://developer.meta.com/ai/models/muse-spark/) | `443 pts` | `@bvaldivielso` |
-| [Gemini 3.8 Flash and 3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/) | `878 pts` | `@bratao` |
-| [Google avoids a breakup of its ad tech business](https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html) | `299 pts` | `@donohoe` |
-| [Holden's Lightning Flight](https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight) | `86 pts` | `@ColinWright` |
-| [The shrinking landscape of linguistic diversity in the age of LLMs](https://www.nature.com/articles/s41562-026-02550-0) | `66 pts` | `@Anon84` |
+| [Audacity 4.0](https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0) | `725 pts` | `@ClydeN` |
+| [Grok Outage](https://status.x.ai/) | `112 pts` | `@samaysharma` |
+| [Sony makes bold claim about game ownership](https://aginggamer.net/game-industry/sony-makes-bold-claim-about-game-ownership/) | `57 pts` | `@speckx` |
+| [ChatGPT Is Throwing 404](https://chatgpt.com/) | `336 pts` | `@stacktrace` |
+| [.name Termination](https://neil.fraser.name/news/2026/09/03/) | `59 pts` | `@pavel_lishin` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-03 04:09:41 UTC`*
+*Last automated pipeline execution: `2026-09-03 16:17:58 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
