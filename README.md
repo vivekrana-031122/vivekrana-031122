@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Audacity 4.0](https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0) | `725 pts` | `@ClydeN` |
-| [Grok Outage](https://status.x.ai/) | `112 pts` | `@samaysharma` |
-| [Sony makes bold claim about game ownership](https://aginggamer.net/game-industry/sony-makes-bold-claim-about-game-ownership/) | `57 pts` | `@speckx` |
-| [ChatGPT Is Throwing 404](https://chatgpt.com/) | `336 pts` | `@stacktrace` |
-| [.name Termination](https://neil.fraser.name/news/2026/09/03/) | `59 pts` | `@pavel_lishin` |
+| [GPT-6 Astra](https://openai.com/index/gpt-6-astra/) | `1466 pts` | `@kibae` |
+| [.name Termination](https://neil.fraser.name/news/2026/09/03/) | `1491 pts` | `@pavel_lishin` |
+| [Project Xanadu: Even More Hindsight](https://gwern.net/xanadu) | `31 pts` | `@andsoitis` |
+| [Qwen 3.8 27B available on Cerebras at 1500 tokens/s](https://inference-docs.cerebras.ai/models/overview) | `491 pts` | `@altertable` |
+| [A Mysterious Kidney Disease Has Arrived in Texas](https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/) | `19 pts` | `@johntfella` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-03 16:17:58 UTC`*
+*Last automated pipeline execution: `2026-09-04 04:15:42 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
