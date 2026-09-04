@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [GPT-6 Astra](https://openai.com/index/gpt-6-astra/) | `1466 pts` | `@kibae` |
-| [.name Termination](https://neil.fraser.name/news/2026/09/03/) | `1491 pts` | `@pavel_lishin` |
-| [Project Xanadu: Even More Hindsight](https://gwern.net/xanadu) | `31 pts` | `@andsoitis` |
-| [Qwen 3.8 27B available on Cerebras at 1500 tokens/s](https://inference-docs.cerebras.ai/models/overview) | `491 pts` | `@altertable` |
-| [A Mysterious Kidney Disease Has Arrived in Texas](https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/) | `19 pts` | `@johntfella` |
+| [Google AI Mode shows same products 21.6% more expensive than traditional search](https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products) | `245 pts` | `@DeepLogin` |
+| [Discovery of a new OpenAI agent message board](https://collusion.wiki/) | `706 pts` | `@moultano` |
+| [Solving the Jane Street Reverse Engineering Challenge](https://jestoph.com/2026/09/04/jane-street-challenge.html) | `249 pts` | `@anitil` |
+| [GPT-6 Astra](https://openai.com/index/gpt-6-astra/) | `2020 pts` | `@kibae` |
+| [The Two Abstractions of System Design: Hide or Reduce](http://muratbuffalo.blogspot.com/2026/05/the-two-abstractions-of-system-design.html) | `47 pts` | `@ubolonton_` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-04 04:15:42 UTC`*
+*Last automated pipeline execution: `2026-09-04 16:13:36 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
