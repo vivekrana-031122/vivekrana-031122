@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Actively exploited sandbox RCE in all Chromium versions](https://nvd.nist.gov/vuln/detail/cve-2026-85046) | `331 pts` | `@negura` |
-| [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem) | `535 pts` | `@jlebar` |
-| [Discovery of a new OpenAI agent message board](https://collusion.wiki/) | `1547 pts` | `@moultano` |
-| [Artificial Analysis Intelligence Index v4.2](https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2) | `79 pts` | `@nojs` |
-| [Statichost.eu – European static site hosting](https://www.statichost.eu/) | `190 pts` | `@p4bl0` |
+| [The "$60 Gaming PC" – AMD BC-250 (2025)](https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/) | `60 pts` | `@networked` |
+| [There's No Limit to How Bad Code Can Get](https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/) | `28 pts` | `@zkehs` |
+| [Global warming will exceed 1.5-degree limit, UN says](https://www.pbs.org/newshour/science/global-warming-will-exceed-1-5-degree-limit-un-says-in-report-that-maps-path-back-below-danger-zone) | `95 pts` | `@ijidak` |
+| [Actively exploited sandbox RCE in all Chromium versions](https://nvd.nist.gov/vuln/detail/cve-2026-85046) | `624 pts` | `@negura` |
+| [Discovery of a new OpenAI agent message board](https://collusion.wiki/) | `1858 pts` | `@moultano` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-05 04:11:45 UTC`*
+*Last automated pipeline execution: `2026-09-05 15:01:24 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
