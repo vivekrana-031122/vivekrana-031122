@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Google AI Mode shows same products 21.6% more expensive than traditional search](https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products) | `245 pts` | `@DeepLogin` |
-| [Discovery of a new OpenAI agent message board](https://collusion.wiki/) | `706 pts` | `@moultano` |
-| [Solving the Jane Street Reverse Engineering Challenge](https://jestoph.com/2026/09/04/jane-street-challenge.html) | `249 pts` | `@anitil` |
-| [GPT-6 Astra](https://openai.com/index/gpt-6-astra/) | `2020 pts` | `@kibae` |
-| [The Two Abstractions of System Design: Hide or Reduce](http://muratbuffalo.blogspot.com/2026/05/the-two-abstractions-of-system-design.html) | `47 pts` | `@ubolonton_` |
+| [Actively exploited sandbox RCE in all Chromium versions](https://nvd.nist.gov/vuln/detail/cve-2026-85046) | `331 pts` | `@negura` |
+| [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem) | `535 pts` | `@jlebar` |
+| [Discovery of a new OpenAI agent message board](https://collusion.wiki/) | `1547 pts` | `@moultano` |
+| [Artificial Analysis Intelligence Index v4.2](https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2) | `79 pts` | `@nojs` |
+| [Statichost.eu – European static site hosting](https://www.statichost.eu/) | `190 pts` | `@p4bl0` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-04 16:13:36 UTC`*
+*Last automated pipeline execution: `2026-09-05 04:11:45 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
