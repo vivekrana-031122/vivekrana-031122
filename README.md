@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Cloud in a Bottle: making self-hosting accessible to everyone](https://cloudinabottle.org/blog/launch-post) | `224 pts` | `@zplizzi` |
-| [GPT-6 Astra on robot arms](https://openai.robocurve.org/gpt-6-astra/) | `83 pts` | `@Anon84` |
-| [The revolt of the reader](https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/) | `190 pts` | `@chmaynard` |
-| [OpenBSD Stories: Strange Medieval Devices](http://miod.online.fr/software/openbsd/stories/smd.html) | `14 pts` | `@zdw` |
-| [Chrome again exempts Google from user site data settings](https://lapcatsoftware.com/articles/2026/9/1.html) | `167 pts` | `@ExMachina73` |
+| [I Feel about AI](https://beza1e1.tuxen.de/ai_feelings.html) | `30 pts` | `@qznc` |
+| [Intellectual Fly Is Open (2025)](https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/) | `230 pts` | `@cyb0rg0` |
+| [A/I shuts down – Stay human](https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/) | `140 pts` | `@captainmuon` |
+| [Isar Aerospace reaches orbit and deploys payloads on second flight](https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight) | `383 pts` | `@mpweiher` |
+| [Doomscrolling Ourselves to Death](https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death) | `169 pts` | `@shubhamjain` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-06 04:19:56 UTC`*
+*Last automated pipeline execution: `2026-09-06 15:21:52 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
