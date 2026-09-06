@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [The "$60 Gaming PC" – AMD BC-250 (2025)](https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/) | `60 pts` | `@networked` |
-| [There's No Limit to How Bad Code Can Get](https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/) | `28 pts` | `@zkehs` |
-| [Global warming will exceed 1.5-degree limit, UN says](https://www.pbs.org/newshour/science/global-warming-will-exceed-1-5-degree-limit-un-says-in-report-that-maps-path-back-below-danger-zone) | `95 pts` | `@ijidak` |
-| [Actively exploited sandbox RCE in all Chromium versions](https://nvd.nist.gov/vuln/detail/cve-2026-85046) | `624 pts` | `@negura` |
-| [Discovery of a new OpenAI agent message board](https://collusion.wiki/) | `1858 pts` | `@moultano` |
+| [Cloud in a Bottle: making self-hosting accessible to everyone](https://cloudinabottle.org/blog/launch-post) | `224 pts` | `@zplizzi` |
+| [GPT-6 Astra on robot arms](https://openai.robocurve.org/gpt-6-astra/) | `83 pts` | `@Anon84` |
+| [The revolt of the reader](https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/) | `190 pts` | `@chmaynard` |
+| [OpenBSD Stories: Strange Medieval Devices](http://miod.online.fr/software/openbsd/stories/smd.html) | `14 pts` | `@zdw` |
+| [Chrome again exempts Google from user site data settings](https://lapcatsoftware.com/articles/2026/9/1.html) | `167 pts` | `@ExMachina73` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-05 15:01:24 UTC`*
+*Last automated pipeline execution: `2026-09-06 04:19:56 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
