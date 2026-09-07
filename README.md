@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [I Feel about AI](https://beza1e1.tuxen.de/ai_feelings.html) | `30 pts` | `@qznc` |
-| [Intellectual Fly Is Open (2025)](https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/) | `230 pts` | `@cyb0rg0` |
-| [A/I shuts down – Stay human](https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/) | `140 pts` | `@captainmuon` |
-| [Isar Aerospace reaches orbit and deploys payloads on second flight](https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight) | `383 pts` | `@mpweiher` |
-| [Doomscrolling Ourselves to Death](https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death) | `169 pts` | `@shubhamjain` |
+| [Keep Our Servers Running: Your Recurring Donation Goes 3X This September](https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/) | `50 pts` | `@sonicrocketman` |
+| [Making a Python interpreter in 1024 bytes](https://austinhenley.com/blog/python1024.html) | `140 pts` | `@azhenley` |
+| [The NX bit is not just about security](https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/) | `37 pts` | `@torutofu` |
+| [It took a year to ship WebAssembly in Anubis](https://anubis.techaro.lol/blog/2026/anubis-wasm/) | `179 pts` | `@xena` |
+| [Ask HN: Fable hacked my piano, can I release the results?](https://news.ycombinator.com/item?id=49577129) | `26 pts` | `@jmpman` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-06 15:21:52 UTC`*
+*Last automated pipeline execution: `2026-09-07 04:18:57 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
