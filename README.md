@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Keep Our Servers Running: Your Recurring Donation Goes 3X This September](https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/) | `50 pts` | `@sonicrocketman` |
-| [Making a Python interpreter in 1024 bytes](https://austinhenley.com/blog/python1024.html) | `140 pts` | `@azhenley` |
-| [The NX bit is not just about security](https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/) | `37 pts` | `@torutofu` |
-| [It took a year to ship WebAssembly in Anubis](https://anubis.techaro.lol/blog/2026/anubis-wasm/) | `179 pts` | `@xena` |
-| [Ask HN: Fable hacked my piano, can I release the results?](https://news.ycombinator.com/item?id=49577129) | `26 pts` | `@jmpman` |
+| [bzip3](https://github.com/iczelia/bzip3) | `194 pts` | `@tosh` |
+| [Keep Our Servers Running](https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/) | `797 pts` | `@sonicrocketman` |
+| [Simple Is Not Small](https://jyn.dev/simple-is-not-the-same-as-small/) | `79 pts` | `@zdw` |
+| [Caltech Mathathon – first hackathon ever devoted to research level mathematics](https://mathathonchallenge.com/index.html) | `150 pts` | `@astroanax` |
+| [Tell HN: OpenAI brings back 5 hour limit for plus and business standard users](https://news.ycombinator.com/item?id=49600233) | `35 pts` | `@spwa4` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-07 04:18:57 UTC`*
+*Last automated pipeline execution: `2026-09-07 17:40:59 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
