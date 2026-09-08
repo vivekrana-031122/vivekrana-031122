@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [I've factored the RSA keys of a Certificate Authority from the 90s](https://mcpherrin.ca/2026/09/07/rsa.html) | `164 pts` | `@ahlCVA` |
-| [TALA Is Open-Source](https://d2lang.com/blog/tala-is-open-source/) | `130 pts` | `@alixanderwang` |
-| [Jellyfin 12.0](https://jellyfin.org/posts/jellyfin-release-12.0/) | `157 pts` | `@0xC0ncord` |
-| [Watch Los Angeles get built, one building at a time (1880–2026)](https://lax-skyline.parcelscope.net/) | `246 pts` | `@rustywasm` |
-| [A Screensaver for LG's Spying Smart TVs](https://weowntheglass.com) | `10 pts` | `@taylorfinley` |
+| [Google DeepMind Releases AlphaGenome Atlas](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/) | `132 pts` | `@utiiiD` |
+| [DaVinci Resolve 21.1](https://www.blackmagicdesign.com/media/release/20260908-03) | `189 pts` | `@tosh` |
+| [LibreOffice breaks download records after declaring it has no AI features](https://manualdousuario.net/en/libreoffice-download-record-no-ai/) | `497 pts` | `@rpgbr` |
+| [Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses](https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/) | `42 pts` | `@stared` |
+| [The Helicopter with Radioactive Blades](https://hackaday.com/2026/09/07/the-helicopter-with-radioactive-blades/) | `28 pts` | `@zdw` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-08 04:19:37 UTC`*
+*Last automated pipeline execution: `2026-09-08 16:31:41 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
