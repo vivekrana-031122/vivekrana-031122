@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [bzip3](https://github.com/iczelia/bzip3) | `194 pts` | `@tosh` |
-| [Keep Our Servers Running](https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/) | `797 pts` | `@sonicrocketman` |
-| [Simple Is Not Small](https://jyn.dev/simple-is-not-the-same-as-small/) | `79 pts` | `@zdw` |
-| [Caltech Mathathon – first hackathon ever devoted to research level mathematics](https://mathathonchallenge.com/index.html) | `150 pts` | `@astroanax` |
-| [Tell HN: OpenAI brings back 5 hour limit for plus and business standard users](https://news.ycombinator.com/item?id=49600233) | `35 pts` | `@spwa4` |
+| [I've factored the RSA keys of a Certificate Authority from the 90s](https://mcpherrin.ca/2026/09/07/rsa.html) | `164 pts` | `@ahlCVA` |
+| [TALA Is Open-Source](https://d2lang.com/blog/tala-is-open-source/) | `130 pts` | `@alixanderwang` |
+| [Jellyfin 12.0](https://jellyfin.org/posts/jellyfin-release-12.0/) | `157 pts` | `@0xC0ncord` |
+| [Watch Los Angeles get built, one building at a time (1880–2026)](https://lax-skyline.parcelscope.net/) | `246 pts` | `@rustywasm` |
+| [A Screensaver for LG's Spying Smart TVs](https://weowntheglass.com) | `10 pts` | `@taylorfinley` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-07 17:40:59 UTC`*
+*Last automated pipeline execution: `2026-09-08 04:19:37 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
