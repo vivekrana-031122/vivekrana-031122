@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Google DeepMind Releases AlphaGenome Atlas](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/) | `132 pts` | `@utiiiD` |
-| [DaVinci Resolve 21.1](https://www.blackmagicdesign.com/media/release/20260908-03) | `189 pts` | `@tosh` |
-| [LibreOffice breaks download records after declaring it has no AI features](https://manualdousuario.net/en/libreoffice-download-record-no-ai/) | `497 pts` | `@rpgbr` |
-| [Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses](https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/) | `42 pts` | `@stared` |
-| [The Helicopter with Radioactive Blades](https://hackaday.com/2026/09/07/the-helicopter-with-radioactive-blades/) | `28 pts` | `@zdw` |
+| [Trees use a "muscle", tension wood, to correct their posture](https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html) | `53 pts` | `@mdp2021` |
+| [Muse – Meta’s personal AI agent](https://ai.meta.com/muse/) | `376 pts` | `@yks` |
+| [Navier-Stokes – Tristan Buckmaster [pdf]](https://cims.nyu.edu/~tristanb/statement.pdf) | `1394 pts` | `@procedurecall` |
+| [How to build a printer](https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/) | `202 pts` | `@cat-whisperer` |
+| [AlphaGenome Atlas: a high-resolution map of human DNA](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/) | `512 pts` | `@utiiiD` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-08 16:31:41 UTC`*
+*Last automated pipeline execution: `2026-09-09 04:25:04 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
