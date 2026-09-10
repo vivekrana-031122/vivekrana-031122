@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Tailwind Labs is joining Shopify](https://tailwindcss.com/blog/tailwind-is-joining-shopify) | `450 pts` | `@EdwinHoksberg` |
-| [No Man's Sky Cosmos](https://www.nomanssky.com/cosmos-update/) | `54 pts` | `@Limb` |
-| [Desert Ant Labs: local, fast models that run on device](https://desertant.com/blog/introducing-desert-ant-labs/) | `254 pts` | `@willwhitedc` |
-| [Claude, change the "Add to Cart" button to blue](https://opusfived.dev/) | `594 pts` | `@matthieu_bl` |
-| [GPT-6 Astra, Looped Transformers, and Hidden Reasoning](https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and) | `43 pts` | `@ModelForge` |
+| [iPhone Duo](https://www.apple.com/iphone-duo/) | `1016 pts` | `@thecosmicfrog` |
+| [Show HN: What if the speed of light was 5 km/h?](https://rivendell.dmitrybrant.com/relativity/) | `80 pts` | `@dmitrybrant` |
+| [Shopify acquires Tailwind](https://tailwindcss.com/blog/tailwind-is-joining-shopify) | `940 pts` | `@EdwinHoksberg` |
+| [What do Visa and Mastercard do? An intro to card networks](https://tautology.town/2026/06/01/card-networks.html) | `432 pts` | `@evakhoury` |
+| [Growing proof that autonomous cars save lives](https://spectrum.ieee.org/are-self-driving-cars-safe) | `270 pts` | `@bookofjoe` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-09 16:28:02 UTC`*
+*Last automated pipeline execution: `2026-09-10 04:22:29 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
