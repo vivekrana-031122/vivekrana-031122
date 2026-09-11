@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Shopify is moving from React Native back to Swift and Kotlin](https://shopify.engineering/back-to-native) | `877 pts` | `@fnthawar2` |
-| [More questions about whether researchers can trust OpenAI with unpublished math](https://mathstodon.xyz/@andreasthom/117240535270608201) | `743 pts` | `@pred_` |
-| [Mexican student creates an acoustic fire extinguisher to put out fire in seconds](https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/) | `95 pts` | `@rguiscard` |
-| [Don't let anyone take away your big box of cables](https://blog.jim-nielsen.com/2026/hands-off-my-cables/) | `379 pts` | `@Brajeshwar` |
-| [OpenAI Agents API](https://developers.openai.com/api/docs/guides/agents-api/overview) | `180 pts` | `@aquir` |
+| [Logo Programming Language](https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html) | `94 pts` | `@azhenley` |
+| [Global Glacier Extinction Explorer](https://glacierextinction.com) | `7 pts` | `@guillego` |
+| [I've operated petabyte-scale ClickHouse clusters for 5 years](https://www.tinybird.co/blog/what-i-learned-operating-clickhouse) | `41 pts` | `@adastral` |
+| [Copying login keychains between Macs fails on Secure Enclave Macs with Tahoe](https://derflounder.wordpress.com/2026/09/08/manually-copying-login-keychain-files-from-one-mac-to-another-no-longer-works-on-secure-enclave-equipped-macs-running-macos-tahoe/) | `18 pts` | `@zdw` |
+| [Godot and Rust based multiplexer (terminal panes and more)](https://github.com/godot-pty/gpty) | `6 pts` | `@1nv1n` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-11 04:21:59 UTC`*
+*Last automated pipeline execution: `2026-09-11 16:20:56 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
