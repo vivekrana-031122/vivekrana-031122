@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Shopify moves back to Native from React Native](https://shopify.engineering/back-to-native) | `312 pts` | `@fnthawar2` |
-| [Rust Is Tier-1 Language at Microsoft](https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/) | `227 pts` | `@mmastrac` |
-| [Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra](https://cognition.com/blog/swe-2) | `32 pts` | `@seelos` |
-| [More questions about whether researchers can trust OpenAI with unpublished math](https://mathstodon.xyz/@andreasthom/117240535270608201) | `35 pts` | `@pred_` |
-| [Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls](https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/) | `182 pts` | `@thelastgallon` |
+| [Shopify is moving from React Native back to Swift and Kotlin](https://shopify.engineering/back-to-native) | `877 pts` | `@fnthawar2` |
+| [More questions about whether researchers can trust OpenAI with unpublished math](https://mathstodon.xyz/@andreasthom/117240535270608201) | `743 pts` | `@pred_` |
+| [Mexican student creates an acoustic fire extinguisher to put out fire in seconds](https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/) | `95 pts` | `@rguiscard` |
+| [Don't let anyone take away your big box of cables](https://blog.jim-nielsen.com/2026/hands-off-my-cables/) | `379 pts` | `@Brajeshwar` |
+| [OpenAI Agents API](https://developers.openai.com/api/docs/guides/agents-api/overview) | `180 pts` | `@aquir` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-10 16:16:52 UTC`*
+*Last automated pipeline execution: `2026-09-11 04:21:59 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
