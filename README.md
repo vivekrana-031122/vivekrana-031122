@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Logo Programming Language](https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html) | `94 pts` | `@azhenley` |
-| [Global Glacier Extinction Explorer](https://glacierextinction.com) | `7 pts` | `@guillego` |
-| [I've operated petabyte-scale ClickHouse clusters for 5 years](https://www.tinybird.co/blog/what-i-learned-operating-clickhouse) | `41 pts` | `@adastral` |
-| [Copying login keychains between Macs fails on Secure Enclave Macs with Tahoe](https://derflounder.wordpress.com/2026/09/08/manually-copying-login-keychain-files-from-one-mac-to-another-no-longer-works-on-secure-enclave-equipped-macs-running-macos-tahoe/) | `18 pts` | `@zdw` |
-| [Godot and Rust based multiplexer (terminal panes and more)](https://github.com/godot-pty/gpty) | `6 pts` | `@1nv1n` |
+| [A misalignment of AI in mathematics](https://mathandai.org/) | `757 pts` | `@meredydd` |
+| [Pandas Should Go Extinct](https://eddie.codes/posts/pandas-should-go-extinct/) | `59 pts` | `@__eddie__` |
+| [I spent $220 on Google app ads and 60% of the installs were robots](https://dayzlegame.com/blog/google-ads-bot-farm/) | `385 pts` | `@nickabe` |
+| [A Design Space Exploration of Async/Await](https://cel.cs.brown.edu/blog/design-space-async-await/) | `193 pts` | `@wcrichton` |
+| [Google no longer provides direct URLs in search results](https://www.autom.dev/blog/google-search-goto-links) | `69 pts` | `@1e1a` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-11 16:20:56 UTC`*
+*Last automated pipeline execution: `2026-09-12 04:20:20 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
