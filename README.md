@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [A misalignment of AI in mathematics](https://mathandai.org/) | `757 pts` | `@meredydd` |
-| [Pandas Should Go Extinct](https://eddie.codes/posts/pandas-should-go-extinct/) | `59 pts` | `@__eddie__` |
-| [I spent $220 on Google app ads and 60% of the installs were robots](https://dayzlegame.com/blog/google-ads-bot-farm/) | `385 pts` | `@nickabe` |
-| [A Design Space Exploration of Async/Await](https://cel.cs.brown.edu/blog/design-space-async-await/) | `193 pts` | `@wcrichton` |
-| [Google no longer provides direct URLs in search results](https://www.autom.dev/blog/google-search-goto-links) | `69 pts` | `@1e1a` |
+| [A Mathematical Framework for Transformer Circuits (2021)](https://transformer-circuits.pub/2021/framework/index.html) | `28 pts` | `@Bluestein` |
+| [IKEA made a mod for Skyrim [video]](https://www.youtube.com/watch?v=iZODN0QUgjI) | `381 pts` | `@kegenaar` |
+| [Fuck it, make it anyway](https://www.joelotter.com/posts/2026/09/make-it-anyway/) | `329 pts` | `@JayOtter` |
+| [Retrospectively Reverse-Engineering Apple's Neural Engine](https://eiln.github.io/posts/ane.html) | `163 pts` | `@zdw` |
+| [LRU is harder to beat than the KV-cache papers suggest](https://github.com/gauravapiscean/agentic-kv-cache) | `36 pts` | `@gauravapiscean` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-12 04:20:20 UTC`*
+*Last automated pipeline execution: `2026-09-12 15:26:12 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
