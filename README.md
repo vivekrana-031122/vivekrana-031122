@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [The Interim Computer Museum](https://icm.museum/) | `43 pts` | `@mulmen` |
-| [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/) | `381 pts` | `@juliantigler` |
-| [Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases](https://withspecific.com/benchmarks/real-swe) | `167 pts` | `@theanonymousone` |
-| [Nvidia is the central bank of AI](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai) | `424 pts` | `@tolugenius` |
-| [Apple iPod Engraver (2019)](https://dunstanorchard.com/apple-ipod-engraver/) | `164 pts` | `@NaOH` |
+| [Astra and Fable still hack on simple variants of alignment evals from 2025](https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment) | `77 pts` | `@Levitating` |
+| [JetKVM Mini](https://jetkvm.com/blog/introducing-jetkvm-mini) | `349 pts` | `@taubek` |
+| ['Fingerprints' inside the Sun could reveal if it once swallowed a planet](https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet) | `61 pts` | `@blincoln` |
+| [Libraries Run Rust Inside Python (With PyO3)](https://belderbos.dev/blog/how-libraries-run-rust-inside-python/) | `8 pts` | `@lumpa` |
+| [Why is the x86 undefined instruction called ud2? Why 2?](https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689) | `29 pts` | `@ibobev` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-13 04:34:03 UTC`*
+*Last automated pipeline execution: `2026-09-13 16:05:50 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
