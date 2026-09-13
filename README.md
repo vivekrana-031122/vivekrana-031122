@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [A Mathematical Framework for Transformer Circuits (2021)](https://transformer-circuits.pub/2021/framework/index.html) | `28 pts` | `@Bluestein` |
-| [IKEA made a mod for Skyrim [video]](https://www.youtube.com/watch?v=iZODN0QUgjI) | `381 pts` | `@kegenaar` |
-| [Fuck it, make it anyway](https://www.joelotter.com/posts/2026/09/make-it-anyway/) | `329 pts` | `@JayOtter` |
-| [Retrospectively Reverse-Engineering Apple's Neural Engine](https://eiln.github.io/posts/ane.html) | `163 pts` | `@zdw` |
-| [LRU is harder to beat than the KV-cache papers suggest](https://github.com/gauravapiscean/agentic-kv-cache) | `36 pts` | `@gauravapiscean` |
+| [The Interim Computer Museum](https://icm.museum/) | `43 pts` | `@mulmen` |
+| [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/) | `381 pts` | `@juliantigler` |
+| [Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases](https://withspecific.com/benchmarks/real-swe) | `167 pts` | `@theanonymousone` |
+| [Nvidia is the central bank of AI](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai) | `424 pts` | `@tolugenius` |
+| [Apple iPod Engraver (2019)](https://dunstanorchard.com/apple-ipod-engraver/) | `164 pts` | `@NaOH` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-12 15:26:12 UTC`*
+*Last automated pipeline execution: `2026-09-13 04:34:03 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
