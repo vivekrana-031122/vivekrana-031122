@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich) | `634 pts` | `@u1hcw9nx` |
-| [Spaceships (Reverse Asteroid)](https://spaceships.treybastian.com/) | `96 pts` | `@zdw` |
-| [Why is Google still serving dodgy ads?](https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads) | `673 pts` | `@iamflimflam1` |
-| [Registration without a phone number on Signal will use zero-knowledge proofs](https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10) | `137 pts` | `@Cider9986` |
-| [The case against JPEG XL](https://giannirosato.com/blog/post/case-against-jxl/) | `59 pts` | `@contact9879` |
+| [iOS 27, iPadOS 27, and macOS 27 released](https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/) | `16 pts` | `@throw0101d` |
+| [Distributed Systems Classics (2017)](https://nvartolomei.com/dist-sys-classics/) | `86 pts` | `@grep_it` |
+| [Why don't machine learning research agents overfit?](https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit) | `29 pts` | `@Betelbuddy` |
+| [Principles for Fast Tokio Applications](https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/) | `64 pts` | `@carllerche` |
+| [Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme](https://www.neobrutalism.dev/) | `49 pts` | `@samke-` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-14 04:39:38 UTC`*
+*Last automated pipeline execution: `2026-09-14 18:01:15 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
