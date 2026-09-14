@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Astra and Fable still hack on simple variants of alignment evals from 2025](https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment) | `77 pts` | `@Levitating` |
-| [JetKVM Mini](https://jetkvm.com/blog/introducing-jetkvm-mini) | `349 pts` | `@taubek` |
-| ['Fingerprints' inside the Sun could reveal if it once swallowed a planet](https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet) | `61 pts` | `@blincoln` |
-| [Libraries Run Rust Inside Python (With PyO3)](https://belderbos.dev/blog/how-libraries-run-rust-inside-python/) | `8 pts` | `@lumpa` |
-| [Why is the x86 undefined instruction called ud2? Why 2?](https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689) | `29 pts` | `@ibobev` |
+| [Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich) | `634 pts` | `@u1hcw9nx` |
+| [Spaceships (Reverse Asteroid)](https://spaceships.treybastian.com/) | `96 pts` | `@zdw` |
+| [Why is Google still serving dodgy ads?](https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads) | `673 pts` | `@iamflimflam1` |
+| [Registration without a phone number on Signal will use zero-knowledge proofs](https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10) | `137 pts` | `@Cider9986` |
+| [The case against JPEG XL](https://giannirosato.com/blog/post/case-against-jxl/) | `59 pts` | `@contact9879` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-13 16:05:50 UTC`*
+*Last automated pipeline execution: `2026-09-14 04:39:38 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
