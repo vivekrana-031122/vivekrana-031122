@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [iOS 27, iPadOS 27, and macOS 27](https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/) | `472 pts` | `@throw0101d` |
-| [4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls](https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/) | `63 pts` | `@arunbahl` |
-| [Pion, an agent designed to run any company autonomously](https://andonlabs.com/blog/why-we-built-pion) | `331 pts` | `@lukaspetersson` |
-| [Charts built for Chat](https://dbtcharts.com/blog/charts-built-for-chat/) | `153 pts` | `@thingsilearned` |
-| [Every invoice in Brazil's economy runs on SOAP 1.2. We mapped it all](https://github.com/stoix-dev/sefaz-webservices-postman) | `23 pts` | `@lestx` |
+| [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme) | `619 pts` | `@arnemunthekaas` |
+| [Swift 6.4 Released](https://www.swift.org/blog/swift-6.4-released/) | `98 pts` | `@timsneath` |
+| [Cartesian – AI 3D Modeling for Design](https://www.formas.ai/cartesian) | `34 pts` | `@eustoria` |
+| [Show HN: Capsule – Single-file web apps that save their data into SQLite](https://withcapsule.app/) | `130 pts` | `@bashtian` |
+| [Show HN: Hacking a $20 4G wireless hotspot into a texting device](https://bkovac.github.io/modem-thing/) | `101 pts` | `@bobili1234` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-15 04:40:41 UTC`*
+*Last automated pipeline execution: `2026-09-15 16:48:38 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
