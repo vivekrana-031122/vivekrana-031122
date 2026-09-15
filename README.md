@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [iOS 27, iPadOS 27, and macOS 27 released](https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/) | `16 pts` | `@throw0101d` |
-| [Distributed Systems Classics (2017)](https://nvartolomei.com/dist-sys-classics/) | `86 pts` | `@grep_it` |
-| [Why don't machine learning research agents overfit?](https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit) | `29 pts` | `@Betelbuddy` |
-| [Principles for Fast Tokio Applications](https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/) | `64 pts` | `@carllerche` |
-| [Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme](https://www.neobrutalism.dev/) | `49 pts` | `@samke-` |
+| [iOS 27, iPadOS 27, and macOS 27](https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/) | `472 pts` | `@throw0101d` |
+| [4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls](https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/) | `63 pts` | `@arunbahl` |
+| [Pion, an agent designed to run any company autonomously](https://andonlabs.com/blog/why-we-built-pion) | `331 pts` | `@lukaspetersson` |
+| [Charts built for Chat](https://dbtcharts.com/blog/charts-built-for-chat/) | `153 pts` | `@thingsilearned` |
+| [Every invoice in Brazil's economy runs on SOAP 1.2. We mapped it all](https://github.com/stoix-dev/sefaz-webservices-postman) | `23 pts` | `@lestx` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-14 18:01:15 UTC`*
+*Last automated pipeline execution: `2026-09-15 04:40:41 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
