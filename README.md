@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme) | `619 pts` | `@arnemunthekaas` |
-| [Swift 6.4 Released](https://www.swift.org/blog/swift-6.4-released/) | `98 pts` | `@timsneath` |
-| [Cartesian – AI 3D Modeling for Design](https://www.formas.ai/cartesian) | `34 pts` | `@eustoria` |
-| [Show HN: Capsule – Single-file web apps that save their data into SQLite](https://withcapsule.app/) | `130 pts` | `@bashtian` |
-| [Show HN: Hacking a $20 4G wireless hotspot into a texting device](https://bkovac.github.io/modem-thing/) | `101 pts` | `@bobili1234` |
+| [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev) | `966 pts` | `@albelfio` |
+| [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme) | `1423 pts` | `@arnemunthekaas` |
+| [Apple Reference Image: A New Approach for Verified Photography](https://security.apple.com/blog/apple-reference-image/) | `65 pts` | `@imwally` |
+| [Negativland, Culture Jamming, and the Art of Making Something New](https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/) | `35 pts` | `@bananaboy` |
+| [An update on Wayback Machine access](https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/) | `445 pts` | `@ChrisArchitect` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-15 16:48:38 UTC`*
+*Last automated pipeline execution: `2026-09-16 04:35:50 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
