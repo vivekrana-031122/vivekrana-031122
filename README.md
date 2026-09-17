@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Small Programming Tricks](https://will-keleher.com/posts/small-programming-tricks-matter/) | `46 pts` | `@signa11` |
-| [Code Is Crap](https://testing.googleblog.com/2011/02/this-code-is-crap.html) | `24 pts` | `@luispa` |
-| [Dream-RSI: Recursive Self-Improvement through Evolving Worlds](https://arxiv.org/abs/2609.14858) | `91 pts` | `@bananaflag` |
-| [Mistral X Mozilla: Private, Multilingual AI Browsing](https://mistral.ai/news/mistral-x-mozilla/) | `351 pts` | `@vertigoruntime` |
-| [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev) | `1686 pts` | `@albelfio` |
+| [Keys Not Included: recovering the signing keys for US driver's license barcodes](https://ryan.science/blog/keys-not-included) | `62 pts` | `@Ryan5453` |
+| [Nvidia announces native GPU programming in Rust](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/) | `448 pts` | `@nonmaskable` |
+| [The Painful Truth: The RAM Crisis Is Only Just the Beginning](https://www.madshrimps.be/news/the-painful-truth-the-ram-crisis-is-only-just-the-beginning/) | `19 pts` | `@perelin` |
+| [Training a 4B model to produce 81% faster query plans than Postgres](https://rohanbansal.com/qorl) | `452 pts` | `@polyphilz` |
+| [DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression](https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html) | `69 pts` | `@mfiguiere` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-16 16:41:23 UTC`*
+*Last automated pipeline execution: `2026-09-17 04:40:44 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
