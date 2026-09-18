@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA](https://global.fujitsu/en-global/pr/news/2026/09/14-02) | `279 pts` | `@my123` |
-| [Rate limits on GitLab.com are changing](https://about.gitlab.com/blog/rate-limit-change-2026/) | `52 pts` | `@darkwater` |
-| [Artificial intelligence now beats some of the best human forecasters](https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters) | `40 pts` | `@ddp26` |
-| [CrowdSec Source Code Leak](https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure) | `23 pts` | `@eccgecko` |
-| [Whoisinspace.com/](https://whoisinspace.com) | `29 pts` | `@Egg-Man` |
+| [Hacking OpenAI](https://www.hacktron.ai/blog/hacking-openai) | `79 pts` | `@Handy-Man` |
+| [Astra for Law](https://openai.com/index/astra-for-law/) | `392 pts` | `@vertigoruntime` |
+| [Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint](https://prismml.com/news/bonsai-2-27b) | `307 pts` | `@JonSchneider` |
+| [Bend – A language that blocks AI mistakes via proof, on CPU and GPU](https://bend-lang.com/) | `360 pts` | `@nicolas-siplis` |
+| [Hister: A private search engine for the pages you visit and the files you keep](https://github.com/asciimoo/hister) | `514 pts` | `@bookofjoe` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-17 16:48:22 UTC`*
+*Last automated pipeline execution: `2026-09-18 04:26:03 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
