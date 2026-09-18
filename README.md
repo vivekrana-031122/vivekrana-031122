@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Hacking OpenAI](https://www.hacktron.ai/blog/hacking-openai) | `79 pts` | `@Handy-Man` |
-| [Astra for Law](https://openai.com/index/astra-for-law/) | `392 pts` | `@vertigoruntime` |
-| [Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint](https://prismml.com/news/bonsai-2-27b) | `307 pts` | `@JonSchneider` |
-| [Bend – A language that blocks AI mistakes via proof, on CPU and GPU](https://bend-lang.com/) | `360 pts` | `@nicolas-siplis` |
-| [Hister: A private search engine for the pages you visit and the files you keep](https://github.com/asciimoo/hister) | `514 pts` | `@bookofjoe` |
+| [Cloudflare Quick Tunnels](https://try.cloudflare.com/) | `103 pts` | `@jcbhmr` |
+| [North Korean nuclear test sets off years of earthquakes](https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes) | `47 pts` | `@rbanffy` |
+| [An Empirical Study of Harness Design for Coding Agents](https://arxiv.org/abs/2609.20804) | `138 pts` | `@wek` |
+| [OpenJev](https://openjev.com/) | `342 pts` | `@ilreb` |
+| [Show HN: Rickub – The Smartest Git in the Universe](https://rickub.com/) | `17 pts` | `@ssaboum` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-18 04:26:03 UTC`*
+*Last automated pipeline execution: `2026-09-18 16:17:09 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
