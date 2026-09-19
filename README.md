@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Cloudflare Quick Tunnels](https://try.cloudflare.com/) | `103 pts` | `@jcbhmr` |
-| [North Korean nuclear test sets off years of earthquakes](https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes) | `47 pts` | `@rbanffy` |
-| [An Empirical Study of Harness Design for Coding Agents](https://arxiv.org/abs/2609.20804) | `138 pts` | `@wek` |
-| [OpenJev](https://openjev.com/) | `342 pts` | `@ilreb` |
-| [Show HN: Rickub – The Smartest Git in the Universe](https://rickub.com/) | `17 pts` | `@ssaboum` |
+| [Android 17 is the first since 3.x to add new APIs without releasing to the AOSP](https://grapheneos.social/@GrapheneOS/117282080803799576) | `655 pts` | `@theanonymousone` |
+| [Science Is Open Software](https://jepedersen.dk/blog/202505_research/) | `33 pts` | `@jegp` |
+| [SDCC – Small Device C Compiler](https://sdcc.sourceforge.net/) | `22 pts` | `@lioeters` |
+| [Cloudflare Quick Tunnels](https://try.cloudflare.com/) | `630 pts` | `@jcbhmr` |
+| [Saving another 100TB of RAM](https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/) | `273 pts` | `@f311a` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-18 16:17:09 UTC`*
+*Last automated pipeline execution: `2026-09-19 04:23:24 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
