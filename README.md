@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Android 17 is the first since 3.x to add new APIs without releasing to the AOSP](https://grapheneos.social/@GrapheneOS/117282080803799576) | `655 pts` | `@theanonymousone` |
-| [Science Is Open Software](https://jepedersen.dk/blog/202505_research/) | `33 pts` | `@jegp` |
-| [SDCC – Small Device C Compiler](https://sdcc.sourceforge.net/) | `22 pts` | `@lioeters` |
-| [Cloudflare Quick Tunnels](https://try.cloudflare.com/) | `630 pts` | `@jcbhmr` |
-| [Saving another 100TB of RAM](https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/) | `273 pts` | `@f311a` |
+| [Laya the open source version of Jev](https://laya.convaiinnovations.com/) | `411 pts` | `@nandakishor_ml` |
+| [A graphical desktop for the ZX Spectrum](https://github.com/mindbox77/zxdesk) | `40 pts` | `@graemep` |
+| [What Zig felt like, coming from Rust](https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/) | `75 pts` | `@ksec` |
+| [AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html) | `658 pts` | `@ereiamjh` |
+| [Tin: full-text search for Postgres](https://planetscale.com/blog/introducing-tin) | `51 pts` | `@ksec` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-19 04:23:24 UTC`*
+*Last automated pipeline execution: `2026-09-19 15:47:22 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
