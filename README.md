@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [AX – Google’s Open Agentic Orchestrator](https://agentexecutor.io) | `325 pts` | `@blazarquasar` |
-| [Samsung is expected to more than double output of its HBM4 and HBM4E DRAM](https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say) | `392 pts` | `@giuliomagnifico` |
-| [What happened to the Snowden archive](https://libroot.org/posts/what-happened-to-the-snowden-archive) | `255 pts` | `@EXHades` |
-| [Qwen Image 2.1](https://qwen.ai/blog?id=qwen-image-2.1) | `548 pts` | `@jmillikin` |
-| [The Effect of CRTs on Pixel Art (2024)](https://datagubbe.se/crt/) | `131 pts` | `@tobr` |
+| [What Sun got wrong](https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/) | `319 pts` | `@chmaynard` |
+| [Attention is all you have](https://alicegg.tech/2026/09/21/attention) | `254 pts` | `@zer0tonin` |
+| [Seattle Bans Rental Junk Fees](https://www.multifamilydive.com/news/seattle-ban-rental-junk-fees/827816/) | `20 pts` | `@toomuchtodo` |
+| [Grok 4.7](https://x.ai/news/grok-4-7) | `244 pts` | `@meetpateltech` |
+| [Fable 5 – Median thinking declined in August](https://twitter.com/Lon/status/2101793422487204027) | `140 pts` | `@espeed` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-21 04:40:17 UTC`*
+*Last automated pipeline execution: `2026-09-21 18:09:44 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
