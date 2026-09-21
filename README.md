@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Qwen-Image-2.1: Compact, efficient, and unified image creation](https://qwen.ai/blog?id=qwen-image-2.1) | `185 pts` | `@jmillikin` |
-| [Sherline Tools Is Going Out of Business](https://toolguyd.com/sherline-tools-shutting-down-usa-production/) | `42 pts` | `@tliltocatl` |
-| [Key symbols we lost to time, pt. 2: The Mac side](https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-2-the-mac-side/) | `35 pts` | `@zdw` |
-| [Apple iPhone 18 Pro Camera test](https://www.dxomark.com/apple-iphone-18-pro-camera-test/) | `26 pts` | `@luu` |
-| [A custom virtual machine for the Stars 4X game](https://nullprogram.com/blog/2026/09/17/) | `32 pts` | `@ibobev` |
+| [AX – Google’s Open Agentic Orchestrator](https://agentexecutor.io) | `325 pts` | `@blazarquasar` |
+| [Samsung is expected to more than double output of its HBM4 and HBM4E DRAM](https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say) | `392 pts` | `@giuliomagnifico` |
+| [What happened to the Snowden archive](https://libroot.org/posts/what-happened-to-the-snowden-archive) | `255 pts` | `@EXHades` |
+| [Qwen Image 2.1](https://qwen.ai/blog?id=qwen-image-2.1) | `548 pts` | `@jmillikin` |
+| [The Effect of CRTs on Pixel Art (2024)](https://datagubbe.se/crt/) | `131 pts` | `@tobr` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-20 15:56:05 UTC`*
+*Last automated pipeline execution: `2026-09-21 04:40:17 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
