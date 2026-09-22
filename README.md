@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6) | `672 pts` | `@volf_` |
-| [Spymarks, Not Watermarks](https://brand.io/article/spymarks/) | `229 pts` | `@possibilistic` |
-| [What Sun got wrong](https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/) | `536 pts` | `@chmaynard` |
-| [I don't want to read what you didn't write](https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/) | `438 pts` | `@mooreds` |
-| [Transformers Explained Visually](https://poloclub.github.io/transformer-explainer/) | `257 pts` | `@aray07` |
+| [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5) | `130 pts` | `@throwaway371647` |
+| [OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html) | `282 pts` | `@sohkamyung` |
+| [16-bit Intel 8088 chip](https://allpoetry.com/16-bit-Intel-8088-chip) | `31 pts` | `@rbanffy` |
+| [OpenAI is well positioned to fast-follow Jev](https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/) | `116 pts` | `@JohnBerryman` |
+| [Writing Rust code that's fast by asking agents to make the code faster](https://minimaxir.com/2026/09/agentic-iteration/) | `27 pts` | `@mooreds` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-22 04:36:33 UTC`*
+*Last automated pipeline execution: `2026-09-22 16:46:29 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
