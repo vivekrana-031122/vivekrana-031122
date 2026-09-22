@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [What Sun got wrong](https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/) | `319 pts` | `@chmaynard` |
-| [Attention is all you have](https://alicegg.tech/2026/09/21/attention) | `254 pts` | `@zer0tonin` |
-| [Seattle Bans Rental Junk Fees](https://www.multifamilydive.com/news/seattle-ban-rental-junk-fees/827816/) | `20 pts` | `@toomuchtodo` |
-| [Grok 4.7](https://x.ai/news/grok-4-7) | `244 pts` | `@meetpateltech` |
-| [Fable 5 – Median thinking declined in August](https://twitter.com/Lon/status/2101793422487204027) | `140 pts` | `@espeed` |
+| [MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6) | `672 pts` | `@volf_` |
+| [Spymarks, Not Watermarks](https://brand.io/article/spymarks/) | `229 pts` | `@possibilistic` |
+| [What Sun got wrong](https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/) | `536 pts` | `@chmaynard` |
+| [I don't want to read what you didn't write](https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/) | `438 pts` | `@mooreds` |
+| [Transformers Explained Visually](https://poloclub.github.io/transformer-explainer/) | `257 pts` | `@aray07` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-21 18:09:44 UTC`*
+*Last automated pipeline execution: `2026-09-22 04:36:33 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
