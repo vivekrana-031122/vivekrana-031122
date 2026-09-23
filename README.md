@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/) | `1321 pts` | `@OfficialTurkey` |
-| [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5) | `1331 pts` | `@km144` |
-| [US criticises Australia's proposed algorithm opt-out laws as 'censorship'](https://www.bbc.com/news/articles/cqj3dgy8x3vro) | `82 pts` | `@1659447091` |
-| [OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html) | `601 pts` | `@sohkamyung` |
-| ['We hacked the FBI:' Hackers say they have data on all FBI employees](https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/) | `490 pts` | `@spenvo` |
+| [Fixing the Portobello Police Station Clock](https://pointinthecloud.com/2026-04-11-211700.html) | `104 pts` | `@avidly` |
+| [Gemini 3.8 text-to-speech says hello](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/) | `46 pts` | `@swolpers` |
+| [GPT-6 Astra has gained the ability to drive a car](https://drivingbench.com/) | `130 pts` | `@plurby` |
+| [Stripe's Knowledge AI Platform](https://stripe.dev/blog/meet-stripes-knowledge-ai-platform) | `96 pts` | `@ltononro` |
+| [Strands Harness](https://strandsagents.com/blog/introducing-strands-harness/) | `75 pts` | `@zuckerborg0101` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-23 04:32:33 UTC`*
+*Last automated pipeline execution: `2026-09-23 16:43:29 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
