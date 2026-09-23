@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5) | `130 pts` | `@throwaway371647` |
-| [OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html) | `282 pts` | `@sohkamyung` |
-| [16-bit Intel 8088 chip](https://allpoetry.com/16-bit-Intel-8088-chip) | `31 pts` | `@rbanffy` |
-| [OpenAI is well positioned to fast-follow Jev](https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/) | `116 pts` | `@JohnBerryman` |
-| [Writing Rust code that's fast by asking agents to make the code faster](https://minimaxir.com/2026/09/agentic-iteration/) | `27 pts` | `@mooreds` |
+| [GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/) | `1321 pts` | `@OfficialTurkey` |
+| [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5) | `1331 pts` | `@km144` |
+| [US criticises Australia's proposed algorithm opt-out laws as 'censorship'](https://www.bbc.com/news/articles/cqj3dgy8x3vro) | `82 pts` | `@1659447091` |
+| [OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html) | `601 pts` | `@sohkamyung` |
+| ['We hacked the FBI:' Hackers say they have data on all FBI employees](https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/) | `490 pts` | `@spenvo` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-22 16:46:29 UTC`*
+*Last automated pipeline execution: `2026-09-23 04:32:33 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
