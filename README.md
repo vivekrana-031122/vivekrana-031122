@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Fixing the Portobello Police Station Clock](https://pointinthecloud.com/2026-04-11-211700.html) | `104 pts` | `@avidly` |
-| [Gemini 3.8 text-to-speech says hello](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/) | `46 pts` | `@swolpers` |
-| [GPT-6 Astra has gained the ability to drive a car](https://drivingbench.com/) | `130 pts` | `@plurby` |
-| [Stripe's Knowledge AI Platform](https://stripe.dev/blog/meet-stripes-knowledge-ai-platform) | `96 pts` | `@ltononro` |
-| [Strands Harness](https://strandsagents.com/blog/introducing-strands-harness/) | `75 pts` | `@zuckerborg0101` |
+| [Linux support is coming to Snapdragon X2 Series](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux) | `241 pts` | `@aaronday` |
+| [Claude discovers a novel enzyme system with CRISPR-like repeats](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system) | `560 pts` | `@raahelb` |
+| [Show HN: How long do I need to work at my salary before I can coast, or retire?](https://github.com/karmanyaahm/budget-tools/tree/main/fire) | `9 pts` | `@karmanyaahm` |
+| [Feds Target AI Critics as "Foreign Agents"](https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign) | `143 pts` | `@nmeagent` |
+| [ArXiv receives multiyear commitments to support it as an independent nonprofit](https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/) | `96 pts` | `@JohnHammersley` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-23 16:43:29 UTC`*
+*Last automated pipeline execution: `2026-09-24 04:29:50 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
