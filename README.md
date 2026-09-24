@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Linux support is coming to Snapdragon X2 Series](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux) | `241 pts` | `@aaronday` |
-| [Claude discovers a novel enzyme system with CRISPR-like repeats](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system) | `560 pts` | `@raahelb` |
-| [Show HN: How long do I need to work at my salary before I can coast, or retire?](https://github.com/karmanyaahm/budget-tools/tree/main/fire) | `9 pts` | `@karmanyaahm` |
-| [Feds Target AI Critics as "Foreign Agents"](https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign) | `143 pts` | `@nmeagent` |
-| [ArXiv receives multiyear commitments to support it as an independent nonprofit](https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/) | `96 pts` | `@JohnHammersley` |
+| [F-Droid 2.0](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html) | `265 pts` | `@daveoc64` |
+| [Dynamic Abliteration: Non-Destructive Refusal Suppression via Engram Steering](https://blog.madhukaraphatak.in/non-destructive-refusal-supression-using-engram) | `93 pts` | `@phatak-dev` |
+| [The science of Monkey Island: can grog dissolve a metal mug that fast?](https://jgeekstudies.org/2026/09/23/the-science-of-monkey-island-can-grog-actually-dissolve-a-metal-mug-that-fast/) | `79 pts` | `@zdw` |
+| [Two-tier encryption in the UK](https://macanorak.com/two-tier-encryption-in-the-uk/) | `227 pts` | `@ReturnoftheHack` |
+| [Enjoy Every Sandwich](https://bradmontague.substack.com/p/enjoy-every-sandwich) | `137 pts` | `@NaOH` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-24 04:29:50 UTC`*
+*Last automated pipeline execution: `2026-09-24 17:00:23 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
