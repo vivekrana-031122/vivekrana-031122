@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [F-Droid 2.0](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html) | `1042 pts` | `@daveoc64` |
-| [Show HN: Make cursed fonts like Times New Bastard](https://bastardica.mitpit.com) | `544 pts` | `@MitPitt` |
-| [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard) | `235 pts` | `@sidharthkmenon` |
-| [Why is the liver so weirdly regenerative?](https://dynomight.substack.com/p/liver) | `319 pts` | `@jbotz` |
-| [2DWillNeverDie](https://2dwillneverdie.com/) | `159 pts` | `@surprisetalk` |
+| [U.S. appeals court upholds designation of Anthropic as supply chain risk](https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html) | `110 pts` | `@cramer4next` |
+| [Platform-Independent SIMD in Go](https://go.dev/blog/simd-experiment) | `205 pts` | `@yurivish` |
+| [Git-bug: Distributed, offline-first bug tracker embedded in Git](https://github.com/git-bug/git-bug) | `178 pts` | `@alentred` |
+| [First Principles Thinking](https://sunilsadasivan.com/writing/first-principles-thinking/) | `74 pts` | `@sunils34` |
+| [Classified Estimates Show the NSA Is Paying Billions to Test AI Models](https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models) | `93 pts` | `@rdmuser` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-25 04:41:16 UTC`*
+*Last automated pipeline execution: `2026-09-25 17:02:20 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
