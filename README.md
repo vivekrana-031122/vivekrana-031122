@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [F-Droid 2.0](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html) | `265 pts` | `@daveoc64` |
-| [Dynamic Abliteration: Non-Destructive Refusal Suppression via Engram Steering](https://blog.madhukaraphatak.in/non-destructive-refusal-supression-using-engram) | `93 pts` | `@phatak-dev` |
-| [The science of Monkey Island: can grog dissolve a metal mug that fast?](https://jgeekstudies.org/2026/09/23/the-science-of-monkey-island-can-grog-actually-dissolve-a-metal-mug-that-fast/) | `79 pts` | `@zdw` |
-| [Two-tier encryption in the UK](https://macanorak.com/two-tier-encryption-in-the-uk/) | `227 pts` | `@ReturnoftheHack` |
-| [Enjoy Every Sandwich](https://bradmontague.substack.com/p/enjoy-every-sandwich) | `137 pts` | `@NaOH` |
+| [F-Droid 2.0](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html) | `1042 pts` | `@daveoc64` |
+| [Show HN: Make cursed fonts like Times New Bastard](https://bastardica.mitpit.com) | `544 pts` | `@MitPitt` |
+| [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard) | `235 pts` | `@sidharthkmenon` |
+| [Why is the liver so weirdly regenerative?](https://dynomight.substack.com/p/liver) | `319 pts` | `@jbotz` |
+| [2DWillNeverDie](https://2dwillneverdie.com/) | `159 pts` | `@surprisetalk` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-24 17:00:23 UTC`*
+*Last automated pipeline execution: `2026-09-25 04:41:16 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
