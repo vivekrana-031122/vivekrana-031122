@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [U.S. appeals court upholds designation of Anthropic as supply chain risk](https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html) | `110 pts` | `@cramer4next` |
-| [Platform-Independent SIMD in Go](https://go.dev/blog/simd-experiment) | `205 pts` | `@yurivish` |
-| [Git-bug: Distributed, offline-first bug tracker embedded in Git](https://github.com/git-bug/git-bug) | `178 pts` | `@alentred` |
-| [First Principles Thinking](https://sunilsadasivan.com/writing/first-principles-thinking/) | `74 pts` | `@sunils34` |
-| [Classified Estimates Show the NSA Is Paying Billions to Test AI Models](https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models) | `93 pts` | `@rdmuser` |
+| [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/) | `319 pts` | `@specked-citrus` |
+| [We're gonna need a lot more mathematicians](https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/) | `34 pts` | `@srcreigh` |
+| [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/) | `376 pts` | `@Ardakilic` |
+| [Plan mode is dead](https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html) | `180 pts` | `@jmvldz` |
+| [Show HN: Jev Plays Pokémon Red](https://jev-pokemon.vercel.app/) | `173 pts` | `@pancomplex` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-25 17:02:20 UTC`*
+*Last automated pipeline execution: `2026-09-26 04:44:08 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
