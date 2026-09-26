@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/) | `319 pts` | `@specked-citrus` |
-| [We're gonna need a lot more mathematicians](https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/) | `34 pts` | `@srcreigh` |
-| [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/) | `376 pts` | `@Ardakilic` |
-| [Plan mode is dead](https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html) | `180 pts` | `@jmvldz` |
-| [Show HN: Jev Plays Pokémon Red](https://jev-pokemon.vercel.app/) | `173 pts` | `@pancomplex` |
+| [Breaking Up with Google Play: Why Conversations Is Now Free](https://gultsch.de/posts/breaking-up-with-google-play/) | `402 pts` | `@ezst` |
+| [Fifteen years later, the Apple Cards origin story](https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story) | `196 pts` | `@ksec` |
+| [Plunging test scores are a slow-moving catastrophe](https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe) | `45 pts` | `@vinni2` |
+| [Show HN: A Claude Code skill to analyze your chess games](https://github.com/brumar/chess-postmortem-skills) | `11 pts` | `@brumar` |
+| [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/) | `608 pts` | `@specked-citrus` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-26 04:44:08 UTC`*
+*Last automated pipeline execution: `2026-09-26 16:15:23 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
