@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Breaking Up with Google Play: Why Conversations Is Now Free](https://gultsch.de/posts/breaking-up-with-google-play/) | `402 pts` | `@ezst` |
-| [Fifteen years later, the Apple Cards origin story](https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story) | `196 pts` | `@ksec` |
-| [Plunging test scores are a slow-moving catastrophe](https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe) | `45 pts` | `@vinni2` |
-| [Show HN: A Claude Code skill to analyze your chess games](https://github.com/brumar/chess-postmortem-skills) | `11 pts` | `@brumar` |
-| [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/) | `608 pts` | `@specked-citrus` |
+| [Go Concurrency Distilled](https://antonz.org/go-concurrency-distilled/) | `107 pts` | `@chmaynard` |
+| [PipePipe: NewPipe hard fork implementing SponsorBlock](https://github.com/InfinityLoop1308/PipePipe) | `357 pts` | `@Qision` |
+| [DeepSeek Elastic Compute (DSec)](https://arxiv.org/abs/2609.22978) | `201 pts` | `@shenli3514` |
+| [Show HN: Reladraw – A diagram language where you decide where to place things](https://github.com/reladraw/reladraw) | `233 pts` | `@jpwalsh234` |
+| [If we do not stop to help each other, what do we become?](https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/) | `81 pts` | `@signa11` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-26 16:15:23 UTC`*
+*Last automated pipeline execution: `2026-09-27 05:06:06 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
