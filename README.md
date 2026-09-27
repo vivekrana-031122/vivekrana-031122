@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Go Concurrency Distilled](https://antonz.org/go-concurrency-distilled/) | `107 pts` | `@chmaynard` |
-| [PipePipe: NewPipe hard fork implementing SponsorBlock](https://github.com/InfinityLoop1308/PipePipe) | `357 pts` | `@Qision` |
-| [DeepSeek Elastic Compute (DSec)](https://arxiv.org/abs/2609.22978) | `201 pts` | `@shenli3514` |
-| [Show HN: Reladraw – A diagram language where you decide where to place things](https://github.com/reladraw/reladraw) | `233 pts` | `@jpwalsh234` |
-| [If we do not stop to help each other, what do we become?](https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/) | `81 pts` | `@signa11` |
+| ["They had no concept of a duty of care to their users."](https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/) | `247 pts` | `@jandeboevrie` |
+| [The Normalization of Inexplicable Failures](https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html) | `53 pts` | `@pxx` |
+| [In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life](https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html) | `66 pts` | `@danso` |
+| [Replacing the old battery on rechargeable bike lights](https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/) | `64 pts` | `@surprisetalk` |
+| [Writing Efficient C++ Code](https://asawicki.info/articles/writing_efficient_cpp_code.php) | `45 pts` | `@ibobev` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-27 05:06:06 UTC`*
+*Last automated pipeline execution: `2026-09-27 16:51:42 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
