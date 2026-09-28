@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Owed a billion dollars in Nvidia stock](https://colo.to/nvidia-stock-narrative.html) | `313 pts` | `@Eric_Gullichsen` |
-| [Thinking Fast and Slow in AI: The Role of Metacognition](https://arxiv.org/abs/2110.01834) | `27 pts` | `@teleforce` |
-| [Nissan's third generation e-POWER powertrain](https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/) | `29 pts` | `@mroche` |
-| [Ember-1](https://fireworks.ai/blog/ember-1) | `396 pts` | `@gmays` |
-| [When did Google get so weird?](https://sancho.bearblog.dev/google-weird/) | `983 pts` | `@sancho-panza` |
+| [Pirating the Pirates](https://mubi.com/en/notebook/posts/pirating-the-pirates) | `223 pts` | `@piotrgrabowski` |
+| [Hijacking the PS5's RTMP stream](https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/) | `113 pts` | `@ibobev` |
+| [Joseph Szabo’s pictures of American adolescents](https://www.newyorker.com/culture/photo-booth/the-teen-portraits-that-captivated-sofia-coppola) | `23 pts` | `@prismatic` |
+| [Show HN: HN.watch – Videos of all Hacker News posts](https://hn.watch/) | `97 pts` | `@mrborgen` |
+| [Launch HN: Vespper (YC F24) – SOTA Docx MCP](https://www.vespper.com/blog/launching-vespper-docx-mcp) | `18 pts` | `@topaztee` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-28 05:08:16 UTC`*
+*Last automated pipeline execution: `2026-09-28 19:34:11 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
