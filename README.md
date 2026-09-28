@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| ["They had no concept of a duty of care to their users."](https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/) | `247 pts` | `@jandeboevrie` |
-| [The Normalization of Inexplicable Failures](https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html) | `53 pts` | `@pxx` |
-| [In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life](https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html) | `66 pts` | `@danso` |
-| [Replacing the old battery on rechargeable bike lights](https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/) | `64 pts` | `@surprisetalk` |
-| [Writing Efficient C++ Code](https://asawicki.info/articles/writing_efficient_cpp_code.php) | `45 pts` | `@ibobev` |
+| [Owed a billion dollars in Nvidia stock](https://colo.to/nvidia-stock-narrative.html) | `313 pts` | `@Eric_Gullichsen` |
+| [Thinking Fast and Slow in AI: The Role of Metacognition](https://arxiv.org/abs/2110.01834) | `27 pts` | `@teleforce` |
+| [Nissan's third generation e-POWER powertrain](https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/) | `29 pts` | `@mroche` |
+| [Ember-1](https://fireworks.ai/blog/ember-1) | `396 pts` | `@gmays` |
+| [When did Google get so weird?](https://sancho.bearblog.dev/google-weird/) | `983 pts` | `@sancho-panza` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-27 16:51:42 UTC`*
+*Last automated pipeline execution: `2026-09-28 05:08:16 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
