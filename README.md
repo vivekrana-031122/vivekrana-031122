@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Pirating the Pirates](https://mubi.com/en/notebook/posts/pirating-the-pirates) | `223 pts` | `@piotrgrabowski` |
-| [Hijacking the PS5's RTMP stream](https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/) | `113 pts` | `@ibobev` |
-| [Joseph Szabo’s pictures of American adolescents](https://www.newyorker.com/culture/photo-booth/the-teen-portraits-that-captivated-sofia-coppola) | `23 pts` | `@prismatic` |
-| [Show HN: HN.watch – Videos of all Hacker News posts](https://hn.watch/) | `97 pts` | `@mrborgen` |
-| [Launch HN: Vespper (YC F24) – SOTA Docx MCP](https://www.vespper.com/blog/launching-vespper-docx-mcp) | `18 pts` | `@topaztee` |
+| [Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms](https://github.com/firelex/jeff) | `411 pts` | `@firelex` |
+| [Phyllotaxis: An audio-reactive LED display](https://jagi.studio/posts/phyllotaxis/) | `26 pts` | `@evakhoury` |
+| [Pirating the Pirates](https://mubi.com/en/notebook/posts/pirating-the-pirates) | `488 pts` | `@piotrgrabowski` |
+| [1996 chat room simulator connected to Win95 and System 7 web desktops](https://lolchat.rip/) | `78 pts` | `@henrychannel` |
+| [MicroLLM Lab – Try 7 tiny LLM's in the browser](https://stateofutopia.com/experiments/microllmlab/) | `192 pts` | `@logicallee` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-28 19:34:11 UTC`*
+*Last automated pipeline execution: `2026-09-29 05:31:25 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
