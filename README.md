@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [GPT 6.1 Sol](https://openai.com/index/introducing-gpt-6-1-sol/) | `291 pts` | `@crorella` |
-| [Dots](https://openai.com/index/introducing-dots/) | `195 pts` | `@alvis` |
-| [Tcl/Tk 9.1 Released](https://www.tcl-lang.org/software/tcltk/9.1.html) | `37 pts` | `@dmux` |
-| [DraftKings Is Using AI to Behaviorally Target Chronic Gamblers](https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising) | `177 pts` | `@paimapi` |
-| [How Delhi cut electricity loss from 50 to 5 percent](https://spectrum.ieee.org/delhi-electricity-loss) | `319 pts` | `@rbanffy` |
+| [Livenerf: Has Opus 5.5 been nerfed yet?](https://github.com/ninjahawk/livenerf) | `399 pts` | `@bryan0` |
+| [LinkedIn Larpmaxxing](https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/) | `17 pts` | `@BurnerBurner` |
+| [PSSA: A non-transformer language model written from scratch in Rust](https://github.com/Sparticle62ops/pssa) | `39 pts` | `@sparticle62` |
+| [Dots: Always-on agents](https://openai.com/index/introducing-dots/) | `517 pts` | `@alvis` |
+| [U.S. postal inspectors shut down website selling counterfeit postage labels](https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/) | `199 pts` | `@ilamont` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-29 18:00:42 UTC`*
+*Last automated pipeline execution: `2026-09-30 05:19:40 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
