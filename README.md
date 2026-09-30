@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Livenerf: Has Opus 5.5 been nerfed yet?](https://github.com/ninjahawk/livenerf) | `399 pts` | `@bryan0` |
-| [LinkedIn Larpmaxxing](https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/) | `17 pts` | `@BurnerBurner` |
-| [PSSA: A non-transformer language model written from scratch in Rust](https://github.com/Sparticle62ops/pssa) | `39 pts` | `@sparticle62` |
-| [Dots: Always-on agents](https://openai.com/index/introducing-dots/) | `517 pts` | `@alvis` |
-| [U.S. postal inspectors shut down website selling counterfeit postage labels](https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/) | `199 pts` | `@ilamont` |
+| [Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents](https://github.com/magnitudedev/magnitude) | `15 pts` | `@anerli` |
+| [A brief history of the Bloomberg terminal](https://spectrum.ieee.org/bloomberg-terminal) | `93 pts` | `@rbanffy` |
+| [Commit Description as a Thinking Tool](https://yedhu.me/posts/commit-description-as-a-thinking-tool/) | `20 pts` | `@yedhukrishnan` |
+| [You Said No MCP](https://earendil.com/posts/you-said-no-mcp/) | `475 pts` | `@yarapavan` |
+| [Moist-Electric Wallpaper for Indoor Energy Harvesting and Humidity Management](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603) | `28 pts` | `@croes` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-30 05:19:40 UTC`*
+*Last automated pipeline execution: `2026-09-30 17:56:25 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
