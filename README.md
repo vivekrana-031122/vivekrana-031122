@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/) | `1192 pts` | `@bradleyg223` |
-| [The top secret URSALA, RAQUEL, and FARRAH satellites (2025)](https://www.thespacereview.com/article/4951/1) | `183 pts` | `@Bluestein` |
-| [Why the Bronze Age Collapsed](https://www.worksinprogress.news/p/why-really-caused-the-bronze-age) | `149 pts` | `@AnodicElegy` |
-| [Surprisingly complex waves reveal the brain's inner workings](https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/) | `156 pts` | `@ibobev` |
-| [EDG C++ front-end goes public](https://edgcpp.org/#transition) | `188 pts` | `@iandinwoodie` |
+| [Clef: Open-source decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/) | `198 pts` | `@jasondavies` |
+| [RIP, vector database](https://turbopuffer.com/blog/rip-vector-database) | `119 pts` | `@razin` |
+| [StreetComplete on iOS is now in public beta](https://github.com/streetcomplete/StreetComplete/issues/5421) | `416 pts` | `@Snowly` |
+| [RacketCon Is Saturday](https://con.racket-lang.org/) | `78 pts` | `@spdegabrielle` |
+| [Ask HN: Who is hiring? (October 2026)](https://news.ycombinator.com/item?id=49922569) | `55 pts` | `@whoishiring` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-01 05:34:30 UTC`*
+*Last automated pipeline execution: `2026-10-01 18:21:58 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
