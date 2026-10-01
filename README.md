@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents](https://github.com/magnitudedev/magnitude) | `15 pts` | `@anerli` |
-| [A brief history of the Bloomberg terminal](https://spectrum.ieee.org/bloomberg-terminal) | `93 pts` | `@rbanffy` |
-| [Commit Description as a Thinking Tool](https://yedhu.me/posts/commit-description-as-a-thinking-tool/) | `20 pts` | `@yedhukrishnan` |
-| [You Said No MCP](https://earendil.com/posts/you-said-no-mcp/) | `475 pts` | `@yarapavan` |
-| [Moist-Electric Wallpaper for Indoor Energy Harvesting and Humidity Management](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603) | `28 pts` | `@croes` |
+| [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/) | `1192 pts` | `@bradleyg223` |
+| [The top secret URSALA, RAQUEL, and FARRAH satellites (2025)](https://www.thespacereview.com/article/4951/1) | `183 pts` | `@Bluestein` |
+| [Why the Bronze Age Collapsed](https://www.worksinprogress.news/p/why-really-caused-the-bronze-age) | `149 pts` | `@AnodicElegy` |
+| [Surprisingly complex waves reveal the brain's inner workings](https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/) | `156 pts` | `@ibobev` |
+| [EDG C++ front-end goes public](https://edgcpp.org/#transition) | `188 pts` | `@iandinwoodie` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-09-30 17:56:25 UTC`*
+*Last automated pipeline execution: `2026-10-01 05:34:30 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
