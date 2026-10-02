@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Clef: Open-source decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/) | `198 pts` | `@jasondavies` |
-| [RIP, vector database](https://turbopuffer.com/blog/rip-vector-database) | `119 pts` | `@razin` |
-| [StreetComplete on iOS is now in public beta](https://github.com/streetcomplete/StreetComplete/issues/5421) | `416 pts` | `@Snowly` |
-| [RacketCon Is Saturday](https://con.racket-lang.org/) | `78 pts` | `@spdegabrielle` |
-| [Ask HN: Who is hiring? (October 2026)](https://news.ycombinator.com/item?id=49922569) | `55 pts` | `@whoishiring` |
+| [Pi 1.0](https://earendil.com/posts/pi-1-0/) | `969 pts` | `@sergiotapia` |
+| [DeepSeek Harness](https://www.deepseek.com/en/harness/) | `60 pts` | `@Kuyawa` |
+| [How Singapore's government-run dating service works](https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works) | `56 pts` | `@danielfoster` |
+| [Clef: Open-weight decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/) | `468 pts` | `@jasondavies` |
+| [Meta's Muse is fantastic for web scraping](https://sigh.dev/posts/metas-muse-is-fantastic-for-web-scraping/) | `5 pts` | `@STRiDEX` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-01 18:21:58 UTC`*
+*Last automated pipeline execution: `2026-10-02 05:21:42 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
