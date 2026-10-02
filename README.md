@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Pi 1.0](https://earendil.com/posts/pi-1-0/) | `969 pts` | `@sergiotapia` |
-| [DeepSeek Harness](https://www.deepseek.com/en/harness/) | `60 pts` | `@Kuyawa` |
-| [How Singapore's government-run dating service works](https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works) | `56 pts` | `@danielfoster` |
-| [Clef: Open-weight decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/) | `468 pts` | `@jasondavies` |
-| [Meta's Muse is fantastic for web scraping](https://sigh.dev/posts/metas-muse-is-fantastic-for-web-scraping/) | `5 pts` | `@STRiDEX` |
+| [Dutch Computer Museums](https://aresluna.org/dutch-computer-museums/) | `37 pts` | `@npollock` |
+| [The Legend of von Neumann (1973) [pdf]](https://gwern.net/doc/math/1973-halmos.pdf) | `166 pts` | `@suopspaces` |
+| [Tiny Brutalism](https://placeholders.itch.io/tiny-brutalism) | `71 pts` | `@abetusk` |
+| [Court agrees with EFF: Utah's VPN law demands a technical impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility) | `100 pts` | `@hn_acker` |
+| [ICC judge on what U.S. sanctions mean for her and global courts](https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost) | `77 pts` | `@rbanffy` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-02 05:21:42 UTC`*
+*Last automated pipeline execution: `2026-10-02 17:47:15 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
