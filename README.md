@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Newgrounds.com – A community of games, music, and art](https://www.newgrounds.com/) | `103 pts` | `@azhenley` |
-| [The Forgetful CPU (Linux on M4)](https://yuka.dev/blog-2026-10-02-linux-m4.html) | `160 pts` | `@signa11` |
-| [Court agrees with EFF: Utah's VPN law demands a technical impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility) | `569 pts` | `@hn_acker` |
-| [Cloudflare OHTTP gateway](https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/) | `20 pts` | `@est` |
-| [Extra Big Ass Intelligence](https://www.extrabigassintelligence.com/) | `24 pts` | `@34679` |
+| [Kolibri is an open-weight LLM from Aleph Alpha for German and English](https://tej.as/blog/aleph-alpha-kolibri) | `265 pts` | `@tejaskumar__` |
+| [Woking Electrical Control Room (2016)](http://www.darbiansphotography.com/woking-electrical-control-room-urbex) | `58 pts` | `@NaOH` |
+| [Kolibri Has Landed: A Sovereign Open-Weight Model](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/) | `171 pts` | `@bastitx` |
+| [FTL: A new operating system for clouds](https://ftl-os.org/) | `13 pts` | `@romac` |
+| [C++ Insights – See your source code with the eyes of a Compiler](https://github.com/andreasfertig/cppinsights) | `65 pts` | `@rramadass` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-03 05:04:30 UTC`*
+*Last automated pipeline execution: `2026-10-03 16:06:56 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
