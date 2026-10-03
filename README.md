@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Dutch Computer Museums](https://aresluna.org/dutch-computer-museums/) | `37 pts` | `@npollock` |
-| [The Legend of von Neumann (1973) [pdf]](https://gwern.net/doc/math/1973-halmos.pdf) | `166 pts` | `@suopspaces` |
-| [Tiny Brutalism](https://placeholders.itch.io/tiny-brutalism) | `71 pts` | `@abetusk` |
-| [Court agrees with EFF: Utah's VPN law demands a technical impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility) | `100 pts` | `@hn_acker` |
-| [ICC judge on what U.S. sanctions mean for her and global courts](https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost) | `77 pts` | `@rbanffy` |
+| [Newgrounds.com – A community of games, music, and art](https://www.newgrounds.com/) | `103 pts` | `@azhenley` |
+| [The Forgetful CPU (Linux on M4)](https://yuka.dev/blog-2026-10-02-linux-m4.html) | `160 pts` | `@signa11` |
+| [Court agrees with EFF: Utah's VPN law demands a technical impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility) | `569 pts` | `@hn_acker` |
+| [Cloudflare OHTTP gateway](https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/) | `20 pts` | `@est` |
+| [Extra Big Ass Intelligence](https://www.extrabigassintelligence.com/) | `24 pts` | `@34679` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-02 17:47:15 UTC`*
+*Last automated pipeline execution: `2026-10-03 05:04:30 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
