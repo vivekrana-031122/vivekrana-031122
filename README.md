@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Tell HN: Bob Cringely has died](https://news.ycombinator.com/item?id=49949438) | `298 pts` | `@paveworld` |
-| [Why don't more developers "use the platform"?](https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/) | `39 pts` | `@vinhnx` |
-| [So you think you could be an electrician?](https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician) | `108 pts` | `@zdw` |
-| [We're going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/) | `329 pts` | `@elffjs` |
-| [The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux](https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU) | `205 pts` | `@speckx` |
+| [Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s](https://github.com/Niko1221/Strata) | `272 pts` | `@snehesht` |
+| [Car is a smartphone on wheels. Here's who's listening](https://automatictransmission.khoury.northeastern.edu/) | `86 pts` | `@longhaul` |
+| [A Map of Every Lighthouse on the Planet](https://mapped.earth/lighthouses/world) | `24 pts` | `@karakoram` |
+| [Glashütte Trash Clock – A 30-minute pendulum clock made from trash](https://niklasroy.com/gtc/) | `90 pts` | `@r0r0` |
+| [Tell HN: Bob Cringely has died](https://news.ycombinator.com/item?id=49949438) | `685 pts` | `@paveworld` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-04 05:37:29 UTC`*
+*Last automated pipeline execution: `2026-10-04 16:46:44 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
