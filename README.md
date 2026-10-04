@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Kolibri is an open-weight LLM from Aleph Alpha for German and English](https://tej.as/blog/aleph-alpha-kolibri) | `265 pts` | `@tejaskumar__` |
-| [Woking Electrical Control Room (2016)](http://www.darbiansphotography.com/woking-electrical-control-room-urbex) | `58 pts` | `@NaOH` |
-| [Kolibri Has Landed: A Sovereign Open-Weight Model](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/) | `171 pts` | `@bastitx` |
-| [FTL: A new operating system for clouds](https://ftl-os.org/) | `13 pts` | `@romac` |
-| [C++ Insights – See your source code with the eyes of a Compiler](https://github.com/andreasfertig/cppinsights) | `65 pts` | `@rramadass` |
+| [Tell HN: Bob Cringely has died](https://news.ycombinator.com/item?id=49949438) | `298 pts` | `@paveworld` |
+| [Why don't more developers "use the platform"?](https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/) | `39 pts` | `@vinhnx` |
+| [So you think you could be an electrician?](https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician) | `108 pts` | `@zdw` |
+| [We're going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/) | `329 pts` | `@elffjs` |
+| [The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux](https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU) | `205 pts` | `@speckx` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-03 16:06:56 UTC`*
+*Last automated pipeline execution: `2026-10-04 05:37:29 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
