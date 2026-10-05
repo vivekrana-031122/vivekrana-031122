@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Powerless F1 drivers frustrated by Bahrain F1 software glitch](https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/) | `147 pts` | `@llm_nerd` |
-| [Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s](https://github.com/Niko1221/Strata) | `679 pts` | `@snehesht` |
-| [In the wake of closure, a digital archive of animated materials appears online](https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/) | `79 pts` | `@rdmuser` |
-| [A 40ms Go garbage collector pause caused by swap](https://frn.sh/go-gc/) | `27 pts` | `@shellpipe` |
-| [Infidel goes wild](https://blog.zarfhome.com/2026/10/infidel-goes-wild) | `104 pts` | `@tobr` |
+| [Beam: Reflection's 501B open-weight model](https://reflection.ai/blog/introducing-beam) | `119 pts` | `@Philpax` |
+| [Why Plain Text Is Still One of the Best Technologies We Have](https://deadparrotbbs.com/why-plain-text-is-still-one-of-the-best-technologies-we-have/) | `91 pts` | `@speckx` |
+| [GitHub Actions Has Problems](https://www.githubstatus.com/incidents/3q1yb5m7ltvb) | `16 pts` | `@hising` |
+| [The future of independence is interdependence](https://onlys.ky/independence-is-interdependence/) | `123 pts` | `@eustoria` |
+| [Web Search API](https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/) | `403 pts` | `@tosh` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-05 05:21:05 UTC`*
+*Last automated pipeline execution: `2026-10-05 20:31:15 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
