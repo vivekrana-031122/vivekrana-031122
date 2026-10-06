@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Beam: Reflection's 501B open-weight model](https://reflection.ai/blog/introducing-beam) | `119 pts` | `@Philpax` |
-| [Why Plain Text Is Still One of the Best Technologies We Have](https://deadparrotbbs.com/why-plain-text-is-still-one-of-the-best-technologies-we-have/) | `91 pts` | `@speckx` |
-| [GitHub Actions Has Problems](https://www.githubstatus.com/incidents/3q1yb5m7ltvb) | `16 pts` | `@hising` |
-| [The future of independence is interdependence](https://onlys.ky/independence-is-interdependence/) | `123 pts` | `@eustoria` |
-| [Web Search API](https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/) | `403 pts` | `@tosh` |
+| [Why Common Lisp is now the best programming language](https://www.vivienhenz.com/common-lisp) | `89 pts` | `@misterchocolat` |
+| [Beam: Reflection's 501B open-weight model](https://reflection.ai/blog/introducing-beam) | `386 pts` | `@Philpax` |
+| [Example.com just launched the biggest redesign in decades](https://www.debugbear.com/blog/example-dot-com-redesign-history) | `162 pts` | `@jgx0` |
+| [Find the flattest route between any two points in SF](https://flattensf.com/) | `157 pts` | `@ishan0102` |
+| [Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates](https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors) | `286 pts` | `@outlier99` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-05 20:31:15 UTC`*
+*Last automated pipeline execution: `2026-10-06 06:04:25 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
