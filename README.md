@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Why Common Lisp is now the best programming language](https://www.vivienhenz.com/common-lisp) | `89 pts` | `@misterchocolat` |
-| [Beam: Reflection's 501B open-weight model](https://reflection.ai/blog/introducing-beam) | `386 pts` | `@Philpax` |
-| [Example.com just launched the biggest redesign in decades](https://www.debugbear.com/blog/example-dot-com-redesign-history) | `162 pts` | `@jgx0` |
-| [Find the flattest route between any two points in SF](https://flattensf.com/) | `157 pts` | `@ishan0102` |
-| [Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates](https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors) | `286 pts` | `@outlier99` |
+| [Mistral Large 4](https://mistral.ai/news/mistral-large-4/\) | `1053 pts` | `@Philpax` |
+| [Adobe Creative Suite Cleanroom Port to Rust](https://github.com/storytold/photocraft) | `49 pts` | `@bigwheels` |
+| [Nobel Prize in Physics goes to Francis Halzen](https://www.nobelprize.org/prizes/physics/2026/) | `388 pts` | `@solarist` |
+| [Release of Polars 2.0](https://pola.rs/posts/release-polars-2/) | `302 pts` | `@simicd` |
+| [AI is now capable of developing its own inference hardware](https://github.com/FeSens/openTPU) | `120 pts` | `@fsbonetto` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-06 06:04:25 UTC`*
+*Last automated pipeline execution: `2026-10-06 18:16:33 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
