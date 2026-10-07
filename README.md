@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/) | `678 pts` | `@OfficialTurkey` |
-| [Strands Decider 2B: a small, open-source, decision model](https://strandsagents.com/blog/introducing-strands-decider/) | `98 pts` | `@gmays` |
-| [Decisions API is in public beta](https://developers.openai.com/api/docs/guides/decisions) | `210 pts` | `@chiefstorm` |
-| [La Cueva BBS in Mexico in 1993 (session replay)](https://nanochess.org/la_cueva_bbs.html) | `25 pts` | `@nanochess` |
-| [Penguin Mail – open-source Rust email client for Linux with AI](https://penguin-mail.com/) | `135 pts` | `@kavourias` |
+| [Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5) | `205 pts` | `@sfkgtbor` |
+| [GPT‑6 and Intelligent UI for everyone](https://openai.com/index/gpt-6-for-everyone/) | `109 pts` | `@joshuawright11` |
+| [Visa, Mastercard, Major Banks Facing New Litigation over 'Anticompetitive' Fees](https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees) | `287 pts` | `@DeepLogin` |
+| [Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app](https://bigwords.page/) | `135 pts` | `@SpeakingOfBrad` |
+| [Animated ASCII Art for Web Pages](https://ascii.rest/) | `163 pts` | `@turrini` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-07 05:39:44 UTC`*
+*Last automated pipeline execution: `2026-10-07 18:48:40 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
