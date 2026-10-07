@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Mistral Large 4](https://mistral.ai/news/mistral-large-4/\) | `1053 pts` | `@Philpax` |
-| [Adobe Creative Suite Cleanroom Port to Rust](https://github.com/storytold/photocraft) | `49 pts` | `@bigwheels` |
-| [Nobel Prize in Physics goes to Francis Halzen](https://www.nobelprize.org/prizes/physics/2026/) | `388 pts` | `@solarist` |
-| [Release of Polars 2.0](https://pola.rs/posts/release-polars-2/) | `302 pts` | `@simicd` |
-| [AI is now capable of developing its own inference hardware](https://github.com/FeSens/openTPU) | `120 pts` | `@fsbonetto` |
+| [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/) | `678 pts` | `@OfficialTurkey` |
+| [Strands Decider 2B: a small, open-source, decision model](https://strandsagents.com/blog/introducing-strands-decider/) | `98 pts` | `@gmays` |
+| [Decisions API is in public beta](https://developers.openai.com/api/docs/guides/decisions) | `210 pts` | `@chiefstorm` |
+| [La Cueva BBS in Mexico in 1993 (session replay)](https://nanochess.org/la_cueva_bbs.html) | `25 pts` | `@nanochess` |
+| [Penguin Mail – open-source Rust email client for Linux with AI](https://penguin-mail.com/) | `135 pts` | `@kavourias` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-06 18:16:33 UTC`*
+*Last automated pipeline execution: `2026-10-07 05:39:44 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
