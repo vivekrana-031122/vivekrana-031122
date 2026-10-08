@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Terence Tao Responds to the OpenAI Math Drop](https://mathstodon.xyz/@tao/117395269325940185) | `45 pts` | `@ent101` |
-| [Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5) | `787 pts` | `@sfkgtbor` |
-| [Living off-grid: Hundred Rabbits](https://100r.ca/site/home.html) | `112 pts` | `@Muhammad523` |
-| [A 100x faster* alternative to homebrew](https://github.com/zerobrewhq/zerobrew) | `26 pts` | `@cachebag` |
-| [Margaret Hamilton has died](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007) | `1139 pts` | `@muglug` |
+| [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle) | `152 pts` | `@gmays` |
+| [Trump administration is suspending Microsoft from a green card program](https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea) | `542 pts` | `@alephnerd` |
+| [Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter](https://openrouter.ai/stepfun/step-5-preview) | `37 pts` | `@AnneWodell` |
+| [Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age](https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/) | `64 pts` | `@Hooke` |
+| [Show HN: K10s – A Clickable Kubernetes TUI (Go, Bubble Tea)](https://github.com/p10node/k10s) | `13 pts` | `@pierreneter` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-08 05:48:21 UTC`*
+*Last automated pipeline execution: `2026-10-08 18:46:44 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
