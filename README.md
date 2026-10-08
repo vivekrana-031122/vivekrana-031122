@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5) | `205 pts` | `@sfkgtbor` |
-| [GPT‑6 and Intelligent UI for everyone](https://openai.com/index/gpt-6-for-everyone/) | `109 pts` | `@joshuawright11` |
-| [Visa, Mastercard, Major Banks Facing New Litigation over 'Anticompetitive' Fees](https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees) | `287 pts` | `@DeepLogin` |
-| [Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app](https://bigwords.page/) | `135 pts` | `@SpeakingOfBrad` |
-| [Animated ASCII Art for Web Pages](https://ascii.rest/) | `163 pts` | `@turrini` |
+| [Terence Tao Responds to the OpenAI Math Drop](https://mathstodon.xyz/@tao/117395269325940185) | `45 pts` | `@ent101` |
+| [Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5) | `787 pts` | `@sfkgtbor` |
+| [Living off-grid: Hundred Rabbits](https://100r.ca/site/home.html) | `112 pts` | `@Muhammad523` |
+| [A 100x faster* alternative to homebrew](https://github.com/zerobrewhq/zerobrew) | `26 pts` | `@cachebag` |
+| [Margaret Hamilton has died](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007) | `1139 pts` | `@muglug` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-07 18:48:40 UTC`*
+*Last automated pipeline execution: `2026-10-08 05:48:21 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
