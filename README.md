@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Show HN: Quake ported to safe Rust, playable in browser](https://quake-srp.pages.dev/) | `35 pts` | `@ilreb` |
-| [Reducing undefined behavior in the C language](https://lwn.net/Articles/1095811/) | `77 pts` | `@signa11` |
-| [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle) | `674 pts` | `@gmays` |
-| [Theranos.world](https://www.theranos.world/) | `375 pts` | `@kbyatnal` |
-| [Man discovers his parents' coffee machine used 1TB of data in 10 days](https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/) | `571 pts` | `@ck2` |
+| [Cloudflare acquires Deno](https://deno.com/blog/cloudflare) | `747 pts` | `@ilreb` |
+| [Our $445M Series D](https://oxide.computer/blog/our-445m-series-d) | `405 pts` | `@ahlCVA` |
+| [Sorry, I'm in a meeting](https://iminafleeting.com/) | `507 pts` | `@splintersio` |
+| [Show HN: Let your AI agents paint big arrows, boxes and text on your screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen) | `310 pts` | `@franze` |
+| [Nobel Peace Prize for 2026 to Navanethem Pillay](https://www.nobelprize.org/prizes/peace/2026/press-release/) | `345 pts` | `@Anon84` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-09 05:52:49 UTC`*
+*Last automated pipeline execution: `2026-10-09 18:17:07 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
