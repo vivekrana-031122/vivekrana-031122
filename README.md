@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle) | `152 pts` | `@gmays` |
-| [Trump administration is suspending Microsoft from a green card program](https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea) | `542 pts` | `@alephnerd` |
-| [Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter](https://openrouter.ai/stepfun/step-5-preview) | `37 pts` | `@AnneWodell` |
-| [Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age](https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/) | `64 pts` | `@Hooke` |
-| [Show HN: K10s – A Clickable Kubernetes TUI (Go, Bubble Tea)](https://github.com/p10node/k10s) | `13 pts` | `@pierreneter` |
+| [Show HN: Quake ported to safe Rust, playable in browser](https://quake-srp.pages.dev/) | `35 pts` | `@ilreb` |
+| [Reducing undefined behavior in the C language](https://lwn.net/Articles/1095811/) | `77 pts` | `@signa11` |
+| [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle) | `674 pts` | `@gmays` |
+| [Theranos.world](https://www.theranos.world/) | `375 pts` | `@kbyatnal` |
+| [Man discovers his parents' coffee machine used 1TB of data in 10 days](https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/) | `571 pts` | `@ck2` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-08 18:46:44 UTC`*
+*Last automated pipeline execution: `2026-10-09 05:52:49 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
