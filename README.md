@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Lobbying](https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html) | `118 pts` | `@smilelamp` |
-| [REA Reverse – Engineer Anything](https://rea.tools/) | `241 pts` | `@modinfo` |
-| [Cloudflare acquires Deno](https://deno.com/blog/cloudflare) | `1134 pts` | `@ilreb` |
-| [Triple-A Minesweeper](https://minesweeper.mikelacher.com/) | `806 pts` | `@robin_reala` |
-| [Eye of Sauron: Long-Range Hidden Spy Camera Detection](https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo) | `74 pts` | `@ortusdux` |
+| [Grieving the Loss of Details](https://purplesyringa.moe/blog/grieving-the-loss-of-details/) | `36 pts` | `@signa11` |
+| [Knuth Reward Check](https://www.thomas-huehn.com/knuth-reward-check) | `35 pts` | `@Curiositry` |
+| [Talorys – A self-hosted personal AI agent on Cloudflare's free tier](https://github.com/rociiu/talorys) | `150 pts` | `@rociiu` |
+| [Bitwarden Dual License Model](https://community.bitwarden.com/t/published-version-update-in-app-stores/102750) | `180 pts` | `@Cider9986` |
+| [Rampart: Browser native on-device PII radaction](https://ndstudio.gov/posts/say-hello-to-rampart) | `32 pts` | `@nateb2022` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-10 05:35:08 UTC`*
+*Last automated pipeline execution: `2026-10-10 17:16:08 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
