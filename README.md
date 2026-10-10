@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Cloudflare acquires Deno](https://deno.com/blog/cloudflare) | `747 pts` | `@ilreb` |
-| [Our $445M Series D](https://oxide.computer/blog/our-445m-series-d) | `405 pts` | `@ahlCVA` |
-| [Sorry, I'm in a meeting](https://iminafleeting.com/) | `507 pts` | `@splintersio` |
-| [Show HN: Let your AI agents paint big arrows, boxes and text on your screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen) | `310 pts` | `@franze` |
-| [Nobel Peace Prize for 2026 to Navanethem Pillay](https://www.nobelprize.org/prizes/peace/2026/press-release/) | `345 pts` | `@Anon84` |
+| [Lobbying](https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html) | `118 pts` | `@smilelamp` |
+| [REA Reverse – Engineer Anything](https://rea.tools/) | `241 pts` | `@modinfo` |
+| [Cloudflare acquires Deno](https://deno.com/blog/cloudflare) | `1134 pts` | `@ilreb` |
+| [Triple-A Minesweeper](https://minesweeper.mikelacher.com/) | `806 pts` | `@robin_reala` |
+| [Eye of Sauron: Long-Range Hidden Spy Camera Detection](https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo) | `74 pts` | `@ortusdux` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-09 18:17:07 UTC`*
+*Last automated pipeline execution: `2026-10-10 05:35:08 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
