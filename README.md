@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [WallHop – 12ft.io is gone, so I built a replacement](https://wallhop.io/) | `197 pts` | `@TheWaffleHax` |
-| [Build your own decision model](https://nishtahir.com/build-your-own-decision-model/) | `189 pts` | `@softwaredoug` |
-| [CIA World Facebook Is Dead – Here Is an Attempt at Recreation](https://worldfacts.app) | `33 pts` | `@yegortk` |
-| [2D Vehicles](https://patkerr.co.uk/2d-vehicles/) | `404 pts` | `@Michelangelo11` |
-| [A city-building game in which the city would prefer you didn't](https://housing.over.pizza/) | `254 pts` | `@JumpCrisscross` |
+| [I paid people to try and follow my README](https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/) | `267 pts` | `@edent` |
+| [I'm sorry, but you still have to think](https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/) | `45 pts` | `@drogus` |
+| [The tilde in your PATH may not be your HOME](https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/) | `148 pts` | `@arusekk` |
+| [LineageOS 24.0](https://lineageos.org/Changelog-32/) | `313 pts` | `@timschumi` |
+| [Show HN: BetterWispr – Free, open-source dictation for Mac](https://betterwispr.com/) | `67 pts` | `@kartik017` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-11 05:31:28 UTC`*
+*Last automated pipeline execution: `2026-10-11 17:38:23 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
