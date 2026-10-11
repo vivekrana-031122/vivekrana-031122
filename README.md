@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Grieving the Loss of Details](https://purplesyringa.moe/blog/grieving-the-loss-of-details/) | `36 pts` | `@signa11` |
-| [Knuth Reward Check](https://www.thomas-huehn.com/knuth-reward-check) | `35 pts` | `@Curiositry` |
-| [Talorys – A self-hosted personal AI agent on Cloudflare's free tier](https://github.com/rociiu/talorys) | `150 pts` | `@rociiu` |
-| [Bitwarden Dual License Model](https://community.bitwarden.com/t/published-version-update-in-app-stores/102750) | `180 pts` | `@Cider9986` |
-| [Rampart: Browser native on-device PII radaction](https://ndstudio.gov/posts/say-hello-to-rampart) | `32 pts` | `@nateb2022` |
+| [WallHop – 12ft.io is gone, so I built a replacement](https://wallhop.io/) | `197 pts` | `@TheWaffleHax` |
+| [Build your own decision model](https://nishtahir.com/build-your-own-decision-model/) | `189 pts` | `@softwaredoug` |
+| [CIA World Facebook Is Dead – Here Is an Attempt at Recreation](https://worldfacts.app) | `33 pts` | `@yegortk` |
+| [2D Vehicles](https://patkerr.co.uk/2d-vehicles/) | `404 pts` | `@Michelangelo11` |
+| [A city-building game in which the city would prefer you didn't](https://housing.over.pizza/) | `254 pts` | `@JumpCrisscross` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-10 17:16:08 UTC`*
+*Last automated pipeline execution: `2026-10-11 05:31:28 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
