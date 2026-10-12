@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Type-safe HTML templating in Zig](https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html) | `19 pts` | `@lukaslalinsky` |
-| [Fingerprints are the new cookies](https://royfish.dev/fingerprints-are-the-new-cookies) | `232 pts` | `@royfish` |
-| [Total Annihilation, rebuilt for modern computers](https://nanolathe.gg) | `434 pts` | `@jttnr` |
-| [Whatever became of holography? (2011)](https://www.americanscientist.org/article/whatever-became-of-holography) | `101 pts` | `@cainxinth` |
-| [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/) | `58 pts` | `@subset` |
+| [GLM-Legal](https://z.ai/blog/glm-legal) | `339 pts` | `@ilreb` |
+| [A Modern Web App in C](https://prophitt.me/writing/a-modern-web-app-in-c) | `281 pts` | `@prophittcorey` |
+| [Writing a Demoscene Intro for the ZX Spectrum](https://www.markround.com/blog/2026/zx-spectrum-intro) | `24 pts` | `@zdw` |
+| [AI coding agents generate more code, but not more software](https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/) | `223 pts` | `@gumby` |
+| [Codex CLI installs a persistent, self-updating background daemon by default](https://github.com/openai/codex/issues/48195) | `326 pts` | `@whimblepop` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-12 05:41:35 UTC`*
+*Last automated pipeline execution: `2026-10-12 21:12:13 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
