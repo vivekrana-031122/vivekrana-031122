@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [I paid people to try and follow my README](https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/) | `267 pts` | `@edent` |
-| [I'm sorry, but you still have to think](https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/) | `45 pts` | `@drogus` |
-| [The tilde in your PATH may not be your HOME](https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/) | `148 pts` | `@arusekk` |
-| [LineageOS 24.0](https://lineageos.org/Changelog-32/) | `313 pts` | `@timschumi` |
-| [Show HN: BetterWispr – Free, open-source dictation for Mac](https://betterwispr.com/) | `67 pts` | `@kartik017` |
+| [Type-safe HTML templating in Zig](https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html) | `19 pts` | `@lukaslalinsky` |
+| [Fingerprints are the new cookies](https://royfish.dev/fingerprints-are-the-new-cookies) | `232 pts` | `@royfish` |
+| [Total Annihilation, rebuilt for modern computers](https://nanolathe.gg) | `434 pts` | `@jttnr` |
+| [Whatever became of holography? (2011)](https://www.americanscientist.org/article/whatever-became-of-holography) | `101 pts` | `@cainxinth` |
+| [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/) | `58 pts` | `@subset` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-11 17:38:23 UTC`*
+*Last automated pipeline execution: `2026-10-12 05:41:35 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
