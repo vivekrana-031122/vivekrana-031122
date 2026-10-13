@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [GLM-Legal](https://z.ai/blog/glm-legal) | `339 pts` | `@ilreb` |
-| [A Modern Web App in C](https://prophitt.me/writing/a-modern-web-app-in-c) | `281 pts` | `@prophittcorey` |
-| [Writing a Demoscene Intro for the ZX Spectrum](https://www.markround.com/blog/2026/zx-spectrum-intro) | `24 pts` | `@zdw` |
-| [AI coding agents generate more code, but not more software](https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/) | `223 pts` | `@gumby` |
-| [Codex CLI installs a persistent, self-updating background daemon by default](https://github.com/openai/codex/issues/48195) | `326 pts` | `@whimblepop` |
+| [AI Models Can Provably Hide Arbitrary Capabilities](https://arxiv.org/abs/2610.13928) | `122 pts` | `@sbulaev` |
+| [The baffling intelligence of a single cell (2024)](https://jsomers.net/e-coli-chemotaxis/) | `195 pts` | `@jsomers` |
+| [GLM-Legal](https://z.ai/blog/glm-legal) | `513 pts` | `@ilreb` |
+| [A Modern Web App in C](https://prophitt.me/writing/a-modern-web-app-in-c) | `501 pts` | `@prophittcorey` |
+| [Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X](https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html) | `159 pts` | `@hurricanepootis` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-12 21:12:13 UTC`*
+*Last automated pipeline execution: `2026-10-13 06:37:24 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
