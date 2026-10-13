@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [AI Models Can Provably Hide Arbitrary Capabilities](https://arxiv.org/abs/2610.13928) | `122 pts` | `@sbulaev` |
-| [The baffling intelligence of a single cell (2024)](https://jsomers.net/e-coli-chemotaxis/) | `195 pts` | `@jsomers` |
-| [GLM-Legal](https://z.ai/blog/glm-legal) | `513 pts` | `@ilreb` |
-| [A Modern Web App in C](https://prophitt.me/writing/a-modern-web-app-in-c) | `501 pts` | `@prophittcorey` |
-| [Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X](https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html) | `159 pts` | `@hurricanepootis` |
+| [Gemini 4 Argon](https://deepmind.google/models/gemini/) | `576 pts` | `@737max` |
+| [Cyberattack halts construction of tunnel between Denmark and Germany](https://ua.news/en/world/kiberataka-zupinila-budivnitstvo-tuneliu-mizh-daniieiu-ta-nimechchinoiu-rmf24) | `116 pts` | `@paaloeye` |
+| [Apple HomeView](https://www.apple.com/apple-homeview/) | `516 pts` | `@etothet` |
+| [Thunderbird for iOS](https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/) | `202 pts` | `@mjorgers` |
+| [11 year old unsoundness bugs found in Rust borrow checker](https://github.com/rust-lang/rust/issues/164250) | `588 pts` | `@formerly_proven` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-13 06:37:24 UTC`*
+*Last automated pipeline execution: `2026-10-13 19:10:57 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
