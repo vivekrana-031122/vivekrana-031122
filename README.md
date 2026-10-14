@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Gemini 4 Argon](https://deepmind.google/models/gemini/) | `576 pts` | `@737max` |
-| [Cyberattack halts construction of tunnel between Denmark and Germany](https://ua.news/en/world/kiberataka-zupinila-budivnitstvo-tuneliu-mizh-daniieiu-ta-nimechchinoiu-rmf24) | `116 pts` | `@paaloeye` |
-| [Apple HomeView](https://www.apple.com/apple-homeview/) | `516 pts` | `@etothet` |
-| [Thunderbird for iOS](https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/) | `202 pts` | `@mjorgers` |
-| [11 year old unsoundness bugs found in Rust borrow checker](https://github.com/rust-lang/rust/issues/164250) | `588 pts` | `@formerly_proven` |
+| [Gemini 4 Argon](https://deepmind.google/models/gemini/) | `1130 pts` | `@737max` |
+| [Ledger confirms spy chip implant behind wallet crypto thefts](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/) | `544 pts` | `@thm` |
+| [Grace Hopper Celebration Cancelled](https://anitab.org/press-release) | `45 pts` | `@mooreds` |
+| [Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/) | `351 pts` | `@talccc` |
+| [Sound – Bartosz Ciechanowski](https://ciechanow.ski/sound/) | `18 pts` | `@dverlaeckt80` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-13 19:10:57 UTC`*
+*Last automated pipeline execution: `2026-10-14 04:38:45 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
