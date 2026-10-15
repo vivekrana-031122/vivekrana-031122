@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Iosevka is an open-source, sans-serif and slab-serif monospace font](https://typeof.net/Iosevka/) | `524 pts` | `@otobrglez` |
-| [Submarine cable resilience](https://blog.apnic.net/2026/10/14/submarine-cable-resilience/) | `25 pts` | `@speckx` |
-| [Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW](https://github.com/timescale/pg_vectorsearch) | `134 pts` | `@jascha_eng` |
-| [Amazon pushes up prices across the Internet](https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/) | `478 pts` | `@sighborg` |
-| [Amsterdam police confisquates server left-wing ISP A/I at American request](https://www.nrc.nl/nieuws/2026/10/14/politie-amsterdam-neemt-op-amerikaans-verzoek-server-in-beslag-van-italiaanse-internetdienstverlener-a-i-a4938960) | `47 pts` | `@jeroenhd` |
+| [Things to know when you get cancer](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/) | `974 pts` | `@jjmaxwell4` |
+| [Future of Cancer Care Today (FCCT)](https://sijbrandijfoundation.org/fcct) | `21 pts` | `@gone35` |
+| [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/) | `404 pts` | `@gmays` |
+| [Tiny Little Office](https://tinylittleoffice.com/) | `229 pts` | `@donohoe` |
+| [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://typesafe.ai/blog/jev-1-14) | `230 pts` | `@emschwartz` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-14 17:00:18 UTC`*
+*Last automated pipeline execution: `2026-10-15 04:21:29 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
