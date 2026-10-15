@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Things to know when you get cancer](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/) | `974 pts` | `@jjmaxwell4` |
-| [Future of Cancer Care Today (FCCT)](https://sijbrandijfoundation.org/fcct) | `21 pts` | `@gone35` |
-| [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/) | `404 pts` | `@gmays` |
-| [Tiny Little Office](https://tinylittleoffice.com/) | `229 pts` | `@donohoe` |
-| [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://typesafe.ai/blog/jev-1-14) | `230 pts` | `@emschwartz` |
+| [I designed a nose guard for my dog and gave it away. Now 500 dogs wear one](https://snoutcover.com/one-year) | `135 pts` | `@ragswag` |
+| [Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era](https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/) | `107 pts` | `@aaraujo002` |
+| [Wayland desktop for Linux with skeuomorphic design](https://github.com/fyzugx/DEsk) | `216 pts` | `@FinalDestiny` |
+| [I know why Mathematicians weep](https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep) | `170 pts` | `@RickJWagner` |
+| [Libreboot 26.10 "Ominous Olive" released with UEFI, Chromebook support](https://libreboot.org/news/libreboot2610.html) | `155 pts` | `@iamnothere` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-15 04:21:29 UTC`*
+*Last automated pipeline execution: `2026-10-15 16:48:18 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
