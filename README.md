@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open) | `681 pts` | `@bigwheels` |
-| [RPKI now protects 70% of internet routes](https://ipinfo.io/blog/rpki-protects-70-internet-routes) | `77 pts` | `@emot` |
-| [Any window from your Mac, on your iPhone and iPad](https://github.com/Saffsanity/sill) | `58 pts` | `@chanana` |
-| [Business accounts will consent to Meta scraping their websites Starting Oct. 30](https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/) | `98 pts` | `@0in` |
-| [Neural networks are clean](https://already-clean.goodfire.com/) | `557 pts` | `@themgt` |
+| [What on Earth Is Dekton?](https://www.worksinprogress.news/p/porcelain) | `45 pts` | `@wawayanda` |
+| [Apple ML Research: Muse Spark Open with MLX on Mac Studio](https://machinelearning.apple.com/research/mlx-distributed-inference) | `85 pts` | `@antipaul` |
+| [Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD](https://calif.io/research/big-fish) | `67 pts` | `@rs_rs_rs_rs_rs` |
+| [I Love Software Rendering](https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/) | `187 pts` | `@speckx` |
+| [America's Wumao: Inside Polymarket's Paid Quote-Retweet Esports Program](https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation) | `14 pts` | `@paimapi` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-16 04:16:31 UTC`*
+*Last automated pipeline execution: `2026-10-16 16:30:27 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
