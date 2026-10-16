@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [I designed a nose guard for my dog and gave it away. Now 500 dogs wear one](https://snoutcover.com/one-year) | `135 pts` | `@ragswag` |
-| [Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era](https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/) | `107 pts` | `@aaraujo002` |
-| [Wayland desktop for Linux with skeuomorphic design](https://github.com/fyzugx/DEsk) | `216 pts` | `@FinalDestiny` |
-| [I know why Mathematicians weep](https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep) | `170 pts` | `@RickJWagner` |
-| [Libreboot 26.10 "Ominous Olive" released with UEFI, Chromebook support](https://libreboot.org/news/libreboot2610.html) | `155 pts` | `@iamnothere` |
+| [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open) | `681 pts` | `@bigwheels` |
+| [RPKI now protects 70% of internet routes](https://ipinfo.io/blog/rpki-protects-70-internet-routes) | `77 pts` | `@emot` |
+| [Any window from your Mac, on your iPhone and iPad](https://github.com/Saffsanity/sill) | `58 pts` | `@chanana` |
+| [Business accounts will consent to Meta scraping their websites Starting Oct. 30](https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/) | `98 pts` | `@0in` |
+| [Neural networks are clean](https://already-clean.goodfire.com/) | `557 pts` | `@themgt` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-15 16:48:18 UTC`*
+*Last automated pipeline execution: `2026-10-16 04:16:31 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
