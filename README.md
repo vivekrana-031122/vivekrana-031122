@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [What on Earth Is Dekton?](https://www.worksinprogress.news/p/porcelain) | `45 pts` | `@wawayanda` |
-| [Apple ML Research: Muse Spark Open with MLX on Mac Studio](https://machinelearning.apple.com/research/mlx-distributed-inference) | `85 pts` | `@antipaul` |
-| [Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD](https://calif.io/research/big-fish) | `67 pts` | `@rs_rs_rs_rs_rs` |
-| [I Love Software Rendering](https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/) | `187 pts` | `@speckx` |
-| [America's Wumao: Inside Polymarket's Paid Quote-Retweet Esports Program](https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation) | `14 pts` | `@paimapi` |
+| [Ultramarine 1 Flash](https://www.paperinstruments.com/ultramarine) | `56 pts` | `@i_rush_carriers` |
+| [Tesla Roadster](https://www.tesla.com/roadster) | `1277 pts` | `@shekhar101` |
+| [Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](https://github.com/cobanov/PS5LM) | `226 pts` | `@Anon84` |
+| [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins) | `746 pts` | `@ahlCVA` |
+| [Waymo in Toronto](https://waymo.com/blog/2026/10/waymo-in-toronto/) | `301 pts` | `@ChrisArchitect` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-16 16:30:27 UTC`*
+*Last automated pipeline execution: `2026-10-17 04:07:05 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
