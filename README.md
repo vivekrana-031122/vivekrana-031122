@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Ultramarine 1 Flash](https://www.paperinstruments.com/ultramarine) | `56 pts` | `@i_rush_carriers` |
-| [Tesla Roadster](https://www.tesla.com/roadster) | `1277 pts` | `@shekhar101` |
-| [Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](https://github.com/cobanov/PS5LM) | `226 pts` | `@Anon84` |
-| [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins) | `746 pts` | `@ahlCVA` |
-| [Waymo in Toronto](https://waymo.com/blog/2026/10/waymo-in-toronto/) | `301 pts` | `@ChrisArchitect` |
+| [DeepSeek: DeepSeek v4.1 Flash 1017](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017) | `444 pts` | `@theanonymousone` |
+| [Making Chicken Transparent Using Dorito Dust](https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using) | `44 pts` | `@crescit_eundo` |
+| [Solar surpasses nuclear power globally for first time – pv magazine Global](https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/) | `120 pts` | `@xbmcuser` |
+| [Rendering pretty sky in Around The World game](https://frozenfractal.com/blog/2026/10/12/around-the-world-34-a-pretty-sky/) | `35 pts` | `@ibobev` |
+| [The First Candid](https://www.newyorker.com/magazine/2026/10/19/the-first-candid) | `16 pts` | `@Thevet` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-17 04:07:05 UTC`*
+*Last automated pipeline execution: `2026-10-17 15:24:40 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
