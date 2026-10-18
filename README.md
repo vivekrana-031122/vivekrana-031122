@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Bleached corals thrive within days when touching healthy neighbour](https://www.nature.com/articles/d41586-026-03266-x) | `375 pts` | `@alkyon` |
-| [Lean now ships with verified kernels](https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/) | `55 pts` | `@matt_d` |
-| [Dam removals are bringing fish back across the northeastern United States](https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/) | `233 pts` | `@sohkamyung` |
-| [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) | `754 pts` | `@theykk` |
-| [Pele – Mermaid diagrams as themeable SVG](https://pele.run/) | `314 pts` | `@dchest` |
+| [RepRapMicron](https://github.com/VikOlliver/RepRapMicron/wiki) | `121 pts` | `@RobotToaster` |
+| [Will it be a golden age or a dark age for mathematics (and science)?](https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/) | `24 pts` | `@smilelamp` |
+| [Legal experts warn Meta's new terms still grant broad scraping permissions](https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/) | `125 pts` | `@DeepLogin` |
+| [DeepSeek search and fetch – $0.75 per 1000 successful requests](https://api-docs.deepseek.com/guides/search/) | `387 pts` | `@fagnerbrack` |
+| [Open MicroManipulator – A sub-micrometer 3D motion control plattform](https://github.com/0x23/MicroManipulatorStepper) | `95 pts` | `@_Microft` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-18 04:14:40 UTC`*
+*Last automated pipeline execution: `2026-10-18 15:45:13 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
