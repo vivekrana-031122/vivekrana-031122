@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [DeepSeek: DeepSeek v4.1 Flash 1017](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017) | `444 pts` | `@theanonymousone` |
-| [Making Chicken Transparent Using Dorito Dust](https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using) | `44 pts` | `@crescit_eundo` |
-| [Solar surpasses nuclear power globally for first time – pv magazine Global](https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/) | `120 pts` | `@xbmcuser` |
-| [Rendering pretty sky in Around The World game](https://frozenfractal.com/blog/2026/10/12/around-the-world-34-a-pretty-sky/) | `35 pts` | `@ibobev` |
-| [The First Candid](https://www.newyorker.com/magazine/2026/10/19/the-first-candid) | `16 pts` | `@Thevet` |
+| [Bleached corals thrive within days when touching healthy neighbour](https://www.nature.com/articles/d41586-026-03266-x) | `375 pts` | `@alkyon` |
+| [Lean now ships with verified kernels](https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/) | `55 pts` | `@matt_d` |
+| [Dam removals are bringing fish back across the northeastern United States](https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/) | `233 pts` | `@sohkamyung` |
+| [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) | `754 pts` | `@theykk` |
+| [Pele – Mermaid diagrams as themeable SVG](https://pele.run/) | `314 pts` | `@dchest` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-17 15:24:40 UTC`*
+*Last automated pipeline execution: `2026-10-18 04:14:40 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
