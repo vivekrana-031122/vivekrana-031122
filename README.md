@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [RepRapMicron](https://github.com/VikOlliver/RepRapMicron/wiki) | `121 pts` | `@RobotToaster` |
-| [Will it be a golden age or a dark age for mathematics (and science)?](https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/) | `24 pts` | `@smilelamp` |
-| [Legal experts warn Meta's new terms still grant broad scraping permissions](https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/) | `125 pts` | `@DeepLogin` |
-| [DeepSeek search and fetch – $0.75 per 1000 successful requests](https://api-docs.deepseek.com/guides/search/) | `387 pts` | `@fagnerbrack` |
-| [Open MicroManipulator – A sub-micrometer 3D motion control plattform](https://github.com/0x23/MicroManipulatorStepper) | `95 pts` | `@_Microft` |
+| [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861) | `277 pts` | `@allinonai` |
+| [William Gibson and the trademarking of cyberspace](https://colo.to/cyberspace.html) | `102 pts` | `@Eric_Gullichsen` |
+| [There's never been a better time to go into math (by: 3blue1brown) [video]](https://www.youtube.com/watch?v=LKrwhjOI8Nc) | `239 pts` | `@mdp2021` |
+| [Superlite: A Faster Alternatie to Superpowers](https://contextfirst.blog/superlite-hand-an-agent-a-spec/) | `24 pts` | `@iheatuchriswogu` |
+| [Someone behind the software](https://karrisaarinen.com/posts/someone-behind-the-software/) | `361 pts` | `@tosh` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-18 15:45:13 UTC`*
+*Last automated pipeline execution: `2026-10-19 04:23:45 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
