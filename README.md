@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861) | `277 pts` | `@allinonai` |
-| [William Gibson and the trademarking of cyberspace](https://colo.to/cyberspace.html) | `102 pts` | `@Eric_Gullichsen` |
-| [There's never been a better time to go into math (by: 3blue1brown) [video]](https://www.youtube.com/watch?v=LKrwhjOI8Nc) | `239 pts` | `@mdp2021` |
-| [Superlite: A Faster Alternatie to Superpowers](https://contextfirst.blog/superlite-hand-an-agent-a-spec/) | `24 pts` | `@iheatuchriswogu` |
-| [Someone behind the software](https://karrisaarinen.com/posts/someone-behind-the-software/) | `361 pts` | `@tosh` |
+| [MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f) | `102 pts` | `@jtg` |
+| [Wine ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175) | `343 pts` | `@iamnothere` |
+| [RuneScape Bench: MMOs for Agents [video]](https://www.youtube.com/watch?v=cNm4zyUtWj0) | `47 pts` | `@evakhoury` |
+| [Android apps running native on macOS](https://github.com/kksimp/Mac.apk) | `53 pts` | `@flocked` |
+| [It's still ok to enjoy programming](https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming) | `189 pts` | `@goostavos` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-19 04:23:45 UTC`*
+*Last automated pipeline execution: `2026-10-19 18:39:21 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
