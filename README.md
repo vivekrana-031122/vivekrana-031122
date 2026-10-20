@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [OpenBSD 8.0](https://www.openbsd.org/80.html) | `64 pts` | `@privong` |
-| [WhatsApp's help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions) | `121 pts` | `@ds` |
-| [MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f) | `416 pts` | `@jtg` |
-| [Go will reject certificate chains containing eight distrusted SPKIs](https://github.com/golang/go/issues/82345) | `23 pts` | `@mendym` |
-| [I built a drone with only one motor [video]](https://www.youtube.com/watch?v=Ndftcft6XhU) | `451 pts` | `@hakonjdjohnsen` |
+| [Facebook now charging to post more than 2 links a month](https://mastodon.gamedev.place/@AshleyGullen/117473851565913919) | `259 pts` | `@AshleysBrain` |
+| [DeepSeek just open-sourced its inference engine](https://github.com/deepseek-ai/DeepInfer) | `1718 pts` | `@ggcr` |
+| [Voxtral 3](https://mistral.ai/news/voxtral-3/) | `64 pts` | `@ilreb` |
+| [EMudhra Intermediate CA Compromise](https://emudhra.we-have-a-problem.com/) | `168 pts` | `@galadran` |
+| [Apple broke an essential presentation feature of iPads](https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/) | `270 pts` | `@evanb` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-20 04:34:13 UTC`*
+*Last automated pipeline execution: `2026-10-20 16:46:36 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
