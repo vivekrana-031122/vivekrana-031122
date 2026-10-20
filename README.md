@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f) | `102 pts` | `@jtg` |
-| [Wine ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175) | `343 pts` | `@iamnothere` |
-| [RuneScape Bench: MMOs for Agents [video]](https://www.youtube.com/watch?v=cNm4zyUtWj0) | `47 pts` | `@evakhoury` |
-| [Android apps running native on macOS](https://github.com/kksimp/Mac.apk) | `53 pts` | `@flocked` |
-| [It's still ok to enjoy programming](https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming) | `189 pts` | `@goostavos` |
+| [OpenBSD 8.0](https://www.openbsd.org/80.html) | `64 pts` | `@privong` |
+| [WhatsApp's help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions) | `121 pts` | `@ds` |
+| [MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f) | `416 pts` | `@jtg` |
+| [Go will reject certificate chains containing eight distrusted SPKIs](https://github.com/golang/go/issues/82345) | `23 pts` | `@mendym` |
+| [I built a drone with only one motor [video]](https://www.youtube.com/watch?v=Ndftcft6XhU) | `451 pts` | `@hakonjdjohnsen` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-19 18:39:21 UTC`*
+*Last automated pipeline execution: `2026-10-20 04:34:13 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
