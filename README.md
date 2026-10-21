@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Facebook now charging to post more than 2 links a month](https://mastodon.gamedev.place/@AshleyGullen/117473851565913919) | `259 pts` | `@AshleysBrain` |
-| [DeepSeek just open-sourced its inference engine](https://github.com/deepseek-ai/DeepInfer) | `1718 pts` | `@ggcr` |
-| [Voxtral 3](https://mistral.ai/news/voxtral-3/) | `64 pts` | `@ilreb` |
-| [EMudhra Intermediate CA Compromise](https://emudhra.we-have-a-problem.com/) | `168 pts` | `@galadran` |
-| [Apple broke an essential presentation feature of iPads](https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/) | `270 pts` | `@evanb` |
+| [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/) | `91 pts` | `@soheilpro` |
+| [Show HN: SimCity, but with Permits](https://permit.petercai.com/) | `651 pts` | `@pcai` |
+| [In Hilbert space, all things are quantumly possible](https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/) | `38 pts` | `@unprovable` |
+| [Feds suspect ransom negotiator ran ShinyHunters extortion site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/) | `136 pts` | `@Bender` |
+| [Voxtral 3](https://mistral.ai/news/voxtral-3/) | `565 pts` | `@ilreb` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-20 16:46:36 UTC`*
+*Last automated pipeline execution: `2026-10-21 04:26:49 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
