@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/) | `91 pts` | `@soheilpro` |
-| [Show HN: SimCity, but with Permits](https://permit.petercai.com/) | `651 pts` | `@pcai` |
-| [In Hilbert space, all things are quantumly possible](https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/) | `38 pts` | `@unprovable` |
-| [Feds suspect ransom negotiator ran ShinyHunters extortion site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/) | `136 pts` | `@Bender` |
-| [Voxtral 3](https://mistral.ai/news/voxtral-3/) | `565 pts` | `@ilreb` |
+| [PHP 8.2.35](https://github.com/php/php-src/releases/tag/php-8.2.35) | `682 pts` | `@tuyuri` |
+| [Today's PHP Security Release, and How We're Strengthening PHP Security](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/) | `146 pts` | `@ejohnso49` |
+| [Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor](https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/) | `145 pts` | `@abhisek` |
+| [DuckDB 2.0.0 LTS “Cinnamon Teal”](https://duckdb.org/2026/10/21/announcing-duckdb-200) | `211 pts` | `@nnx` |
+| [Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin](https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488) | `66 pts` | `@surprisetalk` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-21 04:26:49 UTC`*
+*Last automated pipeline execution: `2026-10-21 17:03:04 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
