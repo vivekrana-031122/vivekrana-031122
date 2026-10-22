@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [mitmproxy adds --emudhra option](https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b) | `332 pts` | `@ahlCVA` |
-| [Epic Games Inc v Apple Inc](https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552) | `110 pts` | `@Mayzie` |
-| [The recently proposed o(n log n) integer multiplication algorithm [pdf]](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf) | `49 pts` | `@craigcitro` |
-| [There isn't an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/) | `278 pts` | `@zkldi` |
-| [Security Disclosure](https://blog.railway.com/p/security-disclosure-wednesday-october-21st) | `369 pts` | `@passenger` |
+| [Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/) | `285 pts` | `@farrokhi` |
+| [eMudhra to exit global SSL/TLS certificate business](https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business) | `517 pts` | `@bo0tzz` |
+| [What's Getting Pwned](https://pwn.watch/) | `162 pts` | `@mrkd` |
+| [Show HN: Run full iOS 16.5 firmware on Android Devices](https://github.com/oosexgang/hackios-xnu-kernel) | `68 pts` | `@aghuang` |
+| [Arc Is Sunsetting](https://arc.net/) | `37 pts` | `@suhdonghwi` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-22 04:25:25 UTC`*
+*Last automated pipeline execution: `2026-10-22 17:01:54 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
