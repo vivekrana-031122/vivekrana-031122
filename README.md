@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird) | `235 pts` | `@psxuaw` |
-| [LLMs are making formal software verification feasible at a much larger scale](https://www.anthropic.com/research/formal-verification) | `200 pts` | `@johnbender` |
-| [Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/) | `1062 pts` | `@farrokhi` |
-| [The Secret Life of Circuits is now in stock everywhere](https://blog.coredump.cx/p/the-secret-life-of-circuits-is-now) | `56 pts` | `@surprisetalk` |
-| [Mortality Among People with Attention-Deficit/Hyperactivity Disorder](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855472) | `45 pts` | `@gumby` |
+| [Today, we hacked what we'd set out to hack: the iPhone](https://blog.calif.io/p/iphone) | `155 pts` | `@pavel_lishin` |
+| [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/) | `921 pts` | `@sohkamyung` |
+| [The Real Kevin Bacon](https://pudding.cool/2026/10/kevin-bacon/) | `20 pts` | `@xnx` |
+| [Show HN: We had AI write a wiki from 45k Enron emails, every fact cited](https://www.thisandthat.chat/enron/) | `41 pts` | `@jreynar` |
+| [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird) | `738 pts` | `@psxuaw` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-23 04:30:28 UTC`*
+*Last automated pipeline execution: `2026-10-23 16:54:39 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
