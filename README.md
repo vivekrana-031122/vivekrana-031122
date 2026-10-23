@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/) | `285 pts` | `@farrokhi` |
-| [eMudhra to exit global SSL/TLS certificate business](https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business) | `517 pts` | `@bo0tzz` |
-| [What's Getting Pwned](https://pwn.watch/) | `162 pts` | `@mrkd` |
-| [Show HN: Run full iOS 16.5 firmware on Android Devices](https://github.com/oosexgang/hackios-xnu-kernel) | `68 pts` | `@aghuang` |
-| [Arc Is Sunsetting](https://arc.net/) | `37 pts` | `@suhdonghwi` |
+| [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird) | `235 pts` | `@psxuaw` |
+| [LLMs are making formal software verification feasible at a much larger scale](https://www.anthropic.com/research/formal-verification) | `200 pts` | `@johnbender` |
+| [Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/) | `1062 pts` | `@farrokhi` |
+| [The Secret Life of Circuits is now in stock everywhere](https://blog.coredump.cx/p/the-secret-life-of-circuits-is-now) | `56 pts` | `@surprisetalk` |
+| [Mortality Among People with Attention-Deficit/Hyperactivity Disorder](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855472) | `45 pts` | `@gumby` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-22 17:01:54 UTC`*
+*Last automated pipeline execution: `2026-10-23 04:30:28 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
