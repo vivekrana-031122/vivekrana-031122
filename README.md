@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Today, we hacked what we'd set out to hack: the iPhone](https://blog.calif.io/p/iphone) | `155 pts` | `@pavel_lishin` |
-| [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/) | `921 pts` | `@sohkamyung` |
-| [The Real Kevin Bacon](https://pudding.cool/2026/10/kevin-bacon/) | `20 pts` | `@xnx` |
-| [Show HN: We had AI write a wiki from 45k Enron emails, every fact cited](https://www.thisandthat.chat/enron/) | `41 pts` | `@jreynar` |
-| [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird) | `738 pts` | `@psxuaw` |
+| [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro) | `788 pts` | `@Jowsey` |
+| [Twelve years of distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/) | `53 pts` | `@otoolep` |
+| [Apple Music 404 Not Found](https://music.apple.com/this-url-doesnt-exist) | `651 pts` | `@frizlab` |
+| [The Quake Fan who built the map editor everybody uses](https://funcarena.com/articles/the-quake-fan-who-built-the-map-editor-everybody-uses) | `17 pts` | `@klaussilveira` |
+| [CVE Tracker](https://cve.0xosprey.com/) | `129 pts` | `@Group_B` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-23 16:54:39 UTC`*
+*Last automated pipeline execution: `2026-10-24 04:20:49 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
