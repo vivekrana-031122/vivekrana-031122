@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro) | `788 pts` | `@Jowsey` |
-| [Twelve years of distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/) | `53 pts` | `@otoolep` |
-| [Apple Music 404 Not Found](https://music.apple.com/this-url-doesnt-exist) | `651 pts` | `@frizlab` |
-| [The Quake Fan who built the map editor everybody uses](https://funcarena.com/articles/the-quake-fan-who-built-the-map-editor-everybody-uses) | `17 pts` | `@klaussilveira` |
-| [CVE Tracker](https://cve.0xosprey.com/) | `129 pts` | `@Group_B` |
+| [Google illegally cut down 250K trees in Finland for data center](https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/) | `192 pts` | `@rustybolt` |
+| [TornadoVM 7 Enables GPU-Native Workloads from Java Applications](https://www.infoq.com/news/2026/10/tornadovm-7-gpu/) | `42 pts` | `@pjmlp` |
+| [FreeDNS](https://freedns.afraid.org/) | `8 pts` | `@esher` |
+| [OBS Studio 33](https://github.com/obsproject/obs-studio/releases/tag/33.0.0) | `332 pts` | `@pentagrama` |
+| [Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps](https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497) | `137 pts` | `@theanonymousone` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-24 04:20:49 UTC`*
+*Last automated pipeline execution: `2026-10-24 15:47:34 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
