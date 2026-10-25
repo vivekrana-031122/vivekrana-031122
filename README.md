@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Google illegally cut down 250K trees in Finland for data center](https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/) | `192 pts` | `@rustybolt` |
-| [TornadoVM 7 Enables GPU-Native Workloads from Java Applications](https://www.infoq.com/news/2026/10/tornadovm-7-gpu/) | `42 pts` | `@pjmlp` |
-| [FreeDNS](https://freedns.afraid.org/) | `8 pts` | `@esher` |
-| [OBS Studio 33](https://github.com/obsproject/obs-studio/releases/tag/33.0.0) | `332 pts` | `@pentagrama` |
-| [Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps](https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497) | `137 pts` | `@theanonymousone` |
+| [Xbox Turns Down Netflix $500M Offer](https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/) | `57 pts` | `@xoxxala` |
+| [Five Qwen3.8-27B models outperform Fable 5 Using GVS5H Harness](https://github.com/slee-persis/GVS5H) | `9 pts` | `@rzk` |
+| [We should be more ambitious with the software we build](https://danluu.com/ambitious/) | `264 pts` | `@ltratt` |
+| [Cerebras Deploys Trillion-Parameter AI Models](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras) | `39 pts` | `@gmays` |
+| [The Goose Programming Language](https://aardappel.github.io/goose/) | `296 pts` | `@bobbydigitales` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-24 15:47:34 UTC`*
+*Last automated pipeline execution: `2026-10-25 04:24:44 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
