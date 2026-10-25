@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Xbox Turns Down Netflix $500M Offer](https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/) | `57 pts` | `@xoxxala` |
-| [Five Qwen3.8-27B models outperform Fable 5 Using GVS5H Harness](https://github.com/slee-persis/GVS5H) | `9 pts` | `@rzk` |
-| [We should be more ambitious with the software we build](https://danluu.com/ambitious/) | `264 pts` | `@ltratt` |
-| [Cerebras Deploys Trillion-Parameter AI Models](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras) | `39 pts` | `@gmays` |
-| [The Goose Programming Language](https://aardappel.github.io/goose/) | `296 pts` | `@bobbydigitales` |
+| [Show HN: I put employees inside S&P 500 market-cap bubbles](https://bigwhalehunting.com/workforce/) | `46 pts` | `@vfxGer` |
+| [Tool book of a Nuremberg knight from 1505](https://loeffelholz-codex.org/en/) | `119 pts` | `@edwardog` |
+| [fheroes2: A recreation of Heroes of Might and Magic II game engine](https://github.com/ihhub/fheroes2) | `118 pts` | `@tosh` |
+| [A Few Thoughts on Intensity](https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/) | `15 pts` | `@andsoitis` |
+| [Show HN: Farol – a risk map of a pull request for the person who approves it](https://github.com/winnin/farol) | `39 pts` | `@ericholiveira` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-25 04:24:44 UTC`*
+*Last automated pipeline execution: `2026-10-25 15:58:45 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
