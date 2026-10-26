@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Show HN: I put employees inside S&P 500 market-cap bubbles](https://bigwhalehunting.com/workforce/) | `46 pts` | `@vfxGer` |
-| [Tool book of a Nuremberg knight from 1505](https://loeffelholz-codex.org/en/) | `119 pts` | `@edwardog` |
-| [fheroes2: A recreation of Heroes of Might and Magic II game engine](https://github.com/ihhub/fheroes2) | `118 pts` | `@tosh` |
-| [A Few Thoughts on Intensity](https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/) | `15 pts` | `@andsoitis` |
-| [Show HN: Farol – a risk map of a pull request for the person who approves it](https://github.com/winnin/farol) | `39 pts` | `@ericholiveira` |
+| [Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/) | `32 pts` | `@davidbarker` |
+| [Dolly Parton's Imagination Library](https://imaginationlibrary.com/) | `457 pts` | `@jumploops` |
+| [PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP](https://github.com/KrushnaVardhanReddy/PaperPilot) | `14 pts` | `@vardhan1237` |
+| [Show HN: A Truly Modular Keyboard](https://github.com/notaroomba/keybytes) | `31 pts` | `@NotARoomba` |
+| [Overgrown, when plants invade your abandoned tabs](https://charliegerard.dev/blog/overgrown-extension/) | `197 pts` | `@speckx` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-25 15:58:45 UTC`*
+*Last automated pipeline execution: `2026-10-26 04:27:27 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
