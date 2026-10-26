@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/) | `32 pts` | `@davidbarker` |
-| [Dolly Parton's Imagination Library](https://imaginationlibrary.com/) | `457 pts` | `@jumploops` |
-| [PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP](https://github.com/KrushnaVardhanReddy/PaperPilot) | `14 pts` | `@vardhan1237` |
-| [Show HN: A Truly Modular Keyboard](https://github.com/notaroomba/keybytes) | `31 pts` | `@NotARoomba` |
-| [Overgrown, when plants invade your abandoned tabs](https://charliegerard.dev/blog/overgrown-extension/) | `197 pts` | `@speckx` |
+| [Meta Employees Denounce Interference in Brazilian Elections](https://www.panamericandispatch.org/p/meta-employees-denounce-interference) | `147 pts` | `@guitcastro` |
+| [Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models) | `320 pts` | `@sgiannopoulos` |
+| [CSS-Tricks has a new owner](https://css-tricks.com/css-tricks-has-a-new-owner/) | `193 pts` | `@edent` |
+| [Anthropic S-1](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm) | `1149 pts` | `@SiNTEx` |
+| [Nietzschian Debugger](https://github.com/DilawarShafiq/nietzschian-debugger) | `23 pts` | `@dilawargopang` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-26 04:27:27 UTC`*
+*Last automated pipeline execution: `2026-10-26 18:37:40 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
