@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Three new discoveries in mathematics, computer science, and physics](https://openai.com/index/building-scientific-understanding-with-academic-communities/) | `649 pts` | `@jonluca` |
-| [The Exponential Time Hypothesis Is False [pdf]](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf) | `435 pts` | `@vok` |
-| [Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models) | `619 pts` | `@sgiannopoulos` |
-| [Oldest GUI application that still runs on Windows 11](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/) | `343 pts` | `@enlyth` |
-| [16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows](https://github.com/otya128/winevdm) | `44 pts` | `@doener` |
+| [Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/) | `268 pts` | `@acossta` |
+| [Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior](https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220) | `96 pts` | `@gumby` |
+| [Ghostty 1.4.0](https://ghostty.org/docs/install/release-notes/1-4-0) | `104 pts` | `@deaux` |
+| [Classification of Finite Simple Groups Formalized in Lean](https://cfsg.axiommath.ai/) | `43 pts` | `@pfdietz` |
+| [Python's experimental JIT to be removed](https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/) | `318 pts` | `@f311a` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-27 04:46:35 UTC`*
+*Last automated pipeline execution: `2026-10-27 17:52:11 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
