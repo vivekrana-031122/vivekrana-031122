@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Meta Employees Denounce Interference in Brazilian Elections](https://www.panamericandispatch.org/p/meta-employees-denounce-interference) | `147 pts` | `@guitcastro` |
-| [Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models) | `320 pts` | `@sgiannopoulos` |
-| [CSS-Tricks has a new owner](https://css-tricks.com/css-tricks-has-a-new-owner/) | `193 pts` | `@edent` |
-| [Anthropic S-1](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm) | `1149 pts` | `@SiNTEx` |
-| [Nietzschian Debugger](https://github.com/DilawarShafiq/nietzschian-debugger) | `23 pts` | `@dilawargopang` |
+| [Three new discoveries in mathematics, computer science, and physics](https://openai.com/index/building-scientific-understanding-with-academic-communities/) | `649 pts` | `@jonluca` |
+| [The Exponential Time Hypothesis Is False [pdf]](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf) | `435 pts` | `@vok` |
+| [Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models) | `619 pts` | `@sgiannopoulos` |
+| [Oldest GUI application that still runs on Windows 11](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/) | `343 pts` | `@enlyth` |
+| [16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows](https://github.com/otya128/winevdm) | `44 pts` | `@doener` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-26 18:37:40 UTC`*
+*Last automated pipeline execution: `2026-10-27 04:46:35 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
