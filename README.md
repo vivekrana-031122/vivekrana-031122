@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Git for US Legislation](https://lexifina.com/blog/git-for-the-us-code) | `136 pts` | `@alansaber` |
-| [Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/) | `805 pts` | `@acossta` |
-| [Ink droplets in motion snag top prize in Nikon Small World contest](https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/) | `144 pts` | `@_Microft` |
-| [Ghostty 1.4](https://ghostty.org/docs/install/release-notes/1-4-0) | `872 pts` | `@deaux` |
-| [Tailscale SSH: Investigation and remediation update](https://tailscale.com/ssh-investigation-update) | `245 pts` | `@figmert` |
+| [Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/) | `333 pts` | `@acossta` |
+| [CNC Stone Carving](https://carmelitegothic.com/cnc-stone-carving/) | `235 pts` | `@bschne` |
+| [MacBook Pro with PROLED XDR Display and Touch](https://www.apple.com/macbook-pro/proled-xdr-display/) | `194 pts` | `@etothet` |
+| [Dayjob: Tax – evaluating AI agents on 50 professional tax assignments](https://surgehq.ai/blog/dayjob-tax) | `82 pts` | `@landonxi` |
+| [Mac Studio M5 Ultra 512GB Officially Released](https://www.apple.com/shop/buy-mac/mac-studio) | `30 pts` | `@nsagent` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-28 05:20:55 UTC`*
+*Last automated pipeline execution: `2026-10-28 18:17:06 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
