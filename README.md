@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/) | `268 pts` | `@acossta` |
-| [Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior](https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220) | `96 pts` | `@gumby` |
-| [Ghostty 1.4.0](https://ghostty.org/docs/install/release-notes/1-4-0) | `104 pts` | `@deaux` |
-| [Classification of Finite Simple Groups Formalized in Lean](https://cfsg.axiommath.ai/) | `43 pts` | `@pfdietz` |
-| [Python's experimental JIT to be removed](https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/) | `318 pts` | `@f311a` |
+| [Git for US Legislation](https://lexifina.com/blog/git-for-the-us-code) | `136 pts` | `@alansaber` |
+| [Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/) | `805 pts` | `@acossta` |
+| [Ink droplets in motion snag top prize in Nikon Small World contest](https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/) | `144 pts` | `@_Microft` |
+| [Ghostty 1.4](https://ghostty.org/docs/install/release-notes/1-4-0) | `872 pts` | `@deaux` |
+| [Tailscale SSH: Investigation and remediation update](https://tailscale.com/ssh-investigation-update) | `245 pts` | `@figmert` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-27 17:52:11 UTC`*
+*Last automated pipeline execution: `2026-10-28 05:20:55 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
