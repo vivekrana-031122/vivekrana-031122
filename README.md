@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer) | `258 pts` | `@csmantle` |
-| [Why is this fingerprinting script creating bioweapons?](https://nullpt.rs/fingerprinting-bioweapons) | `988 pts` | `@hazebooth` |
-| [The 'else' keyword is probably a literal translation from German (2020)](https://github.com/e-n-f/if-then-else/blob/master/if-then-else.md) | `55 pts` | `@theanonymousone` |
-| [GitLab Security Incident: Attempted Exploitation of CVE-2026-97229](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html) | `133 pts` | `@sashk` |
-| [Claude Code burns ~15–20% of your tokens on a 3-word status line](https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce) | `159 pts` | `@NikZaal` |
+| [For the first time ever, Google Search is less than 50% of Alphabet's revenue](https://www.kadoa.com/companies/insights/google-search-below-half) | `258 pts` | `@hubraumhugo` |
+| [We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/) | `732 pts` | `@kuberwastaken` |
+| [Tomáš Mikolov awarded the Medal of Merit by the President of the Czech Republic](https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468) | `73 pts` | `@armcat` |
+| [H.264 Is Magic (2016)](https://sidbala.com/h-264-is-magic/) | `143 pts` | `@ea016` |
+| [LLM Voice](https://martinfowler.com/bliki/LLM-Voice.html) | `111 pts` | `@ibobev` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-29 05:31:11 UTC`*
+*Last automated pipeline execution: `2026-10-29 18:22:07 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
