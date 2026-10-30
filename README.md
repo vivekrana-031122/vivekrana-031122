@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8) | `999 pts` | `@Tiberium` |
-| [We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/) | `1291 pts` | `@kuberwastaken` |
-| [Astroterm: A Planetarium for Your Terminal](https://github.com/da-luce/astroterm) | `49 pts` | `@nvmdbljstm` |
-| [Cuis: The Modern Smalltalk-80](https://cuis.st/) | `47 pts` | `@theanonymousone` |
-| [I'm so bad at billiards that I ended up in the hyperbolic plane [video]](https://www.youtube.com/watch?v=kL9BTbIGxLg) | `46 pts` | `@surprisetalk` |
+| [Northflank Breached](https://status.northflank.com) | `152 pts` | `@js4ever` |
+| [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/) | `449 pts` | `@_chall` |
+| [The federated code forge](https://tangled.org/blog/forge/) | `75 pts` | `@zlliang` |
+| [Florilegium: Procedural Flowers in LaTeX](https://github.com/kevinraymond/florilegium) | `43 pts` | `@nanna` |
+| [AI isn't replacing SREs, it's deskilling them](https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling) | `251 pts` | `@dorianniemiec` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-30 05:31:07 UTC`*
+*Last automated pipeline execution: `2026-10-30 17:56:36 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
