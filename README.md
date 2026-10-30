@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [For the first time ever, Google Search is less than 50% of Alphabet's revenue](https://www.kadoa.com/companies/insights/google-search-below-half) | `258 pts` | `@hubraumhugo` |
-| [We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/) | `732 pts` | `@kuberwastaken` |
-| [Tomáš Mikolov awarded the Medal of Merit by the President of the Czech Republic](https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468) | `73 pts` | `@armcat` |
-| [H.264 Is Magic (2016)](https://sidbala.com/h-264-is-magic/) | `143 pts` | `@ea016` |
-| [LLM Voice](https://martinfowler.com/bliki/LLM-Voice.html) | `111 pts` | `@ibobev` |
+| [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8) | `999 pts` | `@Tiberium` |
+| [We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/) | `1291 pts` | `@kuberwastaken` |
+| [Astroterm: A Planetarium for Your Terminal](https://github.com/da-luce/astroterm) | `49 pts` | `@nvmdbljstm` |
+| [Cuis: The Modern Smalltalk-80](https://cuis.st/) | `47 pts` | `@theanonymousone` |
+| [I'm so bad at billiards that I ended up in the hyperbolic plane [video]](https://www.youtube.com/watch?v=kL9BTbIGxLg) | `46 pts` | `@surprisetalk` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-29 18:22:07 UTC`*
+*Last automated pipeline execution: `2026-10-30 05:31:07 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
