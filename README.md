@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Northflank Breached](https://status.northflank.com) | `152 pts` | `@js4ever` |
-| [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/) | `449 pts` | `@_chall` |
-| [The federated code forge](https://tangled.org/blog/forge/) | `75 pts` | `@zlliang` |
-| [Florilegium: Procedural Flowers in LaTeX](https://github.com/kevinraymond/florilegium) | `43 pts` | `@nanna` |
-| [AI isn't replacing SREs, it's deskilling them](https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling) | `251 pts` | `@dorianniemiec` |
+| [Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game](https://tng.episodle.com/) | `134 pts` | `@francisofascii` |
+| [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/) | `850 pts` | `@_chall` |
+| [Cloudflare Turnstile solver library (no headless browser required)](https://github.com/chris124567/cfsolve) | `138 pts` | `@costco` |
+| [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/) | `271 pts` | `@DHowett` |
+| [Tell HN: Scribd Breached](https://news.ycombinator.com/item?id=50312756) | `93 pts` | `@x______________` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-10-30 17:56:36 UTC`*
+*Last automated pipeline execution: `2026-10-31 05:17:10 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
