@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/) | `983 pts` | `@karpathy` |
-| [An Italian farmer found some unknown seeds in his attic and planted them](https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/) | `277 pts` | `@ecares` |
-| [Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing](https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/) | `54 pts` | `@doodlesdev` |
-| [TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8](https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf) | `434 pts` | `@oger` |
-| [Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard](https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve) | `158 pts` | `@guregodevo` |
+| [Show HN: HackerBooks – HackerTube, but for books recommended on HN](https://hackerbooks.org) | `231 pts` | `@roansh` |
+| [Seoul Biosys Begins Production of Rare Earth-Free White Micro LEDs](https://www.ajupress.com/view/20261028171670308) | `62 pts` | `@gmays` |
+| [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/) | `1831 pts` | `@karpathy` |
+| [Police chief unplugs Flock cameras after company ignores contract cancellation](https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies) | `220 pts` | `@entryleveljobsc` |
+| [Proving and improving the Platonic Representation Hypothesis with JEPAs](https://arxiv.org/abs/2610.39302) | `63 pts` | `@Anon84` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-11-01 05:45:55 UTC`*
+*Last automated pipeline execution: `2026-11-01 17:51:49 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
