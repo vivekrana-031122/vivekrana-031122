@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Show HN: HackerBooks – HackerTube, but for books recommended on HN](https://hackerbooks.org) | `231 pts` | `@roansh` |
-| [Seoul Biosys Begins Production of Rare Earth-Free White Micro LEDs](https://www.ajupress.com/view/20261028171670308) | `62 pts` | `@gmays` |
-| [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/) | `1831 pts` | `@karpathy` |
-| [Police chief unplugs Flock cameras after company ignores contract cancellation](https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies) | `220 pts` | `@entryleveljobsc` |
-| [Proving and improving the Platonic Representation Hypothesis with JEPAs](https://arxiv.org/abs/2610.39302) | `63 pts` | `@Anon84` |
+| [Show HN: HackerBooks – HackerTube, but for books mentioned on HN](https://hackerbooks.org) | `1143 pts` | `@roansh` |
+| [F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix](https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/) | `62 pts` | `@joonehur` |
+| [Postgres 19 is late because so many more bugs are being found now](http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html) | `219 pts` | `@soheilpro` |
+| [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/) | `2418 pts` | `@karpathy` |
+| [Mystery of 60-Second Fluctuations in Power Grids Solved](https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved) | `65 pts` | `@_Microft` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-11-01 17:51:49 UTC`*
+*Last automated pipeline execution: `2026-11-02 05:44:23 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
