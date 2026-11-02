@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Show HN: HackerBooks – HackerTube, but for books mentioned on HN](https://hackerbooks.org) | `1143 pts` | `@roansh` |
-| [F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix](https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/) | `62 pts` | `@joonehur` |
-| [Postgres 19 is late because so many more bugs are being found now](http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html) | `219 pts` | `@soheilpro` |
-| [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/) | `2418 pts` | `@karpathy` |
-| [Mystery of 60-Second Fluctuations in Power Grids Solved](https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved) | `65 pts` | `@_Microft` |
+| [Astra can read and write weights to improve Qwen](https://rikiyat.github.io/blog/weight-space-programming/) | `1186 pts` | `@dbreunig` |
+| [Show HN: Subvocal – Talk to your computer without making noise](https://news.ycombinator.com/item?id=50340088) | `391 pts` | `@aarushyadav` |
+| [US boy names that became girl names and vice versa](https://namedaisy.com/blog/boy-names-that-became-girl-names) | `198 pts` | `@xoobdev` |
+| [Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app](https://momentic.ai/) | `94 pts` | `@wuweiweiwu` |
+| [Show HN: Warsaw in voxels – An interactive 3D map of the city centre](https://p.migdal.pl/warsaw-vibe-voxel/) | `160 pts` | `@stared` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-11-02 05:44:23 UTC`*
+*Last automated pipeline execution: `2026-11-02 21:39:11 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
