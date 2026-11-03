@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Astra can read and write weights to improve Qwen](https://rikiyat.github.io/blog/weight-space-programming/) | `1186 pts` | `@dbreunig` |
-| [Show HN: Subvocal – Talk to your computer without making noise](https://news.ycombinator.com/item?id=50340088) | `391 pts` | `@aarushyadav` |
-| [US boy names that became girl names and vice versa](https://namedaisy.com/blog/boy-names-that-became-girl-names) | `198 pts` | `@xoobdev` |
-| [Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app](https://momentic.ai/) | `94 pts` | `@wuweiweiwu` |
-| [Show HN: Warsaw in voxels – An interactive 3D map of the city centre](https://p.migdal.pl/warsaw-vibe-voxel/) | `160 pts` | `@stared` |
+| [Astra can read and write weights to improve Qwen](https://rikiyat.github.io/blog/weight-space-programming/) | `2342 pts` | `@dbreunig` |
+| [Show HN: Hacker Times, a New York Times-inspired version of Hacker News](https://hackertimes.ca/) | `158 pts` | `@polpenn` |
+| [DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio) | `118 pts` | `@bpierre` |
+| [European RISC-V Industrial Computing Initiative](https://erici.eu) | `33 pts` | `@ymz5` |
+| [Scaling Git at OpenAI](https://openai.com/index/scaling-git-at-openai/) | `155 pts` | `@makeramen` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-11-02 21:39:11 UTC`*
+*Last automated pipeline execution: `2026-11-03 06:25:43 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
