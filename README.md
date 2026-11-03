@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Astra can read and write weights to improve Qwen](https://rikiyat.github.io/blog/weight-space-programming/) | `2342 pts` | `@dbreunig` |
-| [Show HN: Hacker Times, a New York Times-inspired version of Hacker News](https://hackertimes.ca/) | `158 pts` | `@polpenn` |
-| [DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio) | `118 pts` | `@bpierre` |
-| [European RISC-V Industrial Computing Initiative](https://erici.eu) | `33 pts` | `@ymz5` |
-| [Scaling Git at OpenAI](https://openai.com/index/scaling-git-at-openai/) | `155 pts` | `@makeramen` |
+| [Postman silently auto-installs AI plugins and attempts to share all API data](https://github.com/postmanlabs/postman-app-support/issues/14370) | `501 pts` | `@sidgarimella` |
+| [Qwen 3.8 27B on my laptop can interpret model weights, too](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/) | `194 pts` | `@theanonymousone` |
+| [Jailbreaking my car's navigation system just so I can change the time](https://blog.nns.ee/2026/11/02/renault-hack/) | `348 pts` | `@xx_ns` |
+| [Stringman, an $800 open-source room scale gripper robot](https://neufangled.com/) | `72 pts` | `@nharada` |
+| [Fujifilm to boost tape production 5x as AI fuels archiving demand](https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/) | `265 pts` | `@bookofjoe` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-11-03 06:25:43 UTC`*
+*Last automated pipeline execution: `2026-11-03 19:24:11 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
