@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [C++26 Disapproved](https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/) | `189 pts` | `@thatxliner` |
-| [Jelly Sheet](https://mrdoob.github.io/codevember-2026/01/) | `49 pts` | `@memalign` |
-| [Distinct cellular and genetic differences in colorectal cancer in young patients](https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients) | `41 pts` | `@gmays` |
-| [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html) | `205 pts` | `@ibobev` |
-| [Jailbreaking my car's navigation system just so I can change the time](https://blog.nns.ee/2026/11/02/renault-hack/) | `705 pts` | `@xx_ns` |
+| [AI is forcing us to pay off 40 years of technical debt](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability) | `830 pts` | `@pseudolus` |
+| [A New Go API for JSON](https://go.dev/blog/jsonv2) | `74 pts` | `@olexsmir` |
+| [Progress on provable inference for large language models](https://www.anthropic.com/research/provable-inference) | `109 pts` | `@ltononro` |
+| [Conductor Is Joining Meta](https://www.conductor.build/changelog/0.93.0-conductor-is-joining-meta) | `29 pts` | `@askedrelic` |
+| [Education Shouldn't Be Held for Ransom](https://blog.kagi.com/education-should-not-be-held-for-ransom) | `47 pts` | `@notfried` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-11-04 05:58:20 UTC`*
+*Last automated pipeline execution: `2026-11-04 19:39:23 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
