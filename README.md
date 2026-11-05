@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Residential proxies detected on White House network](https://layer3intel.com/blog/residential-proxies-white-house-network) | `886 pts` | `@Rasbora` |
-| [Lemmings CSS Animation](https://markblah.github.io/lemmings/) | `27 pts` | `@MarkBlah` |
-| [Images 2.6](https://openai.com/index/introducing-images-2-6/) | `219 pts` | `@davidbarker` |
-| [A thousand fewer paths to root](https://openai.com/index/a-thousand-fewer-paths-to-root/) | `256 pts` | `@dangelosaurus` |
-| [Starfall – Affordable, routine access to microgravity](https://www.spacex.com/starfall) | `183 pts` | `@gmays` |
+| [sshole](https://sshhole.com) | `1798 pts` | `@josemrb` |
+| [Alpine Linux Security Advisory: OpenSSH-server password authentication bypass](https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/) | `415 pts` | `@pantalaimon` |
+| [Motorola Signature 27 with GrapheneOS support](https://motorolanews.com/motorola-signature-27-2/) | `244 pts` | `@monneyboi` |
+| [How to Lie With Statistics (1954) [pdf]](https://www.horace.org/blog/wp-content/uploads/2012/05/How-to-Lie-With-Statistics-1954-Huff.pdf) | `31 pts` | `@jruohonen` |
+| [Window Sweaters](https://github.com/saragordic/window-sweaters) | `95 pts` | `@nickswalker` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-11-05 06:23:08 UTC`*
+*Last automated pipeline execution: `2026-11-05 19:49:33 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
