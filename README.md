@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [AI is forcing us to pay off 40 years of technical debt](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability) | `830 pts` | `@pseudolus` |
-| [A New Go API for JSON](https://go.dev/blog/jsonv2) | `74 pts` | `@olexsmir` |
-| [Progress on provable inference for large language models](https://www.anthropic.com/research/provable-inference) | `109 pts` | `@ltononro` |
-| [Conductor Is Joining Meta](https://www.conductor.build/changelog/0.93.0-conductor-is-joining-meta) | `29 pts` | `@askedrelic` |
-| [Education Shouldn't Be Held for Ransom](https://blog.kagi.com/education-should-not-be-held-for-ransom) | `47 pts` | `@notfried` |
+| [Residential proxies detected on White House network](https://layer3intel.com/blog/residential-proxies-white-house-network) | `886 pts` | `@Rasbora` |
+| [Lemmings CSS Animation](https://markblah.github.io/lemmings/) | `27 pts` | `@MarkBlah` |
+| [Images 2.6](https://openai.com/index/introducing-images-2-6/) | `219 pts` | `@davidbarker` |
+| [A thousand fewer paths to root](https://openai.com/index/a-thousand-fewer-paths-to-root/) | `256 pts` | `@dangelosaurus` |
+| [Starfall – Affordable, routine access to microgravity](https://www.spacex.com/starfall) | `183 pts` | `@gmays` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-11-04 19:39:23 UTC`*
+*Last automated pipeline execution: `2026-11-05 06:23:08 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
