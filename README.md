@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [sshole](https://sshhole.com) | `1798 pts` | `@josemrb` |
-| [Alpine Linux Security Advisory: OpenSSH-server password authentication bypass](https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/) | `415 pts` | `@pantalaimon` |
-| [Motorola Signature 27 with GrapheneOS support](https://motorolanews.com/motorola-signature-27-2/) | `244 pts` | `@monneyboi` |
-| [How to Lie With Statistics (1954) [pdf]](https://www.horace.org/blog/wp-content/uploads/2012/05/How-to-Lie-With-Statistics-1954-Huff.pdf) | `31 pts` | `@jruohonen` |
-| [Window Sweaters](https://github.com/saragordic/window-sweaters) | `95 pts` | `@nickswalker` |
+| [Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757) | `841 pts` | `@motoroco` |
+| [sshole](https://sshhole.com) | `2519 pts` | `@josemrb` |
+| [MS Paint Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-83844) | `433 pts` | `@kuberwastaken` |
+| [Nvidia Kubernetes Engine (NVKE)](https://github.com/dsx-ai-factory/nvke) | `46 pts` | `@gkapur` |
+| [Pwn.college](https://pwn.college/) | `66 pts` | `@tripdout` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-11-05 19:49:33 UTC`*
+*Last automated pipeline execution: `2026-11-06 06:17:54 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
