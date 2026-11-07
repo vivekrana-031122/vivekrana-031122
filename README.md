@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [US FAA says it will phase out floppy disks from air traffic control by 2028](https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/) | `122 pts` | `@ChrisArchitect` |
-| [Tesla to wind down Cybertruck production](https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817) | `494 pts` | `@PLenz` |
-| [We know 15k websites are infected. how do we tell them?](https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/) | `37 pts` | `@speckx` |
-| [First steps in bare-metal programming using UEFI](https://kevinboone.me/efitest_index.html) | `91 pts` | `@LaSombra` |
-| [Size-It-Up (Game)](https://magnitudle.com/size-it-up) | `24 pts` | `@whoishiding` |
+| [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0) | `428 pts` | `@mfiguiere` |
+| [A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](https://hightouch.com/blog/llm-judges-identity-resolution) | `405 pts` | `@theanomaly` |
+| [I Toured Unitree's Factory. I'm More Bullish on the West](https://josef.cn/blog/unitree) | `83 pts` | `@josefchen` |
+| [Tesla to wind down Cybertruck production](https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817) | `929 pts` | `@PLenz` |
+| [A barbarian tribe's mythic origin story is true, ancient DNA reveals](https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals) | `7 pts` | `@benbreen` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-11-06 19:14:46 UTC`*
+*Last automated pipeline execution: `2026-11-07 05:43:39 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
