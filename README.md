@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0) | `428 pts` | `@mfiguiere` |
-| [A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](https://hightouch.com/blog/llm-judges-identity-resolution) | `405 pts` | `@theanomaly` |
-| [I Toured Unitree's Factory. I'm More Bullish on the West](https://josef.cn/blog/unitree) | `83 pts` | `@josefchen` |
-| [Tesla to wind down Cybertruck production](https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817) | `929 pts` | `@PLenz` |
-| [A barbarian tribe's mythic origin story is true, ancient DNA reveals](https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals) | `7 pts` | `@benbreen` |
+| [The $8 Linux Computer (2022)](http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html) | `112 pts` | `@zenincognito` |
+| [How Long Can Life Wait?](https://mceglowski.substack.com/p/how-long-can-life-wait) | `33 pts` | `@Ariarule` |
+| [Need for Speed Underground 2 online in the browser](https://nfsu2.xyz/) | `508 pts` | `@fluxusars` |
+| [Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller](https://github.com/hedgerow-dev/coldframe) | `11 pts` | `@hedgerow-dev` |
+| [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0) | `919 pts` | `@mfiguiere` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-11-07 05:43:39 UTC`*
+*Last automated pipeline execution: `2026-11-07 17:42:10 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
