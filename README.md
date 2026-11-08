@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [The $8 Linux Computer (2022)](http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html) | `112 pts` | `@zenincognito` |
-| [How Long Can Life Wait?](https://mceglowski.substack.com/p/how-long-can-life-wait) | `33 pts` | `@Ariarule` |
-| [Need for Speed Underground 2 online in the browser](https://nfsu2.xyz/) | `508 pts` | `@fluxusars` |
-| [Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller](https://github.com/hedgerow-dev/coldframe) | `11 pts` | `@hedgerow-dev` |
-| [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0) | `919 pts` | `@mfiguiere` |
+| [Goodbye Claude, Hello Pi](https://caleb.software/posts/claude-to-pi.html) | `57 pts` | `@karagenit` |
+| [What I run on my $10 USD OpenStick homelab](https://blog.bosscher.ch/posts/openstick/) | `469 pts` | `@LaurensBER` |
+| [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again) | `292 pts` | `@shmulc` |
+| [Kirlian Photography: Building Your Own Equipment](https://imagesco.com/articles/kirlian/kirlian-photography.html) | `9 pts` | `@joebig` |
+| [I Use Development-Driven Specs, Not Spec-Driven Development](https://github.com/waywardgeek/ensemble) | `11 pts` | `@WaywardGeek` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-11-07 17:42:10 UTC`*
+*Last automated pipeline execution: `2026-11-08 05:46:40 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
