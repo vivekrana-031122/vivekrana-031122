@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Goodbye Claude, Hello Pi](https://caleb.software/posts/claude-to-pi.html) | `57 pts` | `@karagenit` |
-| [What I run on my $10 USD OpenStick homelab](https://blog.bosscher.ch/posts/openstick/) | `469 pts` | `@LaurensBER` |
-| [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again) | `292 pts` | `@shmulc` |
-| [Kirlian Photography: Building Your Own Equipment](https://imagesco.com/articles/kirlian/kirlian-photography.html) | `9 pts` | `@joebig` |
-| [I Use Development-Driven Specs, Not Spec-Driven Development](https://github.com/waywardgeek/ensemble) | `11 pts` | `@WaywardGeek` |
+| [Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU](https://github.com/synchopate/llama-modchip) | `213 pts` | `@joshcsimmons` |
+| [The Reconstruction of Torn Documents](https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/) | `40 pts` | `@jacquesm` |
+| [Writing as a thinking tool](http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html) | `118 pts` | `@jruohonen` |
+| [Goodbye Claude, hello Pi](https://caleb.software/posts/claude-to-pi.html) | `566 pts` | `@karagenit` |
+| [I'm not a fan of Deno's security model (2024)](https://goldstein.lol/posts/deno-security/) | `29 pts` | `@maxloh` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-11-08 05:46:40 UTC`*
+*Last automated pipeline execution: `2026-11-08 17:52:15 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
