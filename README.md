@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [RIP, Harvest](https://aphyr.com/posts/427-rip-harvest) | `232 pts` | `@zdw` |
-| [A Critique of GPUI](https://blog.zortax.de/posts/a-critique-of-gpui) | `48 pts` | `@ByteAtATime` |
-| [KetchUp – Open-source SketchUp alternative built with Rust and WebGPU](https://ketchup3d.github.io/app/) | `354 pts` | `@dcoulmbe` |
-| [Unlocking any car from X brand in most of the world](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/) | `191 pts` | `@infosecau` |
-| [Chimera Vocal Synth](https://chimera-vocal-synth.vercel.app/) | `157 pts` | `@nmstoker` |
+| [USPS now offers official ZIP Code boundary polygons](https://postalpro.usps.com/zcb) | `261 pts` | `@munro` |
+| [Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far](https://artificialanalysis.ai/models/claude-fable-5-2) | `142 pts` | `@theanonymousone` |
+| [Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system](https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy) | `421 pts` | `@ocd` |
+| [E-means: 10x faster k-means at equal loss](https://e-means.github.io/) | `176 pts` | `@porridgeraisin` |
+| [Google Gemini routes personal Drive files and emails to human annotators](https://github.com/thisisme6598/gemini_files/) | `168 pts` | `@gf74918` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-11-09 05:56:59 UTC`*
+*Last automated pipeline execution: `2026-11-09 22:14:10 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
