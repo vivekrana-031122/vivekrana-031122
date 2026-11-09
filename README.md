@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU](https://github.com/synchopate/llama-modchip) | `213 pts` | `@joshcsimmons` |
-| [The Reconstruction of Torn Documents](https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/) | `40 pts` | `@jacquesm` |
-| [Writing as a thinking tool](http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html) | `118 pts` | `@jruohonen` |
-| [Goodbye Claude, hello Pi](https://caleb.software/posts/claude-to-pi.html) | `566 pts` | `@karagenit` |
-| [I'm not a fan of Deno's security model (2024)](https://goldstein.lol/posts/deno-security/) | `29 pts` | `@maxloh` |
+| [RIP, Harvest](https://aphyr.com/posts/427-rip-harvest) | `232 pts` | `@zdw` |
+| [A Critique of GPUI](https://blog.zortax.de/posts/a-critique-of-gpui) | `48 pts` | `@ByteAtATime` |
+| [KetchUp – Open-source SketchUp alternative built with Rust and WebGPU](https://ketchup3d.github.io/app/) | `354 pts` | `@dcoulmbe` |
+| [Unlocking any car from X brand in most of the world](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/) | `191 pts` | `@infosecau` |
+| [Chimera Vocal Synth](https://chimera-vocal-synth.vercel.app/) | `157 pts` | `@nmstoker` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-11-08 17:52:15 UTC`*
+*Last automated pipeline execution: `2026-11-09 05:56:59 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
