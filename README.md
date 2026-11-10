@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [USPS now offers official ZIP Code boundary polygons](https://postalpro.usps.com/zcb) | `261 pts` | `@munro` |
-| [Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far](https://artificialanalysis.ai/models/claude-fable-5-2) | `142 pts` | `@theanonymousone` |
-| [Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system](https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy) | `421 pts` | `@ocd` |
-| [E-means: 10x faster k-means at equal loss](https://e-means.github.io/) | `176 pts` | `@porridgeraisin` |
-| [Google Gemini routes personal Drive files and emails to human annotators](https://github.com/thisisme6598/gemini_files/) | `168 pts` | `@gf74918` |
+| [Amazon saves millions by replacing Sonnet 4.6 with Strands Decider](https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/) | `70 pts` | `@aloukissas` |
+| [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2) | `463 pts` | `@lairv` |
+| [USPS now offers official ZIP Code boundary polygons](https://postalpro.usps.com/zcb) | `586 pts` | `@munro` |
+| [Your TV can see through walls](https://maurycyz.com/projects/fading/) | `32 pts` | `@Curiositry` |
+| [E-means: Outperforming k-means in one-tenth the epochs](https://e-means.github.io/) | `359 pts` | `@porridgeraisin` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-11-09 22:14:10 UTC`*
+*Last automated pipeline execution: `2026-11-10 07:00:22 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
