@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Amazon saves millions by replacing Sonnet 4.6 with Strands Decider](https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/) | `70 pts` | `@aloukissas` |
-| [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2) | `463 pts` | `@lairv` |
-| [USPS now offers official ZIP Code boundary polygons](https://postalpro.usps.com/zcb) | `586 pts` | `@munro` |
-| [Your TV can see through walls](https://maurycyz.com/projects/fading/) | `32 pts` | `@Curiositry` |
-| [E-means: Outperforming k-means in one-tenth the epochs](https://e-means.github.io/) | `359 pts` | `@porridgeraisin` |
+| [.name Grandfathered](https://neil.fraser.name/news/2026/11/10/) | `387 pts` | `@p4bl0` |
+| [Starlink Mini 2](https://starlink.com/mini-2) | `81 pts` | `@robertjfclarke` |
+| [Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/) | `311 pts` | `@skittleson` |
+| [Synaptics patent claims stop work on DisplayLink drivers](https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/) | `88 pts` | `@speckx` |
+| [Val Town is winding down](https://blog.val.town/winding-down) | `131 pts` | `@tosh` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-11-10 07:00:22 UTC`*
+*Last automated pipeline execution: `2026-11-10 19:36:57 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
