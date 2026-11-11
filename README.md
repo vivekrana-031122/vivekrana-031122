@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [.name Grandfathered](https://neil.fraser.name/news/2026/11/10/) | `387 pts` | `@p4bl0` |
-| [Starlink Mini 2](https://starlink.com/mini-2) | `81 pts` | `@robertjfclarke` |
-| [Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/) | `311 pts` | `@skittleson` |
-| [Synaptics patent claims stop work on DisplayLink drivers](https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/) | `88 pts` | `@speckx` |
-| [Val Town is winding down](https://blog.val.town/winding-down) | `131 pts` | `@tosh` |
+| [Protecting SSH Keys with macOS Secure Enclave](https://gatezh.com/posts/macos-secure-enclave-ssh-keys/) | `50 pts` | `@js2` |
+| [Greg Kurtzer's Ginux is now a userspace kernel](https://github.com/gmkurtzer/ginux) | `10 pts` | `@d3Xt3r` |
+| [Scion is back and is going to sell a kei truck in America](https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/) | `412 pts` | `@NaOH` |
+| [.name Grandfathered](https://neil.fraser.name/news/2026/11/10/) | `752 pts` | `@p4bl0` |
+| [Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/) | `812 pts` | `@skittleson` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-11-10 19:36:57 UTC`*
+*Last automated pipeline execution: `2026-11-11 05:52:43 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
