@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Protecting SSH Keys with macOS Secure Enclave](https://gatezh.com/posts/macos-secure-enclave-ssh-keys/) | `50 pts` | `@js2` |
-| [Greg Kurtzer's Ginux is now a userspace kernel](https://github.com/gmkurtzer/ginux) | `10 pts` | `@d3Xt3r` |
-| [Scion is back and is going to sell a kei truck in America](https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/) | `412 pts` | `@NaOH` |
-| [.name Grandfathered](https://neil.fraser.name/news/2026/11/10/) | `752 pts` | `@p4bl0` |
-| [Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/) | `812 pts` | `@skittleson` |
+| [AWS Finally Built Its Own AWS Emulator](https://github.com/aws/aws-emulator) | `211 pts` | `@super_linear` |
+| [Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028) | `360 pts` | `@ayhanfuat` |
+| [A false smoke alarm almost drowned Jane Street's only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/) | `248 pts` | `@mbac32768` |
+| [AWS Emulator and the engineer's job when agents write the code](https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html) | `49 pts` | `@drbm` |
+| [Show HN: I recreated Papers Please but you're deciding which YC startups to fund](https://termsheetplease.com/) | `18 pts` | `@bolau` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-11-11 05:52:43 UTC`*
+*Last automated pipeline execution: `2026-11-11 19:29:27 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
