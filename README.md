@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [AWS Finally Built Its Own AWS Emulator](https://github.com/aws/aws-emulator) | `211 pts` | `@super_linear` |
-| [Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028) | `360 pts` | `@ayhanfuat` |
-| [A false smoke alarm almost drowned Jane Street's only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/) | `248 pts` | `@mbac32768` |
-| [AWS Emulator and the engineer's job when agents write the code](https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html) | `49 pts` | `@drbm` |
-| [Show HN: I recreated Papers Please but you're deciding which YC startups to fund](https://termsheetplease.com/) | `18 pts` | `@bolau` |
+| [93% of paint splatters are valid Perl programs (2019)](https://www.mcmillen.dev/sigbovik/) | `349 pts` | `@zenincognito` |
+| [Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028) | `1075 pts` | `@ayhanfuat` |
+| [AWS emulator](https://github.com/aws/aws-emulator) | `788 pts` | `@super_linear` |
+| [Critical RCE Vulnerability in Apache HTTP Server](https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability) | `114 pts` | `@soheilpro` |
+| [Nvidia is preparing to oust Jensen Huang](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad) | `852 pts` | `@jbredeche` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-11-11 19:29:27 UTC`*
+*Last automated pipeline execution: `2026-11-12 06:57:02 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
