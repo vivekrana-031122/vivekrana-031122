@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [93% of paint splatters are valid Perl programs (2019)](https://www.mcmillen.dev/sigbovik/) | `349 pts` | `@zenincognito` |
-| [Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028) | `1075 pts` | `@ayhanfuat` |
-| [AWS emulator](https://github.com/aws/aws-emulator) | `788 pts` | `@super_linear` |
-| [Critical RCE Vulnerability in Apache HTTP Server](https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability) | `114 pts` | `@soheilpro` |
-| [Nvidia is preparing to oust Jensen Huang](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad) | `852 pts` | `@jbredeche` |
+| [Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f) | `2073 pts` | `@lldb` |
+| [Rust 1.100.0](https://github.com/rust-lang/rust/releases/tag/1.100.0) | `239 pts` | `@thesuperbigfrog` |
+| [Gemini 4 Hydrogen](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/) | `285 pts` | `@dvaplima` |
+| [Ask HN: Microsoft/Azure Outage?](https://news.ycombinator.com/item?id=50471668) | `229 pts` | `@nazgulsenpai` |
+| [Dwarf planet candidate appears which takes roughly 280 years to orbit our sun](https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/) | `26 pts` | `@cybermango` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-11-12 06:57:02 UTC`*
+*Last automated pipeline execution: `2026-11-12 19:48:10 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
