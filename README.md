@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f) | `3277 pts` | `@lldb` |
-| [IceWM](https://ice-wm.org/) | `46 pts` | `@inatreecrown2` |
-| [Rust 1.100](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/) | `573 pts` | `@mbStavola` |
-| [Switcher (2004)](https://folklore.org/Switcher.html) | `71 pts` | `@sammatilda` |
-| [Gemini 4 Hydrogen and Orchestrator](https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/) | `373 pts` | `@jonbaer` |
+| [After 600 experiments, here's what I discovered about JEPA world models](https://haddyalchaer.com/jepa) | `94 pts` | `@halcdev` |
+| [Reverse engineering my Coway air purifier to ditch the cloud](https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/) | `549 pts` | `@scottjg` |
+| [Models can now transmit viruses in weight-space](https://www.alphaxiv.org/abs/2611.weight-space-misfolding) | `40 pts` | `@mkglees` |
+| [The avalanche that hit math is coming for AI development](https://www.dwarkesh.com/p/rsi) | `21 pts` | `@crescit_eundo` |
+| [Doomsday: Friday, 13 November, A.D. 2026 (1960)](https://www.science.org/doi/10.1126/science.132.3436.1291) | `377 pts` | `@voxleone` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-11-13 06:20:24 UTC`*
+*Last automated pipeline execution: `2026-11-13 19:30:52 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
