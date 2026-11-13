@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f) | `2073 pts` | `@lldb` |
-| [Rust 1.100.0](https://github.com/rust-lang/rust/releases/tag/1.100.0) | `239 pts` | `@thesuperbigfrog` |
-| [Gemini 4 Hydrogen](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/) | `285 pts` | `@dvaplima` |
-| [Ask HN: Microsoft/Azure Outage?](https://news.ycombinator.com/item?id=50471668) | `229 pts` | `@nazgulsenpai` |
-| [Dwarf planet candidate appears which takes roughly 280 years to orbit our sun](https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/) | `26 pts` | `@cybermango` |
+| [Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f) | `3277 pts` | `@lldb` |
+| [IceWM](https://ice-wm.org/) | `46 pts` | `@inatreecrown2` |
+| [Rust 1.100](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/) | `573 pts` | `@mbStavola` |
+| [Switcher (2004)](https://folklore.org/Switcher.html) | `71 pts` | `@sammatilda` |
+| [Gemini 4 Hydrogen and Orchestrator](https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/) | `373 pts` | `@jonbaer` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-11-12 19:48:10 UTC`*
+*Last automated pipeline execution: `2026-11-13 06:20:24 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
