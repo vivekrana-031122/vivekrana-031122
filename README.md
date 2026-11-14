@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Ggml v1.0.0](https://github.com/ggml-org/ggml/releases/tag/v1.0.0) | `134 pts` | `@cobychapple` |
-| [Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus) | `249 pts` | `@speckx` |
-| [FAA issues national ground stop – lifted 4.5 hours later](https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247) | `1460 pts` | `@zulln` |
-| [Terminal borders that don't cost a cell](https://www.joshka.net/cell-borders/) | `170 pts` | `@vinhnx` |
-| [Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update](https://unsloth.ai/docs/models/qwen3.8) | `74 pts` | `@Retro_Dev` |
+| [PyPI's redesigned project pages with clearer security signals are now live](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/) | `97 pts` | `@rbanffy` |
+| [KDE: The documentary [video]](https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c) | `174 pts` | `@mrkn1` |
+| [Why get an expensive Pi when I have an old phone?](https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/) | `378 pts` | `@casi` |
+| [Advancing science and engineering with Antigravity's /teamwork](https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/) | `71 pts` | `@acossta` |
+| [Show HN: A terminal-native idle factory game, written in Rust with ratatui](https://gitlab.com/snipedbywifi/terminactory) | `82 pts` | `@snipedbywifi` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-11-14 06:01:27 UTC`*
+*Last automated pipeline execution: `2026-11-14 17:54:04 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
