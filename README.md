@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [After 600 experiments, here's what I discovered about JEPA world models](https://haddyalchaer.com/jepa) | `94 pts` | `@halcdev` |
-| [Reverse engineering my Coway air purifier to ditch the cloud](https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/) | `549 pts` | `@scottjg` |
-| [Models can now transmit viruses in weight-space](https://www.alphaxiv.org/abs/2611.weight-space-misfolding) | `40 pts` | `@mkglees` |
-| [The avalanche that hit math is coming for AI development](https://www.dwarkesh.com/p/rsi) | `21 pts` | `@crescit_eundo` |
-| [Doomsday: Friday, 13 November, A.D. 2026 (1960)](https://www.science.org/doi/10.1126/science.132.3436.1291) | `377 pts` | `@voxleone` |
+| [Ggml v1.0.0](https://github.com/ggml-org/ggml/releases/tag/v1.0.0) | `134 pts` | `@cobychapple` |
+| [Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus) | `249 pts` | `@speckx` |
+| [FAA issues national ground stop – lifted 4.5 hours later](https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247) | `1460 pts` | `@zulln` |
+| [Terminal borders that don't cost a cell](https://www.joshka.net/cell-borders/) | `170 pts` | `@vinhnx` |
+| [Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update](https://unsloth.ai/docs/models/qwen3.8) | `74 pts` | `@Retro_Dev` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-11-13 19:30:52 UTC`*
+*Last automated pipeline execution: `2026-11-14 06:01:27 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
