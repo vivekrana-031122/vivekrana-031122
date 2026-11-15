@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [PyPI's redesigned project pages with clearer security signals are now live](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/) | `97 pts` | `@rbanffy` |
-| [KDE: The documentary [video]](https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c) | `174 pts` | `@mrkn1` |
-| [Why get an expensive Pi when I have an old phone?](https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/) | `378 pts` | `@casi` |
-| [Advancing science and engineering with Antigravity's /teamwork](https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/) | `71 pts` | `@acossta` |
-| [Show HN: A terminal-native idle factory game, written in Rust with ratatui](https://gitlab.com/snipedbywifi/terminactory) | `82 pts` | `@snipedbywifi` |
+| [SpaceX catches the Starship to end Flight 15](https://www.spacex.com/launches/starship-flight-15) | `993 pts` | `@ls612` |
+| [Lovable apps expose passport details and more than 200K private messages](https://www.crissyfield.de/research/lovable-en/) | `743 pts` | `@armcat` |
+| [Show HN: Gawain – Require type hints on all Python variables](https://github.com/matheuzgomes/gawain) | `21 pts` | `@MarinhoD` |
+| [Memory Safety Bugs in Rust Standard Library](https://forge-blog.github.io/posts/rust-std-memory-safety/) | `20 pts` | `@pjmlp` |
+| [How did Woz write the Apple 1 BASIC before building the computer?](https://retrocomputing.stackexchange.com/questions/17957) | `166 pts` | `@Skyfall106` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-11-14 17:54:04 UTC`*
+*Last automated pipeline execution: `2026-11-15 06:05:55 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
