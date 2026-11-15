@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [SpaceX catches the Starship to end Flight 15](https://www.spacex.com/launches/starship-flight-15) | `993 pts` | `@ls612` |
-| [Lovable apps expose passport details and more than 200K private messages](https://www.crissyfield.de/research/lovable-en/) | `743 pts` | `@armcat` |
-| [Show HN: Gawain – Require type hints on all Python variables](https://github.com/matheuzgomes/gawain) | `21 pts` | `@MarinhoD` |
-| [Memory Safety Bugs in Rust Standard Library](https://forge-blog.github.io/posts/rust-std-memory-safety/) | `20 pts` | `@pjmlp` |
-| [How did Woz write the Apple 1 BASIC before building the computer?](https://retrocomputing.stackexchange.com/questions/17957) | `166 pts` | `@Skyfall106` |
+| [All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source/) | `664 pts` | `@jcubic` |
+| [The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use](https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/) | `262 pts` | `@MacAnorak` |
+| [A short explainer on how El Niño works [video]](https://www.youtube.com/watch?v=7_JF3etiAv8) | `12 pts` | `@nharada` |
+| [Emacs Is My Browser](https://joshblais.com/blog/emacs-as-my-browser/) | `90 pts` | `@nyc111` |
+| [Things That Turbo Pascal Is Smaller Than (2011)](https://prog21.dadgum.com/116.html) | `123 pts` | `@ksec` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-11-15 06:05:55 UTC`*
+*Last automated pipeline execution: `2026-11-15 18:44:17 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
