@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source/) | `664 pts` | `@jcubic` |
-| [The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use](https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/) | `262 pts` | `@MacAnorak` |
-| [A short explainer on how El Niño works [video]](https://www.youtube.com/watch?v=7_JF3etiAv8) | `12 pts` | `@nharada` |
-| [Emacs Is My Browser](https://joshblais.com/blog/emacs-as-my-browser/) | `90 pts` | `@nyc111` |
-| [Things That Turbo Pascal Is Smaller Than (2011)](https://prog21.dadgum.com/116.html) | `123 pts` | `@ksec` |
+| [Universal XSS in uBlock Origin from website-driven element picker](https://iter.ca/post/ubo-uxss/) | `226 pts` | `@zaik` |
+| [Qwen4-Max](https://qwen.ai/blog?id=qwen4-max) | `309 pts` | `@ilreb` |
+| [Old Bitly links are being hijacked](https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/) | `239 pts` | `@hspeiser` |
+| [What's Next for Nvidia?](https://steveblank.com/2026/11/15/whats-next-for-nvidia/) | `175 pts` | `@zdw` |
+| [Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack](https://forum.torproject.org/t/security-release-0-4-9-17/22454) | `100 pts` | `@aillia` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-11-15 18:44:17 UTC`*
+*Last automated pipeline execution: `2026-11-16 06:05:44 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
