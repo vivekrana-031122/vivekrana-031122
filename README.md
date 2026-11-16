@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Universal XSS in uBlock Origin from website-driven element picker](https://iter.ca/post/ubo-uxss/) | `226 pts` | `@zaik` |
-| [Qwen4-Max](https://qwen.ai/blog?id=qwen4-max) | `309 pts` | `@ilreb` |
-| [Old Bitly links are being hijacked](https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/) | `239 pts` | `@hspeiser` |
-| [What's Next for Nvidia?](https://steveblank.com/2026/11/15/whats-next-for-nvidia/) | `175 pts` | `@zdw` |
-| [Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack](https://forum.torproject.org/t/security-release-0-4-9-17/22454) | `100 pts` | `@aillia` |
+| [Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle](https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda) | `574 pts` | `@samk3nny` |
+| [BugMeNot Has Closed](https://www.bugmenot.com/) | `51 pts` | `@lode` |
+| [My Quest to push native Three.js quality match AAA Game Engines](https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs) | `31 pts` | `@bhouston` |
+| [Grazing sheep in fields with solar arrays](https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains) | `165 pts` | `@PaulHoule` |
+| [Rust changed me as a developer](https://blog.startifact.com/posts/how-rust-changed-me/) | `59 pts` | `@speckx` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-11-16 06:05:44 UTC`*
+*Last automated pipeline execution: `2026-11-16 21:54:35 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
