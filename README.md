@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle](https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda) | `574 pts` | `@samk3nny` |
-| [BugMeNot Has Closed](https://www.bugmenot.com/) | `51 pts` | `@lode` |
-| [My Quest to push native Three.js quality match AAA Game Engines](https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs) | `31 pts` | `@bhouston` |
-| [Grazing sheep in fields with solar arrays](https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains) | `165 pts` | `@PaulHoule` |
-| [Rust changed me as a developer](https://blog.startifact.com/posts/how-rust-changed-me/) | `59 pts` | `@speckx` |
+| [Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/) | `1299 pts` | `@pcompeau` |
+| [Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use](https://xusheng.dev/posts/windows-coding-agent-telemetry/) | `522 pts` | `@cwaffles` |
+| [BugMeNot has closed](https://www.bugmenot.com/) | `482 pts` | `@lode` |
+| [Optimizely compromised, served malware on Zoom, GitLab](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/) | `279 pts` | `@kristjansson` |
+| [If an App Asks for Full Disk Access or System and App Protection Override](https://support.apple.com/en-us/149699) | `96 pts` | `@jshier` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-11-16 21:54:35 UTC`*
+*Last automated pipeline execution: `2026-11-17 07:41:35 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
