@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/) | `1299 pts` | `@pcompeau` |
-| [Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use](https://xusheng.dev/posts/windows-coding-agent-telemetry/) | `522 pts` | `@cwaffles` |
-| [BugMeNot has closed](https://www.bugmenot.com/) | `482 pts` | `@lode` |
-| [Optimizely compromised, served malware on Zoom, GitLab](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/) | `279 pts` | `@kristjansson` |
-| [If an App Asks for Full Disk Access or System and App Protection Override](https://support.apple.com/en-us/149699) | `96 pts` | `@jshier` |
+| [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/) | `754 pts` | `@jasondavies` |
+| [jQuery 4.1.0](https://github.com/jquery/jquery/releases/tag/4.1.0) | `69 pts` | `@petecooper` |
+| [MAI Code 2 and Code 2 Flash](https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/) | `159 pts` | `@lemonish97` |
+| [350 years ago, this man discovered that light has a finite speed](https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969) | `85 pts` | `@dxs` |
+| [Web Browser Engineering](https://browser.engineering/) | `33 pts` | `@ibobev` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-11-17 07:41:35 UTC`*
+*Last automated pipeline execution: `2026-11-17 20:45:00 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
