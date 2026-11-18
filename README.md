@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/) | `754 pts` | `@jasondavies` |
-| [jQuery 4.1.0](https://github.com/jquery/jquery/releases/tag/4.1.0) | `69 pts` | `@petecooper` |
-| [MAI Code 2 and Code 2 Flash](https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/) | `159 pts` | `@lemonish97` |
-| [350 years ago, this man discovered that light has a finite speed](https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969) | `85 pts` | `@dxs` |
-| [Web Browser Engineering](https://browser.engineering/) | `33 pts` | `@ibobev` |
+| [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/) | `779 pts` | `@werrett` |
+| [ID.me terms required for IRS sign-in](https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in) | `297 pts` | `@DeepLogin` |
+| [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/) | `1213 pts` | `@jasondavies` |
+| [Quad9's withdrawal from France: A canary in the coal mine](https://blog.cloudflare.com/quad9-withdrawal-from-france/) | `468 pts` | `@subset` |
+| [Google's AI answers reducing search traffic by 40%](https://revscope.co/blog/search-seo-geo-2026/) | `293 pts` | `@slashdev` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-11-17 20:45:00 UTC`*
+*Last automated pipeline execution: `2026-11-18 07:04:46 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
