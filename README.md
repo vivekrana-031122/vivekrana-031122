@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/) | `779 pts` | `@werrett` |
-| [ID.me terms required for IRS sign-in](https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in) | `297 pts` | `@DeepLogin` |
-| [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/) | `1213 pts` | `@jasondavies` |
-| [Quad9's withdrawal from France: A canary in the coal mine](https://blog.cloudflare.com/quad9-withdrawal-from-france/) | `468 pts` | `@subset` |
-| [Google's AI answers reducing search traffic by 40%](https://revscope.co/blog/search-seo-geo-2026/) | `293 pts` | `@slashdev` |
+| [Unauthenticated remote code execution in Nginx](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities) | `707 pts` | `@speedping` |
+| [Scottish HTTP Codes](https://underwood.network/http/scots.html) | `172 pts` | `@mooreds` |
+| [Seven new models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/) | `306 pts` | `@gmays` |
+| [Inside Deutsche Bank](https://www.inside-db.com/) | `365 pts` | `@gyre007` |
+| [Genie 4 is now available](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/) | `89 pts` | `@leumon` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-11-18 07:04:46 UTC`*
+*Last automated pipeline execution: `2026-11-18 20:21:08 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
