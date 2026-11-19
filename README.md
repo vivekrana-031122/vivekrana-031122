@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/) | `705 pts` | `@yigitdemirag` |
-| [Unauthenticated remote code execution in Nginx](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities) | `1286 pts` | `@speedping` |
-| [Multiple vulnerabilities in Regexp and String case conversion](https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/) | `197 pts` | `@runesoerensen` |
-| [15M web servers on one VM – smoltcp, DPDK, AF_XDP](https://kapteko.com/15-million-webservers/) | `16 pts` | `@fessguid` |
-| [Axelera Titania Brings Native FP8 and FP4 to In-Memory Compute](https://futurumgroup.com/insights/axelera-titania-brings-native-fp8-and-fp4-to-in-memory-compute/) | `18 pts` | `@muxamilian` |
+| [Anthropic hits $2T in Nasdaq debut](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/) | `519 pts` | `@wslh` |
+| [Claude solves two open problems in the physics of black holes](https://www.anthropic.com/research/claude-black-hole-physics) | `226 pts` | `@cybermango` |
+| [Pancreatic cancer halted by virus injection in three patients](https://scienceinhand.com/pancreatic-cancer-halted-by-virus-injection-in-three-patients/) | `153 pts` | `@cybermango` |
+| [The 98% Slot Machine: How Paid Advertising Became an Extraction Tax](https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine) | `48 pts` | `@dev1one1` |
+| [Garage Door Spam](https://blog.harrison.page/garage-door-spam/) | `612 pts` | `@harrisonpage` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-11-19 07:05:31 UTC`*
+*Last automated pipeline execution: `2026-11-19 20:25:35 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
