@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Unauthenticated remote code execution in Nginx](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities) | `707 pts` | `@speedping` |
-| [Scottish HTTP Codes](https://underwood.network/http/scots.html) | `172 pts` | `@mooreds` |
-| [Seven new models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/) | `306 pts` | `@gmays` |
-| [Inside Deutsche Bank](https://www.inside-db.com/) | `365 pts` | `@gyre007` |
-| [Genie 4 is now available](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/) | `89 pts` | `@leumon` |
+| [Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/) | `705 pts` | `@yigitdemirag` |
+| [Unauthenticated remote code execution in Nginx](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities) | `1286 pts` | `@speedping` |
+| [Multiple vulnerabilities in Regexp and String case conversion](https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/) | `197 pts` | `@runesoerensen` |
+| [15M web servers on one VM – smoltcp, DPDK, AF_XDP](https://kapteko.com/15-million-webservers/) | `16 pts` | `@fessguid` |
+| [Axelera Titania Brings Native FP8 and FP4 to In-Memory Compute](https://futurumgroup.com/insights/axelera-titania-brings-native-fp8-and-fp4-to-in-memory-compute/) | `18 pts` | `@muxamilian` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-11-18 20:21:08 UTC`*
+*Last automated pipeline execution: `2026-11-19 07:05:31 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
