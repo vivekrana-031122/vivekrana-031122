@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Anthropic hits $2T in Nasdaq debut](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/) | `519 pts` | `@wslh` |
-| [Claude solves two open problems in the physics of black holes](https://www.anthropic.com/research/claude-black-hole-physics) | `226 pts` | `@cybermango` |
-| [Pancreatic cancer halted by virus injection in three patients](https://scienceinhand.com/pancreatic-cancer-halted-by-virus-injection-in-three-patients/) | `153 pts` | `@cybermango` |
-| [The 98% Slot Machine: How Paid Advertising Became an Extraction Tax](https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine) | `48 pts` | `@dev1one1` |
-| [Garage Door Spam](https://blog.harrison.page/garage-door-spam/) | `612 pts` | `@harrisonpage` |
+| [OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)](https://github.com/openssl/openssl/pull/33652) | `145 pts` | `@JacobHenner` |
+| [Google is pushing OEMs against GrapheneOS and bootloader unlocking](https://grapheneos.social/@GrapheneOS/117645038299496084) | `179 pts` | `@mraniki` |
+| [Jujutsu Primer](https://ethanlowman.com/posts/jj-primer/) | `21 pts` | `@renehsz` |
+| [Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup](https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/) | `55 pts` | `@craigkerstiens` |
+| [Bit Shifting in Basic](https://subethasoftware.com/2020/06/11/bit-shifting-in-basic/) | `18 pts` | `@efren6` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-11-19 20:25:35 UTC`*
+*Last automated pipeline execution: `2026-11-20 06:56:58 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
