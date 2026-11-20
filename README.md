@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)](https://github.com/openssl/openssl/pull/33652) | `145 pts` | `@JacobHenner` |
-| [Google is pushing OEMs against GrapheneOS and bootloader unlocking](https://grapheneos.social/@GrapheneOS/117645038299496084) | `179 pts` | `@mraniki` |
-| [Jujutsu Primer](https://ethanlowman.com/posts/jj-primer/) | `21 pts` | `@renehsz` |
-| [Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup](https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/) | `55 pts` | `@craigkerstiens` |
-| [Bit Shifting in Basic](https://subethasoftware.com/2020/06/11/bit-shifting-in-basic/) | `18 pts` | `@efren6` |
+| [Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/) | `533 pts` | `@jasondavies` |
+| [Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf) | `1933 pts` | `@iamronaldo` |
+| [Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885) | `233 pts` | `@lwhsiao` |
+| [Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis](https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/) | `131 pts` | `@archon1410` |
+| [We promoted developers into architects without informing them](https://manidoraisamy.com/developer-to-architect.html) | `76 pts` | `@QueensGambit` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-11-20 06:56:58 UTC`*
+*Last automated pipeline execution: `2026-11-20 19:56:28 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
