@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/) | `1862 pts` | `@jasondavies` |
-| [Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf) | `2521 pts` | `@iamronaldo` |
-| [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/) | `888 pts` | `@jasondavies` |
-| [ClawDOS – An AI coding agent for DOS](http://ricapar.net/ClawDOS/) | `10 pts` | `@Ricapar` |
-| [NINLIVE: The Nine Inch Nails live archive](https://ninlive.com/) | `211 pts` | `@CharlesW` |
+| [Inkling-2-Mini in 5.4 GB Memory](https://github.com/ShinMegamiBoson/lookatmyquant) | `56 pts` | `@k__` |
+| [Detonating a pile of lead azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really) | `371 pts` | `@beginning_end` |
+| [Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/) | `498 pts` | `@g-b-r` |
+| [Brazil's tax authority open-sources its tax calculator on GitHub under MIT](https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria) | `516 pts` | `@dvaplima` |
+| [Jensen Huang's fall is bad news for Silicon Valley's accelerationists](https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists) | `85 pts` | `@andsoitis` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-11-21 06:51:47 UTC`*
+*Last automated pipeline execution: `2026-11-21 19:01:41 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
