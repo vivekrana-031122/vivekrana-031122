@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/) | `533 pts` | `@jasondavies` |
-| [Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf) | `1933 pts` | `@iamronaldo` |
-| [Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885) | `233 pts` | `@lwhsiao` |
-| [Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis](https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/) | `131 pts` | `@archon1410` |
-| [We promoted developers into architects without informing them](https://manidoraisamy.com/developer-to-architect.html) | `76 pts` | `@QueensGambit` |
+| [Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/) | `1862 pts` | `@jasondavies` |
+| [Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf) | `2521 pts` | `@iamronaldo` |
+| [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/) | `888 pts` | `@jasondavies` |
+| [ClawDOS – An AI coding agent for DOS](http://ricapar.net/ClawDOS/) | `10 pts` | `@Ricapar` |
+| [NINLIVE: The Nine Inch Nails live archive](https://ninlive.com/) | `211 pts` | `@CharlesW` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-11-20 19:56:28 UTC`*
+*Last automated pipeline execution: `2026-11-21 06:51:47 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
