@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Toyota, Nissan, and Honda to standardize parts to lower costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/) | `217 pts` | `@zdw` |
-| [Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'](https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib) | `854 pts` | `@rafaelc` |
-| [Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/) | `939 pts` | `@g-b-r` |
-| [Sandwich Simulator](https://stulle.app/) | `131 pts` | `@subdomain` |
-| [Inkling-2-Mini in 5.4 GB Memory](https://github.com/ShinMegamiBoson/lookatmyquant) | `423 pts` | `@k__` |
+| [Perplexity and Intelligence](https://openai.com/index/perplexity-and-intelligence/) | `213 pts` | `@acossta` |
+| ["A government that 'gets it'": Canada recommits to federal funding for news](https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/) | `9 pts` | `@DeepLogin` |
+| [Toyota, Nissan, and Honda to standardize parts to lower costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/) | `1035 pts` | `@zdw` |
+| [Show HN: I built a game where you are an LLM's subagent](https://github.com/gulivan/worker755) | `177 pts` | `@ivantgam` |
+| [Open Social Web Alliance](https://osw-alliance.net/en/) | `154 pts` | `@doener` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-11-22 06:25:18 UTC`*
+*Last automated pipeline execution: `2026-11-22 19:26:00 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
