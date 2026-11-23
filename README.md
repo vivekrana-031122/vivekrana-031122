@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Free alternative TV network built from the Internet Archive's forgotten videos](https://spelunkr.tv) | `401 pts` | `@SockThief` |
-| [XNU Linux: Full OS X GUI Userspace on Linux](https://github.com/AFK-surf/xnulinux) | `161 pts` | `@mmastrac` |
-| [Masullo on the Riemann Hypothesis](https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/) | `180 pts` | `@xiaoyu2006` |
-| [A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth) | `418 pts` | `@Retell15` |
-| [A Partial Evaluator for C](https://phoenix.labri.fr/software/tempo/) | `29 pts` | `@measurablefunc` |
+| [Nvidia Reinstates Jensen Huang as CEO](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html) | `1912 pts` | `@jaz` |
+| [Stalwart is now a drop-in replacement for Microsoft Exchange](https://stalw.art/blog/microsoft-exchange-replacement/) | `75 pts` | `@shaunpud` |
+| [Ladybird is now in alpha](https://ladybird.org/posts/alpha/) | `1284 pts` | `@janvdberg` |
+| [Levent Alpöge comments on his Riemann Hypothesis proof](https://twitter.com/__alpoge__/status/2124987173439209561) | `44 pts` | `@Dylan1312` |
+| [VP ≠ VNP over Every Field](https://github.com/anthropics/formal-math/tree/main/vp-vnp) | `145 pts` | `@mikeryan52` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-11-23 07:16:23 UTC`*
+*Last automated pipeline execution: `2026-11-23 23:45:02 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
