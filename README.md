@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Perplexity and Intelligence](https://openai.com/index/perplexity-and-intelligence/) | `213 pts` | `@acossta` |
-| ["A government that 'gets it'": Canada recommits to federal funding for news](https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/) | `9 pts` | `@DeepLogin` |
-| [Toyota, Nissan, and Honda to standardize parts to lower costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/) | `1035 pts` | `@zdw` |
-| [Show HN: I built a game where you are an LLM's subagent](https://github.com/gulivan/worker755) | `177 pts` | `@ivantgam` |
-| [Open Social Web Alliance](https://osw-alliance.net/en/) | `154 pts` | `@doener` |
+| [Free alternative TV network built from the Internet Archive's forgotten videos](https://spelunkr.tv) | `401 pts` | `@SockThief` |
+| [XNU Linux: Full OS X GUI Userspace on Linux](https://github.com/AFK-surf/xnulinux) | `161 pts` | `@mmastrac` |
+| [Masullo on the Riemann Hypothesis](https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/) | `180 pts` | `@xiaoyu2006` |
+| [A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth) | `418 pts` | `@Retell15` |
+| [A Partial Evaluator for C](https://phoenix.labri.fr/software/tempo/) | `29 pts` | `@measurablefunc` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-11-22 19:26:00 UTC`*
+*Last automated pipeline execution: `2026-11-23 07:16:23 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
