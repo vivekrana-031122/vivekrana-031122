@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Nvidia Reinstates Jensen Huang as CEO](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html) | `1912 pts` | `@jaz` |
-| [Stalwart is now a drop-in replacement for Microsoft Exchange](https://stalw.art/blog/microsoft-exchange-replacement/) | `75 pts` | `@shaunpud` |
-| [Ladybird is now in alpha](https://ladybird.org/posts/alpha/) | `1284 pts` | `@janvdberg` |
-| [Levent Alpöge comments on his Riemann Hypothesis proof](https://twitter.com/__alpoge__/status/2124987173439209561) | `44 pts` | `@Dylan1312` |
-| [VP ≠ VNP over Every Field](https://github.com/anthropics/formal-math/tree/main/vp-vnp) | `145 pts` | `@mikeryan52` |
+| [2035 Came Early](https://fzakaria.com/2026/11/23/2035-came-early) | `166 pts` | `@setheron` |
+| [Ladybird is now in alpha](https://ladybird.org/posts/alpha/) | `1921 pts` | `@janvdberg` |
+| [Stalwart is now a drop-in replacement for Microsoft Exchange](https://stalw.art/blog/microsoft-exchange-replacement/) | `461 pts` | `@shaunpud` |
+| [AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years](https://www.phoronix.com/review/amd-epyc-9006-7601) | `71 pts` | `@zdw` |
+| [Nvidia Reinstates Jensen Huang as CEO](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html) | `2547 pts` | `@jaz` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-11-23 23:45:02 UTC`*
+*Last automated pipeline execution: `2026-11-24 09:39:18 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
