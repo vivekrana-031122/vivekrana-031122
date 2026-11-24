@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [2035 Came Early](https://fzakaria.com/2026/11/23/2035-came-early) | `166 pts` | `@setheron` |
-| [Ladybird is now in alpha](https://ladybird.org/posts/alpha/) | `1921 pts` | `@janvdberg` |
-| [Stalwart is now a drop-in replacement for Microsoft Exchange](https://stalw.art/blog/microsoft-exchange-replacement/) | `461 pts` | `@shaunpud` |
-| [AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years](https://www.phoronix.com/review/amd-epyc-9006-7601) | `71 pts` | `@zdw` |
-| [Nvidia Reinstates Jensen Huang as CEO](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html) | `2547 pts` | `@jaz` |
+| [Ternary Bonsai 2.5 27B](https://prismml.com/news/bonsai-2-5-27b) | `180 pts` | `@b0m` |
+| [Launch HN: Versine (YC F26) – MCP to send and receive money](https://news.ycombinator.com/item?id=50634426) | `36 pts` | `@harshithl1777` |
+| [Working with AI](https://www.anthropic.com/research/working-with-ai) | `47 pts` | `@kagaherk` |
+| [Active intrusion campaign against Check Point security management servers](https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign) | `235 pts` | `@louiereederson` |
+| [The Spray Bottle](https://mechanical-pencil.com/products/spray-bottle) | `282 pts` | `@vinhnx` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-11-24 09:39:18 UTC`*
+*Last automated pipeline execution: `2026-11-24 22:16:27 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
