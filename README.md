@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Matrix Multiplication is Θ(n^2.25) [pdf]](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf) | `536 pts` | `@E-Reverance` |
-| [Button Sounds – collection of professionally-recorded button clicks and presses](https://buttons.joshwcomeau.com/) | `279 pts` | `@gaurang_tandon` |
-| [Models Can Communicate via Inference Servers Despite Being Sandboxed](https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being) | `184 pts` | `@gmays` |
-| [Show HN: Old Nvidia and ATI tech demos, running again in the browser](https://gpu-demo-gallery.pages.dev/) | `73 pts` | `@arkits` |
-| [Ternary Bonsai 2.5 27B](https://prismml.com/news/bonsai-2-5-27b) | `430 pts` | `@b0m` |
+| [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident) | `794 pts` | `@lxhrstn` |
+| [Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening](https://scottaaronson.blog/?p=10379) | `498 pts` | `@Kotlopou` |
+| [A few questions for the guy who went snorkeling in a Home Depot retention pond](https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts) | `381 pts` | `@gumby` |
+| [GPT-6.2 Astra is the first model to beat Googlers' code golf records](https://bjin.github.io/go-codegolf-benchmark/#leaderboard) | `51 pts` | `@bjin` |
+| [SSH is a GUI framework](https://zydra.sh/articles/ssh-is-a-gui-framework/) | `67 pts` | `@teledream` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-11-25 08:10:51 UTC`*
+*Last automated pipeline execution: `2026-11-25 21:32:57 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
