@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Ternary Bonsai 2.5 27B](https://prismml.com/news/bonsai-2-5-27b) | `180 pts` | `@b0m` |
-| [Launch HN: Versine (YC F26) – MCP to send and receive money](https://news.ycombinator.com/item?id=50634426) | `36 pts` | `@harshithl1777` |
-| [Working with AI](https://www.anthropic.com/research/working-with-ai) | `47 pts` | `@kagaherk` |
-| [Active intrusion campaign against Check Point security management servers](https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign) | `235 pts` | `@louiereederson` |
-| [The Spray Bottle](https://mechanical-pencil.com/products/spray-bottle) | `282 pts` | `@vinhnx` |
+| [Matrix Multiplication is Θ(n^2.25) [pdf]](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf) | `536 pts` | `@E-Reverance` |
+| [Button Sounds – collection of professionally-recorded button clicks and presses](https://buttons.joshwcomeau.com/) | `279 pts` | `@gaurang_tandon` |
+| [Models Can Communicate via Inference Servers Despite Being Sandboxed](https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being) | `184 pts` | `@gmays` |
+| [Show HN: Old Nvidia and ATI tech demos, running again in the browser](https://gpu-demo-gallery.pages.dev/) | `73 pts` | `@arkits` |
+| [Ternary Bonsai 2.5 27B](https://prismml.com/news/bonsai-2-5-27b) | `430 pts` | `@b0m` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-11-24 22:16:27 UTC`*
+*Last automated pipeline execution: `2026-11-25 08:10:51 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
