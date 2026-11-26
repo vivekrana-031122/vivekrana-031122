@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening](https://scottaaronson.blog/?p=10379) | `1382 pts` | `@Kotlopou` |
-| [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident) | `1377 pts` | `@lxhrstn` |
-| [Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years](https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/) | `58 pts` | `@joonehur` |
-| [Mirror life is dangerous. Regulators must act before it becomes real](https://www.economist.com/leaders/2026/10/01/mirror-life-is-dangerous-regulators-must-act-before-it-becomes-real) | `15 pts` | `@trakkstar` |
-| [Much shorter version of GRH Lean verification from Anthropic](https://github.com/lsernau/grh-lean) | `425 pts` | `@nb-t` |
+| [AMD Specific Patches for Llama.cpp](https://devnull.land/amd-specific-llama-cpp) | `195 pts` | `@julianlam` |
+| [CTO of 'RansomwareHelp' Indicted for Wire Fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/) | `138 pts` | `@Bender` |
+| [YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays](https://github.com/antonpictures/youtube-punisher) | `131 pts` | `@iantongeorge` |
+| [Show HN: Fuck_data_brokers.py](https://github.com/gary23w/f-ck_data_brokers) | `103 pts` | `@gary23w` |
+| [Rvoip 0.5 the complete VoIP stack in Rust](https://github.com/eisenzopf/rvoip) | `20 pts` | `@zerosegfaults` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-11-26 07:58:41 UTC`*
+*Last automated pipeline execution: `2026-11-26 21:20:40 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
