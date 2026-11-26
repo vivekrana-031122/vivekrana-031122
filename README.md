@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident) | `794 pts` | `@lxhrstn` |
-| [Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening](https://scottaaronson.blog/?p=10379) | `498 pts` | `@Kotlopou` |
-| [A few questions for the guy who went snorkeling in a Home Depot retention pond](https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts) | `381 pts` | `@gumby` |
-| [GPT-6.2 Astra is the first model to beat Googlers' code golf records](https://bjin.github.io/go-codegolf-benchmark/#leaderboard) | `51 pts` | `@bjin` |
-| [SSH is a GUI framework](https://zydra.sh/articles/ssh-is-a-gui-framework/) | `67 pts` | `@teledream` |
+| [Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening](https://scottaaronson.blog/?p=10379) | `1382 pts` | `@Kotlopou` |
+| [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident) | `1377 pts` | `@lxhrstn` |
+| [Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years](https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/) | `58 pts` | `@joonehur` |
+| [Mirror life is dangerous. Regulators must act before it becomes real](https://www.economist.com/leaders/2026/10/01/mirror-life-is-dangerous-regulators-must-act-before-it-becomes-real) | `15 pts` | `@trakkstar` |
+| [Much shorter version of GRH Lean verification from Anthropic](https://github.com/lsernau/grh-lean) | `425 pts` | `@nb-t` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-11-25 21:32:57 UTC`*
+*Last automated pipeline execution: `2026-11-26 07:58:41 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
