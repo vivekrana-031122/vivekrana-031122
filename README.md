@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [AMD Specific Patches for Llama.cpp](https://devnull.land/amd-specific-llama-cpp) | `195 pts` | `@julianlam` |
-| [CTO of 'RansomwareHelp' Indicted for Wire Fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/) | `138 pts` | `@Bender` |
-| [YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays](https://github.com/antonpictures/youtube-punisher) | `131 pts` | `@iantongeorge` |
-| [Show HN: Fuck_data_brokers.py](https://github.com/gary23w/f-ck_data_brokers) | `103 pts` | `@gary23w` |
-| [Rvoip 0.5 the complete VoIP stack in Rust](https://github.com/eisenzopf/rvoip) | `20 pts` | `@zerosegfaults` |
+| [The group chat where your AI talks behind your back](https://construct22.com/) | `78 pts` | `@utiiiD` |
+| [The need for a formally verifiable mainstream programming language](https://blainehansen.me/post/mainstream-verifiable-language/) | `102 pts` | `@todsacerdoti` |
+| [AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting) | `594 pts` | `@jlelse` |
+| [YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays](https://github.com/antonpictures/youtube-punisher) | `364 pts` | `@iantongeorge` |
+| [Hard Drive pricing has gotten bad](https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/) | `299 pts` | `@zdw` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-11-26 21:20:40 UTC`*
+*Last automated pipeline execution: `2026-11-27 08:00:33 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
