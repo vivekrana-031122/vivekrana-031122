@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [The group chat where your AI talks behind your back](https://construct22.com/) | `78 pts` | `@utiiiD` |
-| [The need for a formally verifiable mainstream programming language](https://blainehansen.me/post/mainstream-verifiable-language/) | `102 pts` | `@todsacerdoti` |
-| [AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting) | `594 pts` | `@jlelse` |
-| [YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays](https://github.com/antonpictures/youtube-punisher) | `364 pts` | `@iantongeorge` |
-| [Hard Drive pricing has gotten bad](https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/) | `299 pts` | `@zdw` |
+| [Credit card skimming scripts using WebRTC found on popular shopping sites](https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer) | `281 pts` | `@scanr` |
+| [Convex skills send the user's app idea to a remote server without telling them](https://github.com/convex/convex-backend-skill/issues/64) | `117 pts` | `@MickyTheMouse` |
+| [GPT 6.2 Astra Solves a Historical Mystery](https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical) | `60 pts` | `@dr_red_dog` |
+| [Citroën Hydraulic System](https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html) | `41 pts` | `@o4c` |
+| [Show HN: bouncemarket – a live prediction market game for a bouncing ball](https://bouncemarket.minhanhday.com/) | `290 pts` | `@mday404` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-11-27 08:00:33 UTC`*
+*Last automated pipeline execution: `2026-11-27 21:01:31 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
