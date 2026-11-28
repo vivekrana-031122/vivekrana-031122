@@ -123,17 +123,17 @@ This section is automatically updated by a **GitHub Actions runner** that execut
 #### 📰 Trending Tech Headlines (Scraped from Hacker News)
 | Headline | Score | Scraped By |
 | :--- | :---: | :---: |
-| [Credit card skimming scripts using WebRTC found on popular shopping sites](https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer) | `281 pts` | `@scanr` |
-| [Convex skills send the user's app idea to a remote server without telling them](https://github.com/convex/convex-backend-skill/issues/64) | `117 pts` | `@MickyTheMouse` |
-| [GPT 6.2 Astra Solves a Historical Mystery](https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical) | `60 pts` | `@dr_red_dog` |
-| [Citroën Hydraulic System](https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html) | `41 pts` | `@o4c` |
-| [Show HN: bouncemarket – a live prediction market game for a bouncing ball](https://bouncemarket.minhanhday.com/) | `290 pts` | `@mday404` |
+| [Unkernel: Real Linux kernel, compiled to WebAssembly](https://unkernel.dev) | `166 pts` | `@nreece` |
+| [Loom seamlessly combines weaving, knitting and braiding](https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding) | `39 pts` | `@PaulHoule` |
+| [Google's DeepCrossAttention achieves comparable model quality up to 3x faster](https://research.google/blog/supercharging-transformer-residual-connections/) | `312 pts` | `@ComputedCamp995` |
+| [The Balatro Timeline](https://localthunk.com/blog/balatro-timeline-3aarh) | `266 pts` | `@sheepscreek` |
+| [GPT 6.2 Astra Solves a Historical Mystery](https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical) | `414 pts` | `@dr_red_dog` |
 
 <p align="center">
   <img src="scraped_activity.svg" alt="Scraper Activity Monitor" width="480"/>
 </p>
 
-*Last automated pipeline execution: `2026-11-27 21:01:31 UTC`*
+*Last automated pipeline execution: `2026-11-28 07:29:54 UTC`*
 <!-- DASHBOARD_END -->
 
 ---
